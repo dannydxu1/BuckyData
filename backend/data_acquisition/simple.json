@@ -1,0 +1,8501 @@
+[
+    {
+        "Course Total": 70.0,
+        "Numbers": [
+            42.9,
+            24.3,
+            22.9,
+            4.3,
+            4.3
+        ],
+        "Average GPA": 3.493,
+        "Course Title": "Renewable Energy Systems"
+    },
+    {
+        "Course Total": 215.0,
+        "Numbers": [
+            61.9,
+            20.0,
+            7.4,
+            3.3,
+            1.4,
+            1.9,
+            4.2
+        ],
+        "Average GPA": 3.526,
+        "Course Title": "Science and Storytelling"
+    },
+    {
+        "Course Total": 40.0,
+        "Numbers": [
+            82.5,
+            7.5,
+            2.5,
+            2.5,
+            5.0
+        ],
+        "Average GPA": 3.8,
+        "Course Title": "Intro-Scientific Communication"
+    },
+    {
+        "Course Total": 38.0,
+        "Numbers": [
+            97.4,
+            2.6
+        ],
+        "Average GPA": 3.987,
+        "Course Title": "Scientific Writing"
+    },
+    {
+        "Course Total": 23.0,
+        "Numbers": [
+            65.2,
+            13.0,
+            17.4,
+            4.3
+        ],
+        "Average GPA": 3.696,
+        "Course Title": "Hlth Communication-Info Age"
+    },
+    {
+        "Course Total": 127.0,
+        "Numbers": [
+            30.7,
+            17.3,
+            43.3,
+            6.3,
+            2.4
+        ],
+        "Average GPA": 3.339,
+        "Course Title": "General Microbiology Lab"
+    },
+    {
+        "Course Total": 16.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Independent Study"
+    },
+    {
+        "Course Total": 135.0,
+        "Numbers": [
+            26.7,
+            15.6,
+            37.8,
+            8.9,
+            8.9,
+            1.5
+        ],
+        "Average GPA": 3.183,
+        "Course Title": "Biology of Microorganisms Lab"
+    },
+    {
+        "Course Total": 46.0,
+        "Numbers": [
+            97.8
+        ],
+        "Average GPA": 3.967,
+        "Course Title": "Critical Analyses-Microbiology"
+    },
+    {
+        "Course Total": 33.0,
+        "Numbers": [
+            78.8,
+            18.2,
+            3.0
+        ],
+        "Average GPA": 3.883,
+        "Course Title": "Special Problems"
+    },
+    {
+        "Course Total": 18.0,
+        "Numbers": [
+            88.9,
+            5.6
+        ],
+        "Average GPA": 3.889,
+        "Course Title": "Special Topics"
+    },
+    {
+        "Course Total": 60.0,
+        "Numbers": [
+            88.3,
+            6.7,
+            1.7,
+            1.7,
+            1.7
+        ],
+        "Average GPA": 3.892,
+        "Course Title": "Biochemistry Freshman Seminar"
+    },
+    {
+        "Course Total": 25.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Independent Study"
+    },
+    {
+        "Course Total": 611.0,
+        "Numbers": [
+            55.8,
+            18.2,
+            12.8,
+            3.4,
+            7.5,
+            1.3,
+            0.2,
+            0.8
+        ],
+        "Average GPA": 3.53,
+        "Course Title": "Introduction-Biochemistry"
+    },
+    {
+        "Course Total": 40.0,
+        "Numbers": [
+            95.0,
+            2.5
+        ],
+        "Average GPA": 3.989,
+        "Course Title": "Special Problems"
+    },
+    {
+        "Course Total": 61.0,
+        "Numbers": [
+            98.4
+        ],
+        "Average GPA": 3.987,
+        "Course Title": "Advanced Topics"
+    },
+    {
+        "Course Total": 16.0,
+        "Numbers": [
+            93.8,
+            6.3
+        ],
+        "Average GPA": 3.968,
+        "Course Title": "Independent Study"
+    },
+    {
+        "Course Total": 13.0,
+        "Numbers": [
+            92.3,
+            7.7
+        ],
+        "Average GPA": 3.9,
+        "Course Title": "Special Topics"
+    },
+    {
+        "Course Total": 8.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Special Problems"
+    },
+    {
+        "Course Total": 201.0,
+        "Numbers": [
+            67.2,
+            26.4,
+            2.5,
+            0.5,
+            1.5,
+            1.0
+        ],
+        "Average GPA": 3.774,
+        "Course Title": "Insects and Human Culture"
+    },
+    {
+        "Course Total": 22.0,
+        "Numbers": [
+            90.9,
+            9.1
+        ],
+        "Average GPA": 3.962,
+        "Course Title": "Special Topics"
+    },
+    {
+        "Course Total": 13.0,
+        "Numbers": [
+            84.6,
+            7.7,
+            7.7
+        ],
+        "Average GPA": 3.859,
+        "Course Title": "Special Problems"
+    },
+    {
+        "Course Total": 18.0,
+        "Numbers": [
+            27.8,
+            5.6,
+            27.8,
+            11.1,
+            22.2,
+            5.6
+        ],
+        "Average GPA": 2.917,
+        "Course Title": "Food Microbiology Laboratory"
+    },
+    {
+        "Course Total": 50.0,
+        "Numbers": [
+            70.0,
+            20.0,
+            10.0
+        ],
+        "Average GPA": 3.8,
+        "Course Title": "Forest Ecology"
+    },
+    {
+        "Course Total": 9.0,
+        "Numbers": [
+            44.4,
+            22.2,
+            33.3
+        ],
+        "Average GPA": 3.556,
+        "Course Title": "Stat Meth for Bioscience I"
+    },
+    {
+        "Course Total": 8.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Special Problems"
+    },
+    {
+        "Course Total": 13.0,
+        "Numbers": [
+            92.3
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Special Topics"
+    },
+    {
+        "Course Total": 238.0,
+        "Numbers": [
+            63.9,
+            17.2,
+            12.6,
+            2.1,
+            1.3,
+            0.4,
+            1.3,
+            1.3
+        ],
+        "Average GPA": 3.664,
+        "Course Title": "Genetics in the News"
+    },
+    {
+        "Course Total": 121.0,
+        "Numbers": [
+            89.3,
+            5.0,
+            1.7,
+            0.8
+        ],
+        "Average GPA": 3.831,
+        "Course Title": "Freshman Seminar in Genetics"
+    },
+    {
+        "Course Total": 21.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Independent Study"
+    },
+    {
+        "Course Total": 30.0,
+        "Numbers": [
+            93.3,
+            3.3
+        ],
+        "Average GPA": 3.93,
+        "Course Title": "Communicating Evolutionary Bio"
+    },
+    {
+        "Course Total": 43.0,
+        "Numbers": [
+            93.0,
+            2.3,
+            2.3
+        ],
+        "Average GPA": 3.965,
+        "Course Title": "Special Problems"
+    },
+    {
+        "Course Total": 7.0,
+        "Numbers": [
+            57.1,
+            28.6,
+            14.3
+        ],
+        "Average GPA": 3.714,
+        "Course Title": "Stat Meth for Bioscience I"
+    },
+    {
+        "Course Total": 9.0,
+        "Numbers": [
+            77.8,
+            11.1,
+            11.1
+        ],
+        "Average GPA": 3.786,
+        "Course Title": "Special Problems"
+    },
+    {
+        "Course Total": 6.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Independent Study"
+    },
+    {
+        "Course Total": 21.0,
+        "Numbers": [
+            57.1,
+            9.5,
+            19.0
+        ],
+        "Average GPA": 3.553,
+        "Course Title": "Special Topics"
+    },
+    {
+        "Course Total": 14.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Special Problems"
+    },
+    {
+        "Course Total": 646.0,
+        "Numbers": [
+            62.8,
+            13.5,
+            9.8,
+            6.2,
+            3.3,
+            3.7,
+            0.8
+        ],
+        "Average GPA": 3.535,
+        "Course Title": "Nutrition Today"
+    },
+    {
+        "Course Total": 10.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Independent Study"
+    },
+    {
+        "Course Total": 10.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Special Problems"
+    },
+    {
+        "Course Total": 6.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Independent Study"
+    },
+    {
+        "Course Total": 7.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Special Problems"
+    },
+    {
+        "Course Total": 10.0,
+        "Numbers": [
+            40.0,
+            60.0
+        ],
+        "Average GPA": 3.7,
+        "Course Title": "The Sociological Enterprise"
+    },
+    {
+        "Course Total": 11.0,
+        "Numbers": [
+            27.3,
+            27.3,
+            9.1,
+            18.2,
+            9.1
+        ],
+        "Average GPA": 3.25,
+        "Course Title": "Classical Soc Theory"
+    },
+    {
+        "Course Total": 6.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Special Topics"
+    },
+    {
+        "Course Total": 26.0,
+        "Numbers": [
+            61.5,
+            26.9,
+            7.7
+        ],
+        "Average GPA": 3.712,
+        "Course Title": "Heritage and Values I"
+    },
+    {
+        "Course Total": 11.0,
+        "Numbers": [
+            90.9,
+            9.1
+        ],
+        "Average GPA": 3.955,
+        "Course Title": "Team, Leadrshp Fundamentals I"
+    },
+    {
+        "Course Total": 30.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Foundations of Officership"
+    },
+    {
+        "Course Total": 29.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Individual Leadership Studies"
+    },
+    {
+        "Course Total": 16.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Leadership and Management"
+    },
+    {
+        "Course Total": 1215.0,
+        "Numbers": [
+            88.8,
+            5.4,
+            3.4,
+            0.8,
+            1.0,
+            0.2,
+            0.3
+        ],
+        "Average GPA": 3.886,
+        "Course Title": "Pers & Prof Foundation in Bus"
+    },
+    {
+        "Course Total": 65.0,
+        "Numbers": [
+            36.9,
+            36.9,
+            26.2
+        ],
+        "Average GPA": 3.554,
+        "Course Title": "Bus Orgs&Negotiable Instrumnts"
+    },
+    {
+        "Course Total": 587.0,
+        "Numbers": [
+            19.8,
+            19.6,
+            28.4,
+            22.1,
+            9.2,
+            0.5,
+            0.2
+        ],
+        "Average GPA": 3.078,
+        "Course Title": "Business Analytics I"
+    },
+    {
+        "Course Total": 361.0,
+        "Numbers": [
+            24.9,
+            28.5,
+            17.2,
+            14.7,
+            5.5,
+            8.3
+        ],
+        "Average GPA": 3.098,
+        "Course Title": "Business Analytics II"
+    },
+    {
+        "Course Total": 345.0,
+        "Numbers": [
+            23.2,
+            35.7,
+            25.2,
+            6.1,
+            5.2,
+            2.0,
+            0.9,
+            1.7
+        ],
+        "Average GPA": 3.265,
+        "Course Title": "Mgmt & Mrktg Non-Bus Majors"
+    },
+    {
+        "Course Total": 400.0,
+        "Numbers": [
+            44.8,
+            45.3,
+            8.3,
+            1.0,
+            0.3
+        ],
+        "Average GPA": 3.66,
+        "Course Title": "Workplace Communication"
+    },
+    {
+        "Course Total": 24.0,
+        "Numbers": [
+            83.3,
+            12.5,
+            4.2
+        ],
+        "Average GPA": 3.896,
+        "Course Title": "Contemporary Topics"
+    },
+    {
+        "Course Total": 120.0,
+        "Numbers": [
+            52.5,
+            37.5,
+            8.3,
+            0.8
+        ],
+        "Average GPA": 3.683,
+        "Course Title": "Machine Learning-BusAnalytics"
+    },
+    {
+        "Course Total": 88.0,
+        "Numbers": [
+            26.1,
+            52.3,
+            21.6
+        ],
+        "Average GPA": 3.523,
+        "Course Title": "Data to Decisions"
+    },
+    {
+        "Course Total": 194.0,
+        "Numbers": [
+            41.8,
+            44.8,
+            12.9,
+            0.5
+        ],
+        "Average GPA": 3.615,
+        "Course Title": "Business Data Visualization"
+    },
+    {
+        "Course Total": 109.0,
+        "Numbers": [
+            71.6,
+            22.9,
+            4.6
+        ],
+        "Average GPA": 3.821,
+        "Course Title": "Prescriptive Modeling & Opt"
+    },
+    {
+        "Course Total": 169.0,
+        "Numbers": [
+            51.5,
+            35.5,
+            12.4,
+            0.6
+        ],
+        "Average GPA": 3.689,
+        "Course Title": "Expmnts CausMthds-"
+    },
+    {
+        "Course Total": 113.0,
+        "Numbers": [
+            40.7,
+            51.3,
+            7.1,
+            0.9
+        ],
+        "Average GPA": 3.659,
+        "Course Title": "Business Data Technology"
+    },
+    {
+        "Course Total": 110.0,
+        "Numbers": [
+            98.2
+        ],
+        "Average GPA": 3.982,
+        "Course Title": "Cloud Technology"
+    },
+    {
+        "Course Total": 566.0,
+        "Numbers": [
+            28.1,
+            12.0,
+            21.6,
+            16.6,
+            18.9,
+            1.1,
+            1.4
+        ],
+        "Average GPA": 3.005,
+        "Course Title": "Intro Financial Accounting"
+    },
+    {
+        "Course Total": 417.0,
+        "Numbers": [
+            23.0,
+            7.9,
+            44.6,
+            7.7,
+            15.1,
+            1.2,
+            0.2
+        ],
+        "Average GPA": 3.049,
+        "Course Title": "Intro Managerial Accounting"
+    },
+    {
+        "Course Total": 273.0,
+        "Numbers": [
+            27.8,
+            35.9,
+            18.3,
+            13.2,
+            3.3,
+            0.4,
+            1.1
+        ],
+        "Average GPA": 3.319,
+        "Course Title": "Accounting Principles"
+    },
+    {
+        "Course Total": 270.0,
+        "Numbers": [
+            24.8,
+            25.6,
+            35.9,
+            8.1,
+            5.2,
+            0.4
+        ],
+        "Average GPA": 3.276,
+        "Course Title": "Financial Reporting I"
+    },
+    {
+        "Course Total": 67.0,
+        "Numbers": [
+            20.9,
+            35.8,
+            31.3,
+            9.0,
+            3.0
+        ],
+        "Average GPA": 3.313,
+        "Course Title": "Financial Reporting II"
+    },
+    {
+        "Course Total": 50.0,
+        "Numbers": [
+            40.0,
+            22.0,
+            20.0,
+            8.0,
+            8.0,
+            2.0
+        ],
+        "Average GPA": 3.35,
+        "Course Title": "Cost Management Systems"
+    },
+    {
+        "Course Total": 123.0,
+        "Numbers": [
+            30.9,
+            20.3,
+            30.1,
+            13.8,
+            4.1,
+            0.8
+        ],
+        "Average GPA": 3.285,
+        "Course Title": "Accounting Systems"
+    },
+    {
+        "Course Total": 25.0,
+        "Numbers": [
+            32.0,
+            32.0,
+            32.0,
+            4.0
+        ],
+        "Average GPA": 3.46,
+        "Course Title": "Advanced Financial Reporting"
+    },
+    {
+        "Course Total": 80.0,
+        "Numbers": [
+            50.0,
+            28.8,
+            20.0
+        ],
+        "Average GPA": 3.652,
+        "Course Title": "Financial Statement Analysis"
+    },
+    {
+        "Course Total": 82.0,
+        "Numbers": [
+            24.4,
+            36.6,
+            28.0,
+            7.3,
+            3.7
+        ],
+        "Average GPA": 3.354,
+        "Course Title": "Fundamentals of Taxation"
+    },
+    {
+        "Course Total": 55.0,
+        "Numbers": [
+            21.8,
+            14.5,
+            43.6,
+            20.0
+        ],
+        "Average GPA": 3.191,
+        "Course Title": "Corporate & Advanced Taxation"
+    },
+    {
+        "Course Total": 74.0,
+        "Numbers": [
+            55.4,
+            18.9,
+            23.0,
+            2.7
+        ],
+        "Average GPA": 3.635,
+        "Course Title": "Audit and Assurance Services"
+    },
+    {
+        "Course Total": 133.0,
+        "Numbers": [
+            37.6,
+            45.9,
+            16.5
+        ],
+        "Average GPA": 3.605,
+        "Course Title": "Financial Accounting"
+    },
+    {
+        "Course Total": 7.0,
+        "Numbers": [
+            14.3,
+            42.9,
+            28.6
+        ],
+        "Average GPA": 3.417,
+        "Course Title": "Financial Reporting I"
+    },
+    {
+        "Course Total": 43.0,
+        "Numbers": [
+            46.5,
+            18.6,
+            34.9
+        ],
+        "Average GPA": 3.558,
+        "Course Title": "Adv Financial Reporting"
+    },
+    {
+        "Course Total": 92.0,
+        "Numbers": [
+            47.8,
+            28.3,
+            16.3,
+            7.6
+        ],
+        "Average GPA": 3.577,
+        "Course Title": "Managerial Accounting"
+    },
+    {
+        "Course Total": 54.0,
+        "Numbers": [
+            68.5,
+            27.8,
+            1.9,
+            1.9
+        ],
+        "Average GPA": 3.815,
+        "Course Title": "Smr:Financial Reporting Theory"
+    },
+    {
+        "Course Total": 450.0,
+        "Numbers": [
+            25.8,
+            17.3,
+            20.4,
+            16.7,
+            13.8,
+            3.6,
+            1.8,
+            0.4
+        ],
+        "Average GPA": 2.999,
+        "Course Title": "Introduction to Finance"
+    },
+    {
+        "Course Total": 238.0,
+        "Numbers": [
+            43.7,
+            33.6,
+            17.2,
+            3.4,
+            1.7
+        ],
+        "Average GPA": 3.559,
+        "Course Title": "Finc Mrkts,Instns&Econ Actv"
+    },
+    {
+        "Course Total": 211.0,
+        "Numbers": [
+            20.9,
+            29.9,
+            35.1,
+            9.5,
+            4.3
+        ],
+        "Average GPA": 3.269,
+        "Course Title": "Investment Theory"
+    },
+    {
+        "Course Total": 251.0,
+        "Numbers": [
+            26.7,
+            24.3,
+            35.5,
+            10.0,
+            2.4,
+            0.4
+        ],
+        "Average GPA": 3.309,
+        "Course Title": "Corporation Finance"
+    },
+    {
+        "Course Total": 185.0,
+        "Numbers": [
+            33.0,
+            22.2,
+            31.4,
+            9.2,
+            4.3
+        ],
+        "Average GPA": 3.351,
+        "Course Title": "Derivative Securities"
+    },
+    {
+        "Course Total": 83.0,
+        "Numbers": [
+            47.0,
+            31.3,
+            14.5,
+            3.6,
+            2.4
+        ],
+        "Average GPA": 3.597,
+        "Course Title": "Contemporary Topics"
+    },
+    {
+        "Course Total": 72.0,
+        "Numbers": [
+            30.6,
+            30.6,
+            30.6,
+            6.9
+        ],
+        "Average GPA": 3.382,
+        "Course Title": "Investmt Bankg & Capital Mrkts"
+    },
+    {
+        "Course Total": 60.0,
+        "Numbers": [
+            40.0,
+            20.0,
+            20.0,
+            8.3,
+            11.7
+        ],
+        "Average GPA": 3.342,
+        "Course Title": "Business Valuation"
+    },
+    {
+        "Course Total": 134.0,
+        "Numbers": [
+            65.7,
+            27.6,
+            6.7
+        ],
+        "Average GPA": 3.795,
+        "Course Title": "Intro to Financial Mgmnt"
+    },
+    {
+        "Course Total": 32.0,
+        "Numbers": [
+            50.0,
+            43.8,
+            3.1,
+            3.1
+        ],
+        "Average GPA": 3.703,
+        "Course Title": "Contemporary Topics"
+    },
+    {
+        "Course Total": 51.0,
+        "Numbers": [
+            39.2,
+            47.1,
+            11.8,
+            2.0
+        ],
+        "Average GPA": 3.618,
+        "Course Title": "Contemporary Topics"
+    },
+    {
+        "Course Total": 68.0,
+        "Numbers": [
+            38.2,
+            27.9,
+            26.5,
+            2.9,
+            4.4
+        ],
+        "Average GPA": 3.463,
+        "Course Title": "Computer-Based Data Mgt"
+    },
+    {
+        "Course Total": 200.0,
+        "Numbers": [
+            31.5,
+            32.5,
+            24.0,
+            6.0,
+            4.0,
+            0.5,
+            0.5,
+            0.5
+        ],
+        "Average GPA": 3.386,
+        "Course Title": "International Business"
+    },
+    {
+        "Course Total": 38.0,
+        "Numbers": [
+            73.7,
+            15.8,
+            5.3,
+            5.3
+        ],
+        "Average GPA": 3.789,
+        "Course Title": "Global Issues in Management"
+    },
+    {
+        "Course Total": 560.0,
+        "Numbers": [
+            18.9,
+            37.5,
+            29.8,
+            11.4,
+            2.0,
+            0.4
+        ],
+        "Average GPA": 3.293,
+        "Course Title": "Managing Organizations"
+    },
+    {
+        "Course Total": 151.0,
+        "Numbers": [
+            62.9,
+            9.3,
+            13.2,
+            3.3,
+            7.3,
+            1.3,
+            2.0
+        ],
+        "Average GPA": 3.503,
+        "Course Title": "Human Resource Management"
+    },
+    {
+        "Course Total": 41.0,
+        "Numbers": [
+            70.7,
+            26.8,
+            2.4
+        ],
+        "Average GPA": 3.841,
+        "Course Title": "Global Issues in Management"
+    },
+    {
+        "Course Total": 77.0,
+        "Numbers": [
+            77.9,
+            18.2,
+            1.3,
+            1.3
+        ],
+        "Average GPA": 3.825,
+        "Course Title": "Entrepreneurial Management"
+    },
+    {
+        "Course Total": 77.0,
+        "Numbers": [
+            54.5,
+            23.4,
+            18.2,
+            2.6,
+            1.3
+        ],
+        "Average GPA": 3.636,
+        "Course Title": "Strategic Management"
+    },
+    {
+        "Course Total": 101.0,
+        "Numbers": [
+            75.2,
+            22.8,
+            2.0
+        ],
+        "Average GPA": 3.859,
+        "Course Title": "Negotiations"
+    },
+    {
+        "Course Total": 71.0,
+        "Numbers": [
+            97.2,
+            2.8
+        ],
+        "Average GPA": 3.986,
+        "Course Title": "Leading and Working in Teams"
+    },
+    {
+        "Course Total": 43.0,
+        "Numbers": [
+            51.2,
+            34.9,
+            14.0
+        ],
+        "Average GPA": 3.686,
+        "Course Title": "Business Strategy"
+    },
+    {
+        "Course Total": 51.0,
+        "Numbers": [
+            84.3,
+            13.7,
+            2.0
+        ],
+        "Average GPA": 3.922,
+        "Course Title": "Contemporary Topics"
+    },
+    {
+        "Course Total": 756.0,
+        "Numbers": [
+            23.7,
+            33.6,
+            21.6,
+            12.0,
+            4.6,
+            2.9,
+            1.6
+        ],
+        "Average GPA": 3.192,
+        "Course Title": "Marketing Management"
+    },
+    {
+        "Course Total": 160.0,
+        "Numbers": [
+            45.6,
+            25.6,
+            16.3,
+            5.0,
+            4.4,
+            0.6
+        ],
+        "Average GPA": 3.516,
+        "Course Title": "Consumer Behavior"
+    },
+    {
+        "Course Total": 168.0,
+        "Numbers": [
+            22.0,
+            41.1,
+            26.2,
+            8.3,
+            2.4
+        ],
+        "Average GPA": 3.36,
+        "Course Title": "Marketing Research"
+    },
+    {
+        "Course Total": 142.0,
+        "Numbers": [
+            95.1,
+            2.8,
+            1.4,
+            0.7
+        ],
+        "Average GPA": 3.961,
+        "Course Title": "Brand Management & Strategy"
+    },
+    {
+        "Course Total": 171.0,
+        "Numbers": [
+            83.0,
+            15.2,
+            0.6,
+            0.6
+        ],
+        "Average GPA": 3.909,
+        "Course Title": "Marketing in a Digital Age"
+    },
+    {
+        "Course Total": 43.0,
+        "Numbers": [
+            44.2,
+            23.3,
+            23.3,
+            4.7,
+            4.7
+        ],
+        "Average GPA": 3.488,
+        "Course Title": "Marketing Communications"
+    },
+    {
+        "Course Total": 69.0,
+        "Numbers": [
+            76.8,
+            15.9,
+            5.8
+        ],
+        "Average GPA": 3.833,
+        "Course Title": "Fundamentls-Supply Chain Mgmt"
+    },
+    {
+        "Course Total": 70.0,
+        "Numbers": [
+            54.3,
+            35.7,
+            8.6,
+            1.4
+        ],
+        "Average GPA": 3.714,
+        "Course Title": "Logistics Management"
+    },
+    {
+        "Course Total": 106.0,
+        "Numbers": [
+            59.4,
+            28.3,
+            8.5,
+            3.8
+        ],
+        "Average GPA": 3.717,
+        "Course Title": "Marketing Strategy"
+    },
+    {
+        "Course Total": 132.0,
+        "Numbers": [
+            33.3,
+            43.9,
+            22.7
+        ],
+        "Average GPA": 3.553,
+        "Course Title": "Marketing Management"
+    },
+    {
+        "Course Total": 430.0,
+        "Numbers": [
+            17.9,
+            16.3,
+            32.8,
+            10.9,
+            16.3,
+            4.4,
+            0.5,
+            0.2
+        ],
+        "Average GPA": 2.94,
+        "Course Title": "Operations Management"
+    },
+    {
+        "Course Total": 37.0,
+        "Numbers": [
+            62.2,
+            24.3,
+            13.5
+        ],
+        "Average GPA": 3.743,
+        "Course Title": "Fundamentls-Supply Chain Mgmt"
+    },
+    {
+        "Course Total": 20.0,
+        "Numbers": [
+            70.0,
+            25.0,
+            5.0
+        ],
+        "Average GPA": 3.825,
+        "Course Title": "Logistics Management"
+    },
+    {
+        "Course Total": 81.0,
+        "Numbers": [
+            27.2,
+            28.4,
+            30.9,
+            8.6,
+            3.7,
+            1.2
+        ],
+        "Average GPA": 3.309,
+        "Course Title": "Service Operations Mgmt"
+    },
+    {
+        "Course Total": 133.0,
+        "Numbers": [
+            37.6,
+            30.1,
+            30.1,
+            2.3
+        ],
+        "Average GPA": 3.515,
+        "Course Title": "Operations Management"
+    },
+    {
+        "Course Total": 172.0,
+        "Numbers": [
+            54.1,
+            32.6,
+            11.6,
+            1.2,
+            0.6
+        ],
+        "Average GPA": 3.619,
+        "Course Title": "Project Management"
+    },
+    {
+        "Course Total": 275.0,
+        "Numbers": [
+            72.7,
+            19.3,
+            5.5,
+            1.1,
+            0.7,
+            0.4
+        ],
+        "Average GPA": 3.807,
+        "Course Title": "The Real Estate Process"
+    },
+    {
+        "Course Total": 162.0,
+        "Numbers": [
+            29.6,
+            25.9,
+            31.5,
+            8.0,
+            4.3,
+            0.6
+        ],
+        "Average GPA": 3.33,
+        "Course Title": "Real Estate Finance"
+    },
+    {
+        "Course Total": 116.0,
+        "Numbers": [
+            31.0,
+            19.8,
+            37.9,
+            6.0,
+            4.3,
+            0.9
+        ],
+        "Average GPA": 3.319,
+        "Course Title": "Valuation of Real Estate"
+    },
+    {
+        "Course Total": 140.0,
+        "Numbers": [
+            36.4,
+            37.9,
+            18.6,
+            5.7,
+            0.7
+        ],
+        "Average GPA": 3.522,
+        "Course Title": "Urban & Regional Economics"
+    },
+    {
+        "Course Total": 119.0,
+        "Numbers": [
+            68.1,
+            23.5,
+            5.0,
+            3.4
+        ],
+        "Average GPA": 3.782,
+        "Course Title": "Real Estate Law"
+    },
+    {
+        "Course Total": 37.0,
+        "Numbers": [
+            48.6,
+            29.7,
+            18.9,
+            2.7
+        ],
+        "Average GPA": 3.622,
+        "Course Title": "Real Estate Finance"
+    },
+    {
+        "Course Total": 55.0,
+        "Numbers": [
+            74.5,
+            20.0,
+            5.5
+        ],
+        "Average GPA": 3.845,
+        "Course Title": "Urban Economics"
+    },
+    {
+        "Course Total": 53.0,
+        "Numbers": [
+            24.5,
+            26.4,
+            24.5,
+            20.8,
+            1.9,
+            1.9
+        ],
+        "Average GPA": 3.217,
+        "Course Title": "Risk Financing Techniques"
+    },
+    {
+        "Course Total": 40.0,
+        "Numbers": [
+            35.0,
+            20.0,
+            17.5,
+            7.5,
+            12.5,
+            5.0,
+            2.5
+        ],
+        "Average GPA": 3.113,
+        "Course Title": "Theory of Interest"
+    },
+    {
+        "Course Total": 56.0,
+        "Numbers": [
+            19.6,
+            33.9,
+            12.5,
+            19.6,
+            7.1,
+            7.1
+        ],
+        "Average GPA": 3.054,
+        "Course Title": "Actuarial Mathematics I"
+    },
+    {
+        "Course Total": 55.0,
+        "Numbers": [
+            32.7,
+            20.0,
+            21.8,
+            10.9,
+            7.3,
+            3.6,
+            3.6
+        ],
+        "Average GPA": 3.118,
+        "Course Title": "Loss Models I"
+    },
+    {
+        "Course Total": 388.0,
+        "Numbers": [
+            28.4,
+            18.0,
+            14.9,
+            11.9,
+            16.8,
+            7.0,
+            2.3,
+            0.5
+        ],
+        "Average GPA": 2.938,
+        "Course Title": "Human Anatomy"
+    },
+    {
+        "Course Total": 204.0,
+        "Numbers": [
+            34.8,
+            25.0,
+            18.6,
+            8.3,
+            10.8,
+            1.5,
+            0.5
+        ],
+        "Average GPA": 3.281,
+        "Course Title": "Human Anatomy Laboratory"
+    },
+    {
+        "Course Total": 8.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Independent Study"
+    },
+    {
+        "Course Total": 11.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Independent Study"
+    },
+    {
+        "Course Total": 533.0,
+        "Numbers": [
+            88.4,
+            5.6,
+            2.1,
+            0.8,
+            2.1,
+            0.4,
+            0.2
+        ],
+        "Average GPA": 3.879,
+        "Course Title": "Introduction to Art"
+    },
+    {
+        "Course Total": 117.0,
+        "Numbers": [
+            79.5,
+            12.0,
+            4.3,
+            1.7,
+            2.6
+        ],
+        "Average GPA": 3.821,
+        "Course Title": "Two-Dimensional Design"
+    },
+    {
+        "Course Total": 68.0,
+        "Numbers": [
+            82.4,
+            10.3,
+            4.4
+        ],
+        "Average GPA": 3.873,
+        "Course Title": "Three-Dimensional Design"
+    },
+    {
+        "Course Total": 80.0,
+        "Numbers": [
+            82.5,
+            7.5,
+            2.5,
+            1.3
+        ],
+        "Average GPA": 3.763,
+        "Course Title": "Drawing I"
+    },
+    {
+        "Course Total": 61.0,
+        "Numbers": [
+            90.2,
+            4.9,
+            1.6,
+            3.3
+        ],
+        "Average GPA": 3.91,
+        "Course Title": "Digital Photo for Non-Majors"
+    },
+    {
+        "Course Total": 76.0,
+        "Numbers": [
+            78.9,
+            11.8,
+            5.3
+        ],
+        "Average GPA": 3.796,
+        "Course Title": "Drawing Methods & Concepts"
+    },
+    {
+        "Course Total": 21.0,
+        "Numbers": [
+            90.5,
+            9.5
+        ],
+        "Average GPA": 3.952,
+        "Course Title": "Sculpture I"
+    },
+    {
+        "Course Total": 35.0,
+        "Numbers": [
+            94.3
+        ],
+        "Average GPA": 3.857,
+        "Course Title": "Introduction to Painting"
+    },
+    {
+        "Course Total": 69.0,
+        "Numbers": [
+            92.8
+        ],
+        "Average GPA": 3.926,
+        "Course Title": "Ceramics I"
+    },
+    {
+        "Course Total": 31.0,
+        "Numbers": [
+            93.5,
+            3.2
+        ],
+        "Average GPA": 3.983,
+        "Course Title": "Art Metal I"
+    },
+    {
+        "Course Total": 26.0,
+        "Numbers": [
+            80.8,
+            7.7,
+            7.7
+        ],
+        "Average GPA": 3.731,
+        "Course Title": "Making Comics 1"
+    },
+    {
+        "Course Total": 18.0,
+        "Numbers": [
+            88.9,
+            11.1
+        ],
+        "Average GPA": 3.944,
+        "Course Title": "Wood Working"
+    },
+    {
+        "Course Total": 54.0,
+        "Numbers": [
+            57.4,
+            14.8,
+            11.1,
+            7.4,
+            7.4,
+            1.9
+        ],
+        "Average GPA": 3.5,
+        "Course Title": "Basic Graphic Design"
+    },
+    {
+        "Course Total": 26.0,
+        "Numbers": [
+            76.9,
+            19.2,
+            3.8
+        ],
+        "Average GPA": 3.865,
+        "Course Title": "Photography"
+    },
+    {
+        "Course Total": 30.0,
+        "Numbers": [
+            93.3,
+            6.7
+        ],
+        "Average GPA": 3.967,
+        "Course Title": "Digital Imaging Studio"
+    },
+    {
+        "Course Total": 38.0,
+        "Numbers": [
+            94.7,
+            2.6,
+            2.6
+        ],
+        "Average GPA": 3.941,
+        "Course Title": "Special Topics"
+    },
+    {
+        "Course Total": 32.0,
+        "Numbers": [
+            59.4,
+            21.9,
+            3.1,
+            6.3,
+            6.3
+        ],
+        "Average GPA": 3.516,
+        "Course Title": "Branding Design"
+    },
+    {
+        "Course Total": 31.0,
+        "Numbers": [
+            83.9,
+            9.7,
+            6.5
+        ],
+        "Average GPA": 3.887,
+        "Course Title": "Graphic Design for Posters"
+    },
+    {
+        "Course Total": 140.0,
+        "Numbers": [
+            74.3,
+            5.7,
+            1.4,
+            2.1,
+            0.7,
+            0.7,
+            3.6,
+            9.3
+        ],
+        "Average GPA": 3.714,
+        "Course Title": "Colloquium in Art"
+    },
+    {
+        "Course Total": 18.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Adv Undergrad Painting Workshp"
+    },
+    {
+        "Course Total": 6.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Independent Study"
+    },
+    {
+        "Course Total": 21.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Seminar-Art"
+    },
+    {
+        "Course Total": 17.0,
+        "Numbers": [
+            94.1,
+            5.9
+        ],
+        "Average GPA": 3.981,
+        "Course Title": "Advanced Research-Graphics"
+    },
+    {
+        "Course Total": 120.0,
+        "Numbers": [
+            98.3,
+            0.8
+        ],
+        "Average GPA": 3.995,
+        "Course Title": "Independent Study"
+    },
+    {
+        "Course Total": 397.0,
+        "Numbers": [
+            84.1,
+            6.8,
+            5.5,
+            1.0,
+            0.5,
+            1.3,
+            0.5,
+            0.3
+        ],
+        "Average GPA": 3.827,
+        "Course Title": "Disability and Society"
+    },
+    {
+        "Course Total": 89.0,
+        "Numbers": [
+            92.1,
+            4.5,
+            1.1
+        ],
+        "Average GPA": 3.943,
+        "Course Title": "Disability and Substance Abuse"
+    },
+    {
+        "Course Total": 121.0,
+        "Numbers": [
+            95.0,
+            4.1
+        ],
+        "Average GPA": 3.946,
+        "Course Title": "Health & Rhabilitatn Prfessns"
+    },
+    {
+        "Course Total": 271.0,
+        "Numbers": [
+            90.0,
+            3.7,
+            2.2,
+            1.5,
+            1.1
+        ],
+        "Average GPA": 3.899,
+        "Course Title": "Individls with Disabilities"
+    },
+    {
+        "Course Total": 71.0,
+        "Numbers": [
+            93.0,
+            5.6
+        ],
+        "Average GPA": 3.971,
+        "Course Title": "Positive Psych and Well Being"
+    },
+    {
+        "Course Total": 89.0,
+        "Numbers": [
+            88.8,
+            7.9,
+            3.4
+        ],
+        "Average GPA": 3.927,
+        "Course Title": "Health Prmtion Disab & Illness"
+    },
+    {
+        "Course Total": 55.0,
+        "Numbers": [
+            96.4,
+            3.6
+        ],
+        "Average GPA": 3.982,
+        "Course Title": "Self Mngmt Illness, Disability"
+    },
+    {
+        "Course Total": 64.0,
+        "Numbers": [
+            89.1,
+            7.8,
+            1.6,
+            1.6
+        ],
+        "Average GPA": 3.922,
+        "Course Title": "Behav Anal:Person-Disabilty"
+    },
+    {
+        "Course Total": 61.0,
+        "Numbers": [
+            72.1,
+            16.4,
+            9.8
+        ],
+        "Average GPA": 3.817,
+        "Course Title": "Reading Inst for Stdt with Dis"
+    },
+    {
+        "Course Total": 66.0,
+        "Numbers": [
+            95.5,
+            1.5
+        ],
+        "Average GPA": 3.962,
+        "Course Title": "Bio,Psych,&Voc Aspt-Disabil"
+    },
+    {
+        "Course Total": 24.0,
+        "Numbers": [
+            70.8,
+            25.0,
+            4.2
+        ],
+        "Average GPA": 3.833,
+        "Course Title": "Intrshp-Rehab or Spec Educ"
+    },
+    {
+        "Course Total": 17.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Clin Rehab Cnslg - Pract II"
+    },
+    {
+        "Course Total": 309.0,
+        "Numbers": [
+            66.7,
+            8.7,
+            11.3,
+            1.6,
+            2.9,
+            2.3,
+            4.2
+        ],
+        "Average GPA": 3.513,
+        "Course Title": "Human Dev: Ed Effectiveness"
+    },
+    {
+        "Course Total": 568.0,
+        "Numbers": [
+            84.9,
+            6.5,
+            3.7,
+            1.6,
+            1.4,
+            0.7,
+            1.1
+        ],
+        "Average GPA": 3.815,
+        "Course Title": "Wisconsin Experience Seminar"
+    },
+    {
+        "Course Total": 36.0,
+        "Numbers": [
+            97.2,
+            2.8
+        ],
+        "Average GPA": 3.98,
+        "Course Title": "Topics: Couns./Couns. Psych"
+    },
+    {
+        "Course Total": 53.0,
+        "Numbers": [
+            92.5,
+            1.9,
+            3.8
+        ],
+        "Average GPA": 3.952,
+        "Course Title": "Spec Topics-Cnslg & Guidnce"
+    },
+    {
+        "Course Total": 12.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Independent Reading"
+    },
+    {
+        "Course Total": 105.0,
+        "Numbers": [
+            74.3,
+            19.0,
+            3.8,
+            1.0
+        ],
+        "Average GPA": 3.813,
+        "Course Title": "PCK for Teaching Elem Math 1"
+    },
+    {
+        "Course Total": 56.0,
+        "Numbers": [
+            67.9,
+            26.8,
+            5.4
+        ],
+        "Average GPA": 3.813,
+        "Course Title": "Game Design I"
+    },
+    {
+        "Course Total": 67.0,
+        "Numbers": [
+            88.1,
+            6.0,
+            3.0,
+            1.5
+        ],
+        "Average GPA": 3.873,
+        "Course Title": "Teaching Social Studies"
+    },
+    {
+        "Course Total": 44.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Teaching Science"
+    },
+    {
+        "Course Total": 20.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Prof Dev School & Community"
+    },
+    {
+        "Course Total": 71.0,
+        "Numbers": [
+            83.1,
+            8.5,
+            1.4
+        ],
+        "Average GPA": 3.855,
+        "Course Title": "Learning 2nd Lang & Literacies"
+    },
+    {
+        "Course Total": 71.0,
+        "Numbers": [
+            88.7,
+            4.2,
+            5.6
+        ],
+        "Average GPA": 3.921,
+        "Course Title": "Classroom Management-"
+    },
+    {
+        "Course Total": 9.0,
+        "Numbers": [
+            88.9
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Master's Project or Thesis"
+    },
+    {
+        "Course Total": 10.0,
+        "Numbers": [
+            90.0
+        ],
+        "Average GPA": 3.913,
+        "Course Title": "Master's Ind. Study"
+    },
+    {
+        "Course Total": 31.0,
+        "Numbers": [
+            77.4
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Doctoral Ind. Study"
+    },
+    {
+        "Course Total": 32.0,
+        "Numbers": [
+            78.1,
+            21.9
+        ],
+        "Average GPA": 3.891,
+        "Course Title": "Intro-Higher & Post-Sec Ed"
+    },
+    {
+        "Course Total": 20.0,
+        "Numbers": [
+            90.0,
+            5.0
+        ],
+        "Average GPA": 3.9,
+        "Course Title": "School-Level Leadership"
+    },
+    {
+        "Course Total": 23.0,
+        "Numbers": [
+            87.0,
+            8.7,
+            4.3
+        ],
+        "Average GPA": 3.913,
+        "Course Title": "Race Class & Ed Inequality"
+    },
+    {
+        "Course Total": 28.0,
+        "Numbers": [
+            96.4
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Theory&Practice-Ed Planning"
+    },
+    {
+        "Course Total": 21.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Internship in Ed Admin"
+    },
+    {
+        "Course Total": 16.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Topics Seminar-Educ Leadership"
+    },
+    {
+        "Course Total": 15.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Independent Reading"
+    },
+    {
+        "Course Total": 124.0,
+        "Numbers": [
+            94.4,
+            4.0
+        ],
+        "Average GPA": 3.935,
+        "Course Title": "Youth, Education, and Society"
+    },
+    {
+        "Course Total": 82.0,
+        "Numbers": [
+            92.7,
+            3.7,
+            2.4
+        ],
+        "Average GPA": 3.909,
+        "Course Title": "Comparative Education"
+    },
+    {
+        "Course Total": 197.0,
+        "Numbers": [
+            92.9,
+            2.0,
+            2.5
+        ],
+        "Average GPA": 3.893,
+        "Course Title": "School and Society"
+    },
+    {
+        "Course Total": 79.0,
+        "Numbers": [
+            83.5,
+            8.9,
+            2.5
+        ],
+        "Average GPA": 3.877,
+        "Course Title": "Climate Chng, Sustain, and Ed"
+    },
+    {
+        "Course Total": 6.0,
+        "Numbers": [
+            83.3
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Independent Reading"
+    },
+    {
+        "Course Total": 331.0,
+        "Numbers": [
+            84.0,
+            8.5,
+            5.4,
+            0.9,
+            0.6
+        ],
+        "Average GPA": 3.865,
+        "Course Title": "How People Learn"
+    },
+    {
+        "Course Total": 27.0,
+        "Numbers": [
+            96.3
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Research Experience Ed Psych"
+    },
+    {
+        "Course Total": 48.0,
+        "Numbers": [
+            95.8,
+            2.1
+        ],
+        "Average GPA": 3.948,
+        "Course Title": "Contemp Issues in Ed Psych"
+    },
+    {
+        "Course Total": 71.0,
+        "Numbers": [
+            90.1,
+            5.6,
+            4.2
+        ],
+        "Average GPA": 3.93,
+        "Course Title": "Adol Dev in Educ Contexts"
+    },
+    {
+        "Course Total": 6.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Ind Reading-Undergrad"
+    },
+    {
+        "Course Total": 46.0,
+        "Numbers": [
+            95.7
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Current Topics-Ed Psych"
+    },
+    {
+        "Course Total": 41.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Stat Meth Appl to Educ I"
+    },
+    {
+        "Course Total": 64.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Clinical Pract-School Psych"
+    },
+    {
+        "Course Total": 16.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Internshp-School Psychology"
+    },
+    {
+        "Course Total": 10.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Independent Reading"
+    },
+    {
+        "Course Total": 154.0,
+        "Numbers": [
+            80.5,
+            9.7,
+            5.8,
+            1.3,
+            0.6,
+            0.6,
+            1.3
+        ],
+        "Average GPA": 3.789,
+        "Course Title": "Exploring Biology"
+    },
+    {
+        "Course Total": 16.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Special Topics"
+    },
+    {
+        "Course Total": 60.0,
+        "Numbers": [
+            95.0,
+            5.0
+        ],
+        "Average GPA": 3.975,
+        "Course Title": "EBP Lab Practicum"
+    },
+    {
+        "Course Total": 119.0,
+        "Numbers": [
+            84.0,
+            7.6,
+            5.0,
+            0.8
+        ],
+        "Average GPA": 3.863,
+        "Course Title": "Ballroom Dance I"
+    },
+    {
+        "Course Total": 56.0,
+        "Numbers": [
+            85.7,
+            7.1,
+            5.4
+        ],
+        "Average GPA": 3.909,
+        "Course Title": "Ballet I"
+    },
+    {
+        "Course Total": 134.0,
+        "Numbers": [
+            85.8,
+            9.7,
+            3.0
+        ],
+        "Average GPA": 3.92,
+        "Course Title": "Workshop in Dance Activity"
+    },
+    {
+        "Course Total": 60.0,
+        "Numbers": [
+            71.7,
+            16.7,
+            6.7,
+            3.3
+        ],
+        "Average GPA": 3.806,
+        "Course Title": "Cont Dance Technique&Theory I"
+    },
+    {
+        "Course Total": 25.0,
+        "Numbers": [
+            96.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "African Dance"
+    },
+    {
+        "Course Total": 81.0,
+        "Numbers": [
+            81.5,
+            3.7,
+            3.7,
+            1.2,
+            2.5
+        ],
+        "Average GPA": 3.766,
+        "Course Title": "Relax Techs for Stress Mgmt"
+    },
+    {
+        "Course Total": 96.0,
+        "Numbers": [
+            80.2,
+            7.3,
+            4.2,
+            2.1
+        ],
+        "Average GPA": 3.78,
+        "Course Title": "Pilates Mat I"
+    },
+    {
+        "Course Total": 27.0,
+        "Numbers": [
+            81.5,
+            3.7,
+            3.7
+        ],
+        "Average GPA": 3.824,
+        "Course Title": "Ballet Technique II"
+    },
+    {
+        "Course Total": 22.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Contemp Dance Tech & Th V"
+    },
+    {
+        "Course Total": 28.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Dance Repertory Theater"
+    },
+    {
+        "Course Total": 17.0,
+        "Numbers": [
+            94.1,
+            5.9
+        ],
+        "Average GPA": 3.971,
+        "Course Title": "Interdis Studies in the Arts"
+    },
+    {
+        "Course Total": 48.0,
+        "Numbers": [
+            50.0,
+            39.6,
+            10.4
+        ],
+        "Average GPA": 3.698,
+        "Course Title": "First Aid & Basic Life Support"
+    },
+    {
+        "Course Total": 59.0,
+        "Numbers": [
+            3.4
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Adapted Fitness&Pers Traing"
+    },
+    {
+        "Course Total": 59.0,
+        "Numbers": [
+            81.4,
+            13.6,
+            5.1
+        ],
+        "Average GPA": 3.909,
+        "Course Title": "Practicum in Kinesiology"
+    },
+    {
+        "Course Total": 49.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Group Develop & Behav Manage"
+    },
+    {
+        "Course Total": 41.0,
+        "Numbers": [
+            97.6
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Independent Study"
+    },
+    {
+        "Course Total": 15.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Independent Study"
+    },
+    {
+        "Course Total": 90.0,
+        "Numbers": [
+            74.4,
+            11.1,
+            3.3,
+            4.4,
+            2.2,
+            2.2,
+            2.2
+        ],
+        "Average GPA": 3.617,
+        "Course Title": "Experiencing Theatre"
+    },
+    {
+        "Course Total": 109.0,
+        "Numbers": [
+            91.7,
+            4.6,
+            0.9,
+            0.9
+        ],
+        "Average GPA": 3.881,
+        "Course Title": "Acting I: Intro to Acting"
+    },
+    {
+        "Course Total": 12.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Backstage Experience"
+    },
+    {
+        "Course Total": 116.0,
+        "Numbers": [
+            79.3,
+            2.6,
+            6.9,
+            5.2,
+            3.4
+        ],
+        "Average GPA": 3.668,
+        "Course Title": "Acting Skills for Life"
+    },
+    {
+        "Course Total": 22.0,
+        "Numbers": [
+            72.7,
+            9.1,
+            13.6,
+            4.5
+        ],
+        "Average GPA": 3.75,
+        "Course Title": "Fundamentals of Acting"
+    },
+    {
+        "Course Total": 15.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Performance in Practice"
+    },
+    {
+        "Course Total": 58.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Independent Study"
+    },
+    {
+        "Course Total": 9.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Special Topics-Biomed Engr"
+    },
+    {
+        "Course Total": 34.0,
+        "Numbers": [
+            88.2,
+            2.9,
+            5.9
+        ],
+        "Average GPA": 3.913,
+        "Course Title": "Special Topics-Biomed Engr"
+    },
+    {
+        "Course Total": 17.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Advanced Independent Study"
+    },
+    {
+        "Course Total": 54.0,
+        "Numbers": [
+            48.1,
+            13.0,
+            24.1,
+            13.0,
+            1.9
+        ],
+        "Average GPA": 3.463,
+        "Course Title": "Transport Phenomena Lab"
+    },
+    {
+        "Course Total": 148.0,
+        "Numbers": [
+            58.1,
+            15.5,
+            10.1,
+            1.4
+        ],
+        "Average GPA": 3.757,
+        "Course Title": "Spec Topics in ChE"
+    },
+    {
+        "Course Total": 45.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Special Problems"
+    },
+    {
+        "Course Total": 26.0,
+        "Numbers": [
+            73.1,
+            26.9
+        ],
+        "Average GPA": 3.865,
+        "Course Title": "Dsgn-Wastewtr Treatmnt Plnt"
+    },
+    {
+        "Course Total": 36.0,
+        "Numbers": [
+            80.6,
+            19.4
+        ],
+        "Average GPA": 3.903,
+        "Course Title": "Solid&Hazardous Wastes Engr"
+    },
+    {
+        "Course Total": 10.0,
+        "Numbers": [
+            40.0,
+            50.0,
+            10.0
+        ],
+        "Average GPA": 3.625,
+        "Course Title": "Specl Topic-Structural Engr"
+    },
+    {
+        "Course Total": 15.0,
+        "Numbers": [
+            93.3,
+            6.7
+        ],
+        "Average GPA": 3.963,
+        "Course Title": "Independent Study"
+    },
+    {
+        "Course Total": 20.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Seminar-Envir Engineering"
+    },
+    {
+        "Course Total": 27.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Advanced Independent Study"
+    },
+    {
+        "Course Total": 151.0,
+        "Numbers": [
+            40.4,
+            25.8,
+            21.9,
+            4.6,
+            4.6
+        ],
+        "Average GPA": 3.407,
+        "Course Title": "Signals, Information & Comp"
+    },
+    {
+        "Course Total": 75.0,
+        "Numbers": [
+            48.0,
+            42.7,
+            5.3,
+            4.0
+        ],
+        "Average GPA": 3.673,
+        "Course Title": "Data Science & Engineering"
+    },
+    {
+        "Course Total": 190.0,
+        "Numbers": [
+            98.9,
+            1.1
+        ],
+        "Average GPA": 3.995,
+        "Course Title": "Intro Electrical Engr"
+    },
+    {
+        "Course Total": 111.0,
+        "Numbers": [
+            74.8,
+            15.3,
+            4.5,
+            3.6,
+            0.9
+        ],
+        "Average GPA": 3.805,
+        "Course Title": "Circuits Laboratory I"
+    },
+    {
+        "Course Total": 46.0,
+        "Numbers": [
+            65.2,
+            23.9,
+            4.3,
+            2.2,
+            2.2,
+            2.2
+        ],
+        "Average GPA": 3.696,
+        "Course Title": "Circuits Laboratory II"
+    },
+    {
+        "Course Total": 33.0,
+        "Numbers": [
+            63.6,
+            12.1,
+            21.2
+        ],
+        "Average GPA": 3.719,
+        "Course Title": "Intro to Real-Time DSP"
+    },
+    {
+        "Course Total": 22.0,
+        "Numbers": [
+            95.5
+        ],
+        "Average GPA": 3.955,
+        "Course Title": "Optoelectronics Lab"
+    },
+    {
+        "Course Total": 82.0,
+        "Numbers": [
+            93.9,
+            6.1
+        ],
+        "Average GPA": 3.97,
+        "Course Title": "Intro Microprocessor Lab"
+    },
+    {
+        "Course Total": 28.0,
+        "Numbers": [
+            85.7,
+            3.6,
+            7.1
+        ],
+        "Average GPA": 3.907,
+        "Course Title": "Sensors Laboratory"
+    },
+    {
+        "Course Total": 117.0,
+        "Numbers": [
+            39.3,
+            13.7,
+            23.1,
+            6.8,
+            12.0,
+            3.4,
+            1.7
+        ],
+        "Average GPA": 3.188,
+        "Course Title": "Electronic Circuits I"
+    },
+    {
+        "Course Total": 135.0,
+        "Numbers": [
+            26.7,
+            30.4,
+            24.4,
+            14.8,
+            3.0
+        ],
+        "Average GPA": 3.293,
+        "Course Title": "Digital System Fundamentals"
+    },
+    {
+        "Course Total": 90.0,
+        "Numbers": [
+            14.4,
+            20.0,
+            38.9,
+            16.7,
+            7.8,
+            2.2
+        ],
+        "Average GPA": 3.039,
+        "Course Title": "Machine Organizatn&Progrmng"
+    },
+    {
+        "Course Total": 60.0,
+        "Numbers": [
+            96.7,
+            1.7,
+            1.7
+        ],
+        "Average GPA": 3.975,
+        "Course Title": "Advanced Laboratory"
+    },
+    {
+        "Course Total": 40.0,
+        "Numbers": [
+            95.0,
+            5.0
+        ],
+        "Average GPA": 3.971,
+        "Course Title": "Independent Study"
+    },
+    {
+        "Course Total": 50.0,
+        "Numbers": [
+            46.0,
+            32.0,
+            14.0,
+            2.0,
+            2.0,
+            2.0,
+            2.0
+        ],
+        "Average GPA": 3.49,
+        "Course Title": "Intro to Electric Drive Sys"
+    },
+    {
+        "Course Total": 55.0,
+        "Numbers": [
+            50.9,
+            29.1,
+            18.2,
+            1.8
+        ],
+        "Average GPA": 3.645,
+        "Course Title": "Electric Power Systems"
+    },
+    {
+        "Course Total": 7.0,
+        "Numbers": [
+            57.1,
+            14.3,
+            14.3
+        ],
+        "Average GPA": 3.5,
+        "Course Title": "Software Engineering"
+    },
+    {
+        "Course Total": 41.0,
+        "Numbers": [
+            31.7,
+            26.8,
+            22.0,
+            9.8,
+            9.8
+        ],
+        "Average GPA": 3.305,
+        "Course Title": "Mtrx Mthds in Machine Learning"
+    },
+    {
+        "Course Total": 26.0,
+        "Numbers": [
+            92.3,
+            3.8,
+            3.8
+        ],
+        "Average GPA": 3.951,
+        "Course Title": "Advanced Independent Study"
+    },
+    {
+        "Course Total": 20.0,
+        "Numbers": [
+            60.0,
+            20.0,
+            15.0
+        ],
+        "Average GPA": 3.55,
+        "Course Title": "Solid State Power Conversn"
+    },
+    {
+        "Course Total": 258.0,
+        "Numbers": [
+            23.6,
+            18.6,
+            21.3,
+            13.6,
+            8.1,
+            6.2,
+            7.4,
+            0.8
+        ],
+        "Average GPA": 2.833,
+        "Course Title": "Statics"
+    },
+    {
+        "Course Total": 97.0,
+        "Numbers": [
+            15.5,
+            12.4,
+            21.6,
+            9.3,
+            13.4,
+            13.4,
+            14.4
+        ],
+        "Average GPA": 2.335,
+        "Course Title": "Mechanics of Materials"
+    },
+    {
+        "Course Total": 64.0,
+        "Numbers": [
+            73.4,
+            17.2,
+            6.3,
+            1.6,
+            1.6
+        ],
+        "Average GPA": 3.797,
+        "Course Title": "Mechanics of Materials Lab"
+    },
+    {
+        "Course Total": 6.0,
+        "Numbers": [
+            83.3,
+            16.7
+        ],
+        "Average GPA": 3.906,
+        "Course Title": "Independent Study"
+    },
+    {
+        "Course Total": 27.0,
+        "Numbers": [
+            74.1,
+            14.8,
+            3.7
+        ],
+        "Average GPA": 3.88,
+        "Course Title": "Special Topics in EP"
+    },
+    {
+        "Course Total": 93.0,
+        "Numbers": [
+            93.5,
+            4.3,
+            1.1,
+            1.1
+        ],
+        "Average GPA": 3.952,
+        "Course Title": "Technical Presentations"
+    },
+    {
+        "Course Total": 14.0,
+        "Numbers": [
+            85.7,
+            7.1
+        ],
+        "Average GPA": 3.75,
+        "Course Title": "Topics-Geological Engr"
+    },
+    {
+        "Course Total": 66.0,
+        "Numbers": [
+            25.8,
+            21.2,
+            19.7,
+            18.2,
+            10.6,
+            4.5
+        ],
+        "Average GPA": 3.076,
+        "Course Title": "Simulation Modeling Lab"
+    },
+    {
+        "Course Total": 41.0,
+        "Numbers": [
+            97.6,
+            2.4
+        ],
+        "Average GPA": 3.988,
+        "Course Title": "Human Factors Engineering Lab"
+    },
+    {
+        "Course Total": 35.0,
+        "Numbers": [
+            71.4,
+            20.0,
+            8.6
+        ],
+        "Average GPA": 3.814,
+        "Course Title": "Intro to Decision Analysis"
+    },
+    {
+        "Course Total": 24.0,
+        "Numbers": [
+            66.7,
+            20.8,
+            8.3
+        ],
+        "Average GPA": 3.646,
+        "Course Title": "Decision Making in Health Care"
+    },
+    {
+        "Course Total": 32.0,
+        "Numbers": [
+            87.5,
+            12.5
+        ],
+        "Average GPA": 3.938,
+        "Course Title": "Quality Assurance Systems"
+    },
+    {
+        "Course Total": 51.0,
+        "Numbers": [
+            41.2,
+            37.3,
+            21.6
+        ],
+        "Average GPA": 3.598,
+        "Course Title": "ML in Action for IEs"
+    },
+    {
+        "Course Total": 28.0,
+        "Numbers": [
+            96.4
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Human Perform&Accidnt Cause"
+    },
+    {
+        "Course Total": 9.0,
+        "Numbers": [
+            66.7
+        ],
+        "Average GPA": 3.5,
+        "Course Title": "Topics in Manufacturing"
+    },
+    {
+        "Course Total": 9.0,
+        "Numbers": [
+            88.9
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Advanced Independent Study"
+    },
+    {
+        "Course Total": 24.0,
+        "Numbers": [
+            95.8,
+            4.2
+        ],
+        "Average GPA": 3.979,
+        "Course Title": "Grad Smr-Industrial Engr"
+    },
+    {
+        "Course Total": 284.0,
+        "Numbers": [
+            79.9,
+            14.4,
+            3.5,
+            0.7,
+            0.7,
+            0.4,
+            0.4
+        ],
+        "Average GPA": 3.843,
+        "Course Title": "Design Practicum"
+    },
+    {
+        "Course Total": 378.0,
+        "Numbers": [
+            37.0,
+            39.7,
+            18.5,
+            3.2,
+            0.8
+        ],
+        "Average GPA": 3.531,
+        "Course Title": "Engineering Communication"
+    },
+    {
+        "Course Total": 16.0,
+        "Numbers": [
+            87.5
+        ],
+        "Average GPA": 3.889,
+        "Course Title": "Topics-Interdis Engineering"
+    },
+    {
+        "Course Total": 64.0,
+        "Numbers": [
+            15.6,
+            26.6,
+            37.5,
+            18.8,
+            1.6
+        ],
+        "Average GPA": 3.18,
+        "Course Title": "Civil Engineering Graphics"
+    },
+    {
+        "Course Total": 14.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Undergrad Mech Engr Project"
+    },
+    {
+        "Course Total": 146.0,
+        "Numbers": [
+            28.1,
+            15.1,
+            19.9,
+            12.3,
+            11.6,
+            11.0,
+            2.1
+        ],
+        "Average GPA": 2.897,
+        "Course Title": "Mechanics of Materials"
+    },
+    {
+        "Course Total": 146.0,
+        "Numbers": [
+            84.9,
+            12.3,
+            2.1,
+            0.7
+        ],
+        "Average GPA": 3.908,
+        "Course Title": "Mechanics of Materials Lab"
+    },
+    {
+        "Course Total": 138.0,
+        "Numbers": [
+            27.5,
+            28.3,
+            20.3,
+            12.3,
+            7.2,
+            2.2,
+            2.2
+        ],
+        "Average GPA": 3.174,
+        "Course Title": "Dynamic Systems"
+    },
+    {
+        "Course Total": 187.0,
+        "Numbers": [
+            46.0,
+            20.9,
+            13.9,
+            6.4,
+            7.5,
+            4.8,
+            0.5
+        ],
+        "Average GPA": 3.345,
+        "Course Title": "Thermodynamics"
+    },
+    {
+        "Course Total": 150.0,
+        "Numbers": [
+            38.7,
+            24.7,
+            18.7,
+            6.7,
+            5.3,
+            3.3,
+            2.7
+        ],
+        "Average GPA": 3.277,
+        "Course Title": "Fluid Dynamics"
+    },
+    {
+        "Course Total": 7.0,
+        "Numbers": [
+            85.7
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Honors in Research"
+    },
+    {
+        "Course Total": 16.0,
+        "Numbers": [
+            87.5,
+            12.5
+        ],
+        "Average GPA": 3.932,
+        "Course Title": "Mech Engr Projects I"
+    },
+    {
+        "Course Total": 7.0,
+        "Numbers": [
+            42.9,
+            57.1
+        ],
+        "Average GPA": 3.714,
+        "Course Title": "Mtrx Mthds in Machine Learning"
+    },
+    {
+        "Course Total": 67.0,
+        "Numbers": [
+            64.2,
+            26.9,
+            3.0
+        ],
+        "Average GPA": 3.804,
+        "Course Title": "Special Topics-Mech Engr"
+    },
+    {
+        "Course Total": 12.0,
+        "Numbers": [
+            75.0,
+            8.3,
+            16.7
+        ],
+        "Average GPA": 3.79,
+        "Course Title": "Advanced Independent Study"
+    },
+    {
+        "Course Total": 41.0,
+        "Numbers": [
+            97.6
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Independent Study"
+    },
+    {
+        "Course Total": 189.0,
+        "Numbers": [
+            23.8,
+            28.6,
+            26.5,
+            14.3,
+            4.8,
+            2.1
+        ],
+        "Average GPA": 3.22,
+        "Course Title": "Intro to Materials Science"
+    },
+    {
+        "Course Total": 22.0,
+        "Numbers": [
+            45.5,
+            31.8,
+            13.6,
+            4.5
+        ],
+        "Average GPA": 3.5,
+        "Course Title": "Materials Laboratory I"
+    },
+    {
+        "Course Total": 23.0,
+        "Numbers": [
+            87.0,
+            4.3,
+            4.3
+        ],
+        "Average GPA": 3.741,
+        "Course Title": "Independent Study"
+    },
+    {
+        "Course Total": 44.0,
+        "Numbers": [
+            95.5,
+            4.5
+        ],
+        "Average GPA": 3.968,
+        "Course Title": "Spec Topics-Materials Sci"
+    },
+    {
+        "Course Total": 242.0,
+        "Numbers": [
+            70.2,
+            16.9,
+            7.0,
+            1.7,
+            2.5
+        ],
+        "Average GPA": 3.735,
+        "Course Title": "Develp: Adolescence-Old Age"
+    },
+    {
+        "Course Total": 43.0,
+        "Numbers": [
+            62.8,
+            23.3,
+            2.3
+        ],
+        "Average GPA": 3.647,
+        "Course Title": "Special Topics"
+    },
+    {
+        "Course Total": 25.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Independent Study"
+    },
+    {
+        "Course Total": 190.0,
+        "Numbers": [
+            65.8,
+            20.5,
+            6.3,
+            3.7,
+            3.2,
+            0.5
+        ],
+        "Average GPA": 3.7,
+        "Course Title": "Consumer Insights"
+    },
+    {
+        "Course Total": 137.0,
+        "Numbers": [
+            67.9,
+            14.6,
+            12.4,
+            2.2,
+            0.7
+        ],
+        "Average GPA": 3.722,
+        "Course Title": "Retail Leadership Symposium"
+    },
+    {
+        "Course Total": 238.0,
+        "Numbers": [
+            63.9,
+            21.4,
+            8.0,
+            3.4,
+            1.7,
+            0.4,
+            0.8
+        ],
+        "Average GPA": 3.681,
+        "Course Title": "Introduction to Retail"
+    },
+    {
+        "Course Total": 279.0,
+        "Numbers": [
+            47.7,
+            34.8,
+            12.2,
+            3.6,
+            1.8
+        ],
+        "Average GPA": 3.615,
+        "Course Title": "Consumer Finance"
+    },
+    {
+        "Course Total": 83.0,
+        "Numbers": [
+            9.6,
+            48.2,
+            26.5,
+            8.4,
+            6.0,
+            1.2
+        ],
+        "Average GPA": 3.211,
+        "Course Title": "The Consumer and the Market"
+    },
+    {
+        "Course Total": 157.0,
+        "Numbers": [
+            63.7,
+            28.7,
+            5.1,
+            1.9,
+            0.6
+        ],
+        "Average GPA": 3.764,
+        "Course Title": "Consumer Strategy & Evaluation"
+    },
+    {
+        "Course Total": 98.0,
+        "Numbers": [
+            42.9,
+            24.5,
+            16.3,
+            9.2,
+            4.1,
+            3.1
+        ],
+        "Average GPA": 3.403,
+        "Course Title": "Retail Financial Analysis"
+    },
+    {
+        "Course Total": 104.0,
+        "Numbers": [
+            24.0,
+            29.8,
+            17.3,
+            18.3,
+            7.7,
+            2.9
+        ],
+        "Average GPA": 3.163,
+        "Course Title": "Advanced Consumer Finance"
+    },
+    {
+        "Course Total": 254.0,
+        "Numbers": [
+            49.2,
+            38.2,
+            7.1,
+            2.8,
+            2.0
+        ],
+        "Average GPA": 3.64,
+        "Course Title": "Consumer Behavior"
+    },
+    {
+        "Course Total": 63.0,
+        "Numbers": [
+            58.7,
+            15.9,
+            11.1,
+            9.5,
+            3.2,
+            1.6
+        ],
+        "Average GPA": 3.556,
+        "Course Title": "Household Risk Management"
+    },
+    {
+        "Course Total": 30.0,
+        "Numbers": [
+            80.0,
+            16.7,
+            3.3
+        ],
+        "Average GPA": 3.883,
+        "Course Title": "Introduction to Textile Design"
+    },
+    {
+        "Course Total": 25.0,
+        "Numbers": [
+            44.0,
+            8.0,
+            28.0
+        ],
+        "Average GPA": 3.333,
+        "Course Title": "Fashion Illustration"
+    },
+    {
+        "Course Total": 32.0,
+        "Numbers": [
+            71.9,
+            12.5,
+            12.5,
+            3.1
+        ],
+        "Average GPA": 3.766,
+        "Course Title": "Visual Communication I"
+    },
+    {
+        "Course Total": 26.0,
+        "Numbers": [
+            34.6,
+            19.2,
+            19.2
+        ],
+        "Average GPA": 3.188,
+        "Course Title": "Patternmaking-Apparel Design"
+    },
+    {
+        "Course Total": 63.0,
+        "Numbers": [
+            93.7,
+            3.2
+        ],
+        "Average GPA": 3.929,
+        "Course Title": "Design Thinking"
+    },
+    {
+        "Course Total": 9.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Special Topics"
+    },
+    {
+        "Course Total": 10.0,
+        "Numbers": [
+            90.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Seminar in Design Studies"
+    },
+    {
+        "Course Total": 12.0,
+        "Numbers": [
+            83.3
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Independent Study"
+    },
+    {
+        "Course Total": 286.0,
+        "Numbers": [
+            49.7,
+            18.5,
+            14.3,
+            4.9,
+            8.0,
+            3.8,
+            0.7
+        ],
+        "Average GPA": 3.386,
+        "Course Title": "SoHE Career & Leadership Dev"
+    },
+    {
+        "Course Total": 37.0,
+        "Numbers": [
+            86.5,
+            2.7,
+            2.7
+        ],
+        "Average GPA": 3.956,
+        "Course Title": "Prof Skills for Comm Leaders"
+    },
+    {
+        "Course Total": 50.0,
+        "Numbers": [
+            74.0,
+            14.0,
+            10.0,
+            2.0
+        ],
+        "Average GPA": 3.8,
+        "Course Title": "Literature and the Environment"
+    },
+    {
+        "Course Total": 31.0,
+        "Numbers": [
+            67.7,
+            22.6,
+            6.5
+        ],
+        "Average GPA": 3.758,
+        "Course Title": "Insects and Human Culture"
+    },
+    {
+        "Course Total": 31.0,
+        "Numbers": [
+            87.1,
+            9.7
+        ],
+        "Average GPA": 3.823,
+        "Course Title": "Comm Envir Scholars Seminar"
+    },
+    {
+        "Course Total": 26.0,
+        "Numbers": [
+            23.1,
+            26.9,
+            26.9,
+            3.8,
+            15.4,
+            3.8
+        ],
+        "Average GPA": 3.115,
+        "Course Title": "Renewable Energy Systems"
+    },
+    {
+        "Course Total": 21.0,
+        "Numbers": [
+            90.5
+        ],
+        "Average GPA": 3.895,
+        "Course Title": "Topics: Biol Aspects-Envir St"
+    },
+    {
+        "Course Total": 49.0,
+        "Numbers": [
+            93.9,
+            4.1,
+            2.0
+        ],
+        "Average GPA": 3.959,
+        "Course Title": "Soc Perspectives-Envir Studies"
+    },
+    {
+        "Course Total": 25.0,
+        "Numbers": [
+            80.0,
+            8.0
+        ],
+        "Average GPA": 3.7,
+        "Course Title": "Topics in Envir Humanities"
+    },
+    {
+        "Course Total": 21.0,
+        "Numbers": [
+            81.0,
+            14.3,
+            4.8
+        ],
+        "Average GPA": 3.881,
+        "Course Title": "Topic in Lit and Environment"
+    },
+    {
+        "Course Total": 65.0,
+        "Numbers": [
+            96.9,
+            3.1
+        ],
+        "Average GPA": 3.985,
+        "Course Title": "Environmental Studies Capstone"
+    },
+    {
+        "Course Total": 8.0,
+        "Numbers": [
+            87.5,
+            12.5
+        ],
+        "Average GPA": 3.925,
+        "Course Title": "Directed Study"
+    },
+    {
+        "Course Total": 18.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Envir Cons Tools Modules"
+    },
+    {
+        "Course Total": 13.0,
+        "Numbers": [
+            38.5
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Advanced Independent Study"
+    },
+    {
+        "Course Total": 37.0,
+        "Numbers": [
+            89.2,
+            10.8
+        ],
+        "Average GPA": 3.946,
+        "Course Title": "Intro African Cultural Studies"
+    },
+    {
+        "Course Total": 146.0,
+        "Numbers": [
+            76.7,
+            11.0,
+            3.4,
+            4.8,
+            2.7
+        ],
+        "Average GPA": 3.755,
+        "Course Title": "The African Storyteller"
+    },
+    {
+        "Course Total": 30.0,
+        "Numbers": [
+            70.0,
+            13.3,
+            13.3
+        ],
+        "Average GPA": 3.667,
+        "Course Title": "First Semester Arabic"
+    },
+    {
+        "Course Total": 17.0,
+        "Numbers": [
+            35.3,
+            23.5,
+            35.3
+        ],
+        "Average GPA": 3.412,
+        "Course Title": "Third Semester Arabic"
+    },
+    {
+        "Course Total": 7.0,
+        "Numbers": [
+            28.6,
+            42.9
+        ],
+        "Average GPA": 3.083,
+        "Course Title": "First Semester Yoruba"
+    },
+    {
+        "Course Total": 109.0,
+        "Numbers": [
+            86.2,
+            6.4,
+            4.6
+        ],
+        "Average GPA": 3.849,
+        "Course Title": "Topics in African Amer Culture"
+    },
+    {
+        "Course Total": 15.0,
+        "Numbers": [
+            73.3,
+            6.7
+        ],
+        "Average GPA": 3.393,
+        "Course Title": "Topics in Afro-Am History"
+    },
+    {
+        "Course Total": 41.0,
+        "Numbers": [
+            68.3,
+            22.0,
+            4.9,
+            2.4,
+            2.4
+        ],
+        "Average GPA": 3.756,
+        "Course Title": "Literatures of Native America"
+    },
+    {
+        "Course Total": 24.0,
+        "Numbers": [
+            70.8,
+            4.2,
+            4.2,
+            8.3
+        ],
+        "Average GPA": 3.457,
+        "Course Title": "Beginner Indigenous Language"
+    },
+    {
+        "Course Total": 111.0,
+        "Numbers": [
+            53.2,
+            26.1,
+            10.8,
+            5.4
+        ],
+        "Average GPA": 3.64,
+        "Course Title": "General Anthropology"
+    },
+    {
+        "Course Total": 920.0,
+        "Numbers": [
+            79.2,
+            12.7,
+            2.9,
+            2.0,
+            1.6,
+            0.7,
+            0.7
+        ],
+        "Average GPA": 3.799,
+        "Course Title": "Cult Anthro&Human Diversity"
+    },
+    {
+        "Course Total": 592.0,
+        "Numbers": [
+            62.2,
+            27.0,
+            4.7,
+            3.7,
+            0.7,
+            1.4,
+            0.2,
+            0.2
+        ],
+        "Average GPA": 3.701,
+        "Course Title": "Principles - Biological Anthro"
+    },
+    {
+        "Course Total": 7.0,
+        "Numbers": [
+            85.7,
+            14.3
+        ],
+        "Average GPA": 3.929,
+        "Course Title": "Directed Study"
+    },
+    {
+        "Course Total": 17.0,
+        "Numbers": [
+            70.6,
+            11.8,
+            5.9
+        ],
+        "Average GPA": 3.867,
+        "Course Title": "Smr:Probs-Cultural Anthro"
+    },
+    {
+        "Course Total": 12.0,
+        "Numbers": [
+            91.7
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Reading and Research"
+    },
+    {
+        "Course Total": 322.0,
+        "Numbers": [
+            64.3,
+            18.9,
+            9.9,
+            1.6,
+            0.3
+        ],
+        "Average GPA": 3.765,
+        "Course Title": "Topics in Art History"
+    },
+    {
+        "Course Total": 8.0,
+        "Numbers": [
+            87.5,
+            12.5
+        ],
+        "Average GPA": 3.938,
+        "Course Title": "Special Topics-Art History"
+    },
+    {
+        "Course Total": 6.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Independent Study"
+    },
+    {
+        "Course Total": 207.0,
+        "Numbers": [
+            68.1,
+            19.3,
+            8.2,
+            2.9,
+            1.0
+        ],
+        "Average GPA": 3.757,
+        "Course Title": "Topics-Asian Amer Studies"
+    },
+    {
+        "Course Total": 120.0,
+        "Numbers": [
+            70.0,
+            23.3,
+            2.5,
+            2.5
+        ],
+        "Average GPA": 3.818,
+        "Course Title": "Topics in Asian Studies"
+    },
+    {
+        "Course Total": 26.0,
+        "Numbers": [
+            88.5,
+            11.5
+        ],
+        "Average GPA": 3.942,
+        "Course Title": "Proseminar: Cultures of Asia"
+    },
+    {
+        "Course Total": 11.0,
+        "Numbers": [
+            90.9,
+            9.1
+        ],
+        "Average GPA": 3.967,
+        "Course Title": "Directed Study"
+    },
+    {
+        "Course Total": 78.0,
+        "Numbers": [
+            66.7,
+            17.9,
+            10.3,
+            1.3
+        ],
+        "Average GPA": 3.682,
+        "Course Title": "First Semester Chinese"
+    },
+    {
+        "Course Total": 147.0,
+        "Numbers": [
+            61.9,
+            15.6,
+            6.1,
+            6.1,
+            4.8,
+            3.4,
+            2.0
+        ],
+        "Average GPA": 3.49,
+        "Course Title": "First Semester Japanese"
+    },
+    {
+        "Course Total": 98.0,
+        "Numbers": [
+            64.3,
+            11.2,
+            12.2,
+            2.0,
+            4.1,
+            3.1
+        ],
+        "Average GPA": 3.605,
+        "Course Title": "First Semester Korean"
+    },
+    {
+        "Course Total": 18.0,
+        "Numbers": [
+            83.3,
+            5.6,
+            5.6,
+            5.6
+        ],
+        "Average GPA": 3.833,
+        "Course Title": "First Semester Filipino"
+    },
+    {
+        "Course Total": 9.0,
+        "Numbers": [
+            11.1,
+            22.2,
+            22.2,
+            33.3
+        ],
+        "Average GPA": 3.063,
+        "Course Title": "First Semester Thai"
+    },
+    {
+        "Course Total": 55.0,
+        "Numbers": [
+            63.6,
+            20.0,
+            5.5
+        ],
+        "Average GPA": 3.689,
+        "Course Title": "Third Semester Chinese"
+    },
+    {
+        "Course Total": 64.0,
+        "Numbers": [
+            40.6,
+            25.0,
+            14.1,
+            9.4,
+            7.8,
+            1.6,
+            1.6
+        ],
+        "Average GPA": 3.328,
+        "Course Title": "Third Semester Japanese"
+    },
+    {
+        "Course Total": 7.0,
+        "Numbers": [
+            85.7,
+            14.3
+        ],
+        "Average GPA": 3.929,
+        "Course Title": "Third Semester Filipino"
+    },
+    {
+        "Course Total": 39.0,
+        "Numbers": [
+            56.4,
+            25.6,
+            7.7,
+            5.1,
+            5.1
+        ],
+        "Average GPA": 3.615,
+        "Course Title": "Fifth Semester Chinese"
+    },
+    {
+        "Course Total": 17.0,
+        "Numbers": [
+            82.4,
+            11.8
+        ],
+        "Average GPA": 3.938,
+        "Course Title": "First Semester Asian Language"
+    },
+    {
+        "Course Total": 12.0,
+        "Numbers": [
+            75.0,
+            8.3
+        ],
+        "Average GPA": 3.773,
+        "Course Title": "Third Semester Asian Language"
+    },
+    {
+        "Course Total": 28.0,
+        "Numbers": [
+            89.3,
+            3.6,
+            7.1
+        ],
+        "Average GPA": 3.911,
+        "Course Title": "Chinese Conversation"
+    },
+    {
+        "Course Total": 542.0,
+        "Numbers": [
+            35.4,
+            29.3,
+            17.9,
+            6.8,
+            4.8,
+            1.8,
+            0.9,
+            0.2
+        ],
+        "Average GPA": 3.365,
+        "Course Title": "The Evolving Universe"
+    },
+    {
+        "Course Total": 6.0,
+        "Numbers": [
+            83.3
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Directed Study"
+    },
+    {
+        "Course Total": 544.0,
+        "Numbers": [
+            21.5,
+            9.2,
+            25.0,
+            8.5,
+            21.7,
+            10.8,
+            3.1
+        ],
+        "Average GPA": 2.691,
+        "Course Title": "Animal Biology"
+    },
+    {
+        "Course Total": 200.0,
+        "Numbers": [
+            30.0,
+            19.5,
+            28.5,
+            9.0,
+            10.5,
+            2.5
+        ],
+        "Average GPA": 3.198,
+        "Course Title": "Animal Biology Laboratory"
+    },
+    {
+        "Course Total": 663.0,
+        "Numbers": [
+            35.9,
+            10.3,
+            35.6,
+            3.8,
+            12.1,
+            1.8,
+            0.5
+        ],
+        "Average GPA": 3.221,
+        "Course Title": "Introductory Biology"
+    },
+    {
+        "Course Total": 97.0,
+        "Numbers": [
+            59.8,
+            18.6,
+            18.6
+        ],
+        "Average GPA": 3.639,
+        "Course Title": "Evol,Ecol,&Genetics Lab"
+    },
+    {
+        "Course Total": 30.0,
+        "Numbers": [
+            96.7,
+            3.3
+        ],
+        "Average GPA": 3.983,
+        "Course Title": "Principles of Physiology Lab"
+    },
+    {
+        "Course Total": 11.0,
+        "Numbers": [
+            54.5
+        ],
+        "Average GPA": 3.409,
+        "Course Title": "Introductory Biology"
+    },
+    {
+        "Course Total": 8.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Directed Study in Botany"
+    },
+    {
+        "Course Total": 9.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Directed Study"
+    },
+    {
+        "Course Total": 7.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Seminar-Plant Physiology"
+    },
+    {
+        "Course Total": 2482.0,
+        "Numbers": [
+            26.5,
+            13.5,
+            25.8,
+            10.9,
+            16.0,
+            5.9,
+            1.5
+        ],
+        "Average GPA": 2.957,
+        "Course Title": "General Chemistry I"
+    },
+    {
+        "Course Total": 453.0,
+        "Numbers": [
+            23.6,
+            13.5,
+            24.9,
+            12.4,
+            15.0,
+            7.7,
+            2.9
+        ],
+        "Average GPA": 2.851,
+        "Course Title": "General Chemistry II"
+    },
+    {
+        "Course Total": 520.0,
+        "Numbers": [
+            50.2,
+            18.7,
+            16.2,
+            8.8,
+            3.3,
+            2.3,
+            0.4
+        ],
+        "Average GPA": 3.461,
+        "Course Title": "Advanced General Chemistry"
+    },
+    {
+        "Course Total": 9.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Directed Study"
+    },
+    {
+        "Course Total": 1190.0,
+        "Numbers": [
+            29.5,
+            11.0,
+            25.1,
+            9.6,
+            20.4,
+            2.7,
+            1.6
+        ],
+        "Average GPA": 2.996,
+        "Course Title": "Organic Chemistry I"
+    },
+    {
+        "Course Total": 400.0,
+        "Numbers": [
+            30.3,
+            11.0,
+            35.5,
+            17.3,
+            5.3,
+            0.3,
+            0.5
+        ],
+        "Average GPA": 3.199,
+        "Course Title": "Intro Organic Chemistry Lab"
+    },
+    {
+        "Course Total": 475.0,
+        "Numbers": [
+            24.4,
+            6.7,
+            25.7,
+            7.4,
+            30.5,
+            3.6,
+            1.7
+        ],
+        "Average GPA": 2.814,
+        "Course Title": "Organic Chemistry II"
+    },
+    {
+        "Course Total": 51.0,
+        "Numbers": [
+            47.1,
+            43.1,
+            9.8
+        ],
+        "Average GPA": 3.686,
+        "Course Title": "Physical Chemistry Lab I"
+    },
+    {
+        "Course Total": 29.0,
+        "Numbers": [
+            51.7,
+            27.6,
+            17.2,
+            3.4
+        ],
+        "Average GPA": 3.638,
+        "Course Title": "Physical Chemistry Lab II"
+    },
+    {
+        "Course Total": 74.0,
+        "Numbers": [
+            95.9,
+            1.4,
+            2.7
+        ],
+        "Average GPA": 3.957,
+        "Course Title": "Directed Study"
+    },
+    {
+        "Course Total": 142.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Seminar: Review of Current Res"
+    },
+    {
+        "Course Total": 35.0,
+        "Numbers": [
+            48.6,
+            28.6,
+            5.7,
+            5.7,
+            5.7
+        ],
+        "Average GPA": 3.471,
+        "Course Title": "Topics in Chicano/a Studies"
+    },
+    {
+        "Course Total": 1026.0,
+        "Numbers": [
+            37.7,
+            35.0,
+            15.5,
+            6.6,
+            3.4,
+            1.1,
+            0.5
+        ],
+        "Average GPA": 3.45,
+        "Course Title": "Intro to Speech Composition"
+    },
+    {
+        "Course Total": 29.0,
+        "Numbers": [
+            75.9,
+            17.2
+        ],
+        "Average GPA": 3.724,
+        "Course Title": "Elements of Speech-Honors"
+    },
+    {
+        "Course Total": 32.0,
+        "Numbers": [
+            40.6,
+            59.4
+        ],
+        "Average GPA": 3.703,
+        "Course Title": "Editing & Post-prod:Video&Film"
+    },
+    {
+        "Course Total": 30.0,
+        "Numbers": [
+            56.7,
+            20.0,
+            20.0
+        ],
+        "Average GPA": 3.633,
+        "Course Title": "Writing for TV & Film"
+    },
+    {
+        "Course Total": 30.0,
+        "Numbers": [
+            43.3,
+            46.7,
+            6.7
+        ],
+        "Average GPA": 3.633,
+        "Course Title": "Cinematography & Sound Rcrdng"
+    },
+    {
+        "Course Total": 19.0,
+        "Numbers": [
+            68.4,
+            26.3
+        ],
+        "Average GPA": 3.763,
+        "Course Title": "Hlth Communication-Info Age"
+    },
+    {
+        "Course Total": 9.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Directed Study"
+    },
+    {
+        "Course Total": 14.0,
+        "Numbers": [
+            92.9,
+            7.1
+        ],
+        "Average GPA": 3.964,
+        "Course Title": "Smr-Radio-Tv-Film"
+    },
+    {
+        "Course Total": 39.0,
+        "Numbers": [
+            97.4,
+            2.6
+        ],
+        "Average GPA": 3.988,
+        "Course Title": "Directed Study"
+    },
+    {
+        "Course Total": 53.0,
+        "Numbers": [
+            96.2,
+            1.9
+        ],
+        "Average GPA": 3.953,
+        "Course Title": "Practicum in Com Disorders"
+    },
+    {
+        "Course Total": 14.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Independent Study"
+    },
+    {
+        "Course Total": 7.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Clerkship in Audiology I"
+    },
+    {
+        "Course Total": 8.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Clerkship in Audiology II"
+    },
+    {
+        "Course Total": 11.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Capstone Study in Audiology"
+    },
+    {
+        "Course Total": 15.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Independent Studies"
+    },
+    {
+        "Course Total": 66.0,
+        "Numbers": [
+            62.1,
+            28.8,
+            4.5,
+            1.5,
+            1.5,
+            1.5
+        ],
+        "Average GPA": 3.712,
+        "Course Title": "Intro Cross-Cultrl Lit Form"
+    },
+    {
+        "Course Total": 850.0,
+        "Numbers": [
+            53.6,
+            18.4,
+            12.5,
+            6.1,
+            5.1,
+            1.9,
+            2.5
+        ],
+        "Average GPA": 3.435,
+        "Course Title": "Programming I"
+    },
+    {
+        "Course Total": 949.0,
+        "Numbers": [
+            41.1,
+            31.6,
+            18.3,
+            4.8,
+            1.7,
+            1.1,
+            1.1,
+            0.1
+        ],
+        "Average GPA": 3.477,
+        "Course Title": "Data Sci Programming I"
+    },
+    {
+        "Course Total": 312.0,
+        "Numbers": [
+            28.5,
+            10.3,
+            34.9,
+            18.9,
+            5.1,
+            1.0,
+            1.3
+        ],
+        "Average GPA": 3.133,
+        "Course Title": "Intro to Discrete Mathematics"
+    },
+    {
+        "Course Total": 518.0,
+        "Numbers": [
+            45.6,
+            15.1,
+            16.2,
+            9.5,
+            9.5,
+            2.3,
+            1.9
+        ],
+        "Average GPA": 3.285,
+        "Course Title": "Intro to Computer Engineering"
+    },
+    {
+        "Course Total": 900.0,
+        "Numbers": [
+            43.1,
+            27.1,
+            19.8,
+            4.9,
+            1.9,
+            1.6,
+            1.6
+        ],
+        "Average GPA": 3.446,
+        "Course Title": "Programming II"
+    },
+    {
+        "Course Total": 86.0,
+        "Numbers": [
+            83.7,
+            10.5,
+            2.3,
+            1.2,
+            2.3
+        ],
+        "Average GPA": 3.86,
+        "Course Title": "WES-CS Group Meeting"
+    },
+    {
+        "Course Total": 44.0,
+        "Numbers": [
+            59.1,
+            36.4
+        ],
+        "Average GPA": 3.81,
+        "Course Title": "Data Sci Prgmg I - Research"
+    },
+    {
+        "Course Total": 413.0,
+        "Numbers": [
+            24.2,
+            32.4,
+            31.0,
+            6.3,
+            2.4,
+            0.7,
+            2.4,
+            0.2
+        ],
+        "Average GPA": 3.263,
+        "Course Title": "Data Sci Programming II"
+    },
+    {
+        "Course Total": 383.0,
+        "Numbers": [
+            19.8,
+            23.0,
+            36.0,
+            12.0,
+            5.7,
+            1.3,
+            1.8
+        ],
+        "Average GPA": 3.115,
+        "Course Title": "Machine Organizatn&Progrmng"
+    },
+    {
+        "Course Total": 654.0,
+        "Numbers": [
+            32.4,
+            25.7,
+            29.1,
+            7.2,
+            2.1,
+            2.8,
+            0.6
+        ],
+        "Average GPA": 3.322,
+        "Course Title": "Programming III"
+    },
+    {
+        "Course Total": 58.0,
+        "Numbers": [
+            36.2,
+            8.6,
+            25.9,
+            3.4,
+            19.0,
+            5.2,
+            1.7
+        ],
+        "Average GPA": 3.043,
+        "Course Title": "Intro-Combinatorics"
+    },
+    {
+        "Course Total": 121.0,
+        "Numbers": [
+            70.2,
+            18.2,
+            5.0,
+            2.5,
+            2.5,
+            1.7
+        ],
+        "Average GPA": 3.723,
+        "Course Title": "Software Engineering"
+    },
+    {
+        "Course Total": 77.0,
+        "Numbers": [
+            54.5,
+            24.7,
+            10.4,
+            7.8,
+            2.6
+        ],
+        "Average GPA": 3.604,
+        "Course Title": "Mtrx Mthds in Machine Learning"
+    },
+    {
+        "Course Total": 407.0,
+        "Numbers": [
+            49.9,
+            30.2,
+            13.0,
+            3.7,
+            1.5
+        ],
+        "Average GPA": 3.583,
+        "Course Title": "Intro to Operating Systems"
+    },
+    {
+        "Course Total": 493.0,
+        "Numbers": [
+            40.8,
+            26.2,
+            24.5,
+            3.2,
+            3.2,
+            0.6,
+            1.2,
+            0.2
+        ],
+        "Average GPA": 3.442,
+        "Course Title": "Intro-Artificl Intelligence"
+    },
+    {
+        "Course Total": 296.0,
+        "Numbers": [
+            32.4,
+            26.7,
+            20.9,
+            8.4,
+            9.5,
+            1.0,
+            1.0
+        ],
+        "Average GPA": 3.27,
+        "Course Title": "Database Mgt Systems"
+    },
+    {
+        "Course Total": 525.0,
+        "Numbers": [
+            19.6,
+            13.5,
+            45.7,
+            13.3,
+            5.3,
+            1.3,
+            1.1
+        ],
+        "Average GPA": 3.083,
+        "Course Title": "Introduction to Algorithms"
+    },
+    {
+        "Course Total": 35.0,
+        "Numbers": [
+            82.9,
+            5.7,
+            5.7,
+            2.9,
+            2.9
+        ],
+        "Average GPA": 3.814,
+        "Course Title": "Undergrad Topics-Computing"
+    },
+    {
+        "Course Total": 175.0,
+        "Numbers": [
+            74.9,
+            14.3,
+            5.7,
+            3.4,
+            1.1
+        ],
+        "Average GPA": 3.796,
+        "Course Title": "UG Elective Topic in Computing"
+    },
+    {
+        "Course Total": 13.0,
+        "Numbers": [],
+        "Average GPA": 0.0,
+        "Course Title": "Senior Honors Thesis"
+    },
+    {
+        "Course Total": 33.0,
+        "Numbers": [
+            93.9,
+            6.1
+        ],
+        "Average GPA": 3.969,
+        "Course Title": "Directed Study"
+    },
+    {
+        "Course Total": 63.0,
+        "Numbers": [
+            74.6,
+            19.0,
+            3.2
+        ],
+        "Average GPA": 3.869,
+        "Course Title": "Core Topics in Computing"
+    },
+    {
+        "Course Total": 1715.0,
+        "Numbers": [
+            33.1,
+            26.2,
+            20.2,
+            8.8,
+            7.8,
+            3.0,
+            0.8,
+            0.1
+        ],
+        "Average GPA": 3.256,
+        "Course Title": "Principles-Microeconomics"
+    },
+    {
+        "Course Total": 741.0,
+        "Numbers": [
+            19.8,
+            21.6,
+            24.3,
+            21.7,
+            11.2,
+            1.2,
+            0.1
+        ],
+        "Average GPA": 3.057,
+        "Course Title": "Principles-Macroeconomics"
+    },
+    {
+        "Course Total": 31.0,
+        "Numbers": [
+            12.9,
+            22.6,
+            6.5,
+            16.1,
+            16.1,
+            16.1,
+            9.7
+        ],
+        "Average GPA": 2.387,
+        "Course Title": "Introduction to Finance"
+    },
+    {
+        "Course Total": 434.0,
+        "Numbers": [
+            23.0,
+            18.0,
+            29.0,
+            16.8,
+            9.2,
+            1.6,
+            2.1
+        ],
+        "Average GPA": 3.05,
+        "Course Title": "Intmed Microeconomic Theory"
+    },
+    {
+        "Course Total": 327.0,
+        "Numbers": [
+            26.6,
+            30.6,
+            28.7,
+            7.3,
+            3.7,
+            1.8,
+            0.9
+        ],
+        "Average GPA": 3.282,
+        "Course Title": "Intmed Macroeconomic Theory"
+    },
+    {
+        "Course Total": 279.0,
+        "Numbers": [
+            24.7,
+            19.4,
+            22.6,
+            15.4,
+            12.9,
+            3.6,
+            1.4
+        ],
+        "Average GPA": 3.023,
+        "Course Title": "Stats:Measrmnt in Economics"
+    },
+    {
+        "Course Total": 6.0,
+        "Numbers": [],
+        "Average GPA": 3.0,
+        "Course Title": "Investment Theory"
+    },
+    {
+        "Course Total": 29.0,
+        "Numbers": [
+            24.1,
+            20.7,
+            34.5,
+            13.8,
+            6.9
+        ],
+        "Average GPA": 3.207,
+        "Course Title": "Urban & Regional Economics"
+    },
+    {
+        "Course Total": 13.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Directed Study"
+    },
+    {
+        "Course Total": 97.0,
+        "Numbers": [
+            25.8,
+            28.9,
+            43.3
+        ],
+        "Average GPA": 3.411,
+        "Course Title": "Econometrics I"
+    },
+    {
+        "Course Total": 51.0,
+        "Numbers": [
+            92.2,
+            3.9,
+            3.9
+        ],
+        "Average GPA": 3.932,
+        "Course Title": "Recent Advances-Economics"
+    },
+    {
+        "Course Total": 149.0,
+        "Numbers": [
+            77.2,
+            10.1,
+            4.7,
+            1.3,
+            2.0
+        ],
+        "Average GPA": 3.704,
+        "Course Title": "Academic Writing II"
+    },
+    {
+        "Course Total": 1254.0,
+        "Numbers": [
+            80.1,
+            9.3,
+            4.8,
+            1.5,
+            1.8,
+            0.6,
+            1.2
+        ],
+        "Average GPA": 3.78,
+        "Course Title": "Intro to College Composition"
+    },
+    {
+        "Course Total": 189.0,
+        "Numbers": [
+            92.6,
+            4.2,
+            0.5
+        ],
+        "Average GPA": 3.925,
+        "Course Title": "Women's Writing"
+    },
+    {
+        "Course Total": 211.0,
+        "Numbers": [
+            79.1,
+            12.3,
+            3.8,
+            1.9,
+            1.4,
+            0.5,
+            0.9
+        ],
+        "Average GPA": 3.791,
+        "Course Title": "Literature and the Environment"
+    },
+    {
+        "Course Total": 15.0,
+        "Numbers": [
+            60.0,
+            20.0
+        ],
+        "Average GPA": 3.3,
+        "Course Title": "Literatures of Native America"
+    },
+    {
+        "Course Total": 38.0,
+        "Numbers": [
+            55.3,
+            42.1
+        ],
+        "Average GPA": 3.684,
+        "Course Title": "Intro to Literature for Honors"
+    },
+    {
+        "Course Total": 90.0,
+        "Numbers": [
+            91.1,
+            4.4,
+            3.3
+        ],
+        "Average GPA": 3.922,
+        "Course Title": "Intermediate Composition"
+    },
+    {
+        "Course Total": 126.0,
+        "Numbers": [
+            91.3,
+            2.4,
+            3.2
+        ],
+        "Average GPA": 3.877,
+        "Course Title": "Intro to Creative Writing"
+    },
+    {
+        "Course Total": 85.0,
+        "Numbers": [
+            67.1,
+            22.4,
+            2.4,
+            2.4,
+            1.2,
+            1.2,
+            2.4
+        ],
+        "Average GPA": 3.673,
+        "Course Title": "Seminar in the Major"
+    },
+    {
+        "Course Total": 84.0,
+        "Numbers": [
+            82.1,
+            4.8,
+            7.1,
+            1.2,
+            2.4,
+            1.2,
+            1.2
+        ],
+        "Average GPA": 3.756,
+        "Course Title": "Creatv Wrtng:Fic&PoetWkshp"
+    },
+    {
+        "Course Total": 25.0,
+        "Numbers": [
+            96.0,
+            4.0
+        ],
+        "Average GPA": 3.98,
+        "Course Title": "Smr-Writng Across Curriculm"
+    },
+    {
+        "Course Total": 26.0,
+        "Numbers": [
+            92.3,
+            3.8
+        ],
+        "Average GPA": 3.98,
+        "Course Title": "Creative Writing: Fiction"
+    },
+    {
+        "Course Total": 29.0,
+        "Numbers": [
+            86.2,
+            10.3,
+            3.4
+        ],
+        "Average GPA": 3.914,
+        "Course Title": "Creative Writing: Poetry"
+    },
+    {
+        "Course Total": 25.0,
+        "Numbers": [
+            72.0,
+            12.0,
+            12.0,
+            4.0
+        ],
+        "Average GPA": 3.76,
+        "Course Title": "Creative Writing: Workshop"
+    },
+    {
+        "Course Total": 50.0,
+        "Numbers": [
+            76.0,
+            6.0,
+            4.0
+        ],
+        "Average GPA": 3.75,
+        "Course Title": "Topic in American Lit"
+    },
+    {
+        "Course Total": 38.0,
+        "Numbers": [
+            42.1,
+            28.9,
+            13.2,
+            5.3,
+            2.6,
+            5.3,
+            2.6
+        ],
+        "Average GPA": 3.329,
+        "Course Title": "Topic-Ethnic&Multicultr Lit"
+    },
+    {
+        "Course Total": 52.0,
+        "Numbers": [
+            75.0,
+            17.3,
+            7.7
+        ],
+        "Average GPA": 3.837,
+        "Course Title": "Topic in Contemporary Lit"
+    },
+    {
+        "Course Total": 39.0,
+        "Numbers": [
+            94.9,
+            2.6
+        ],
+        "Average GPA": 3.949,
+        "Course Title": "Topic in Lit and Environment"
+    },
+    {
+        "Course Total": 6.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Independent Reading"
+    },
+    {
+        "Course Total": 70.0,
+        "Numbers": [
+            71.4,
+            18.6,
+            4.3,
+            1.4,
+            4.3
+        ],
+        "Average GPA": 3.757,
+        "Course Title": "The African Storyteller"
+    },
+    {
+        "Course Total": 125.0,
+        "Numbers": [
+            48.0,
+            22.4,
+            12.0,
+            6.4,
+            5.6,
+            0.8,
+            2.4,
+            1.6
+        ],
+        "Average GPA": 3.426,
+        "Course Title": "First Semester French"
+    },
+    {
+        "Course Total": 63.0,
+        "Numbers": [
+            52.4,
+            20.6,
+            9.5,
+            6.3,
+            6.3,
+            3.2
+        ],
+        "Average GPA": 3.476,
+        "Course Title": "Second Semester French"
+    },
+    {
+        "Course Total": 91.0,
+        "Numbers": [
+            47.3,
+            26.4,
+            17.6,
+            4.4,
+            3.3
+        ],
+        "Average GPA": 3.556,
+        "Course Title": "Third Semester French"
+    },
+    {
+        "Course Total": 76.0,
+        "Numbers": [
+            69.7,
+            18.4,
+            6.6,
+            2.6,
+            2.6
+        ],
+        "Average GPA": 3.75,
+        "Course Title": "Fourth Semester French"
+    },
+    {
+        "Course Total": 30.0,
+        "Numbers": [
+            50.0,
+            50.0
+        ],
+        "Average GPA": 3.75,
+        "Course Title": "Exploring French:Intermed Crse"
+    },
+    {
+        "Course Total": 57.0,
+        "Numbers": [
+            56.1,
+            26.3,
+            8.8,
+            3.5,
+            3.5
+        ],
+        "Average GPA": 3.652,
+        "Course Title": "Intermed Language & Culture"
+    },
+    {
+        "Course Total": 44.0,
+        "Numbers": [
+            79.5,
+            15.9,
+            4.5
+        ],
+        "Average GPA": 3.875,
+        "Course Title": "Intro to Literary Analysis"
+    },
+    {
+        "Course Total": 42.0,
+        "Numbers": [
+            42.9,
+            26.2,
+            19.0,
+            2.4,
+            4.8,
+            2.4,
+            2.4
+        ],
+        "Average GPA": 3.359,
+        "Course Title": "Rebellious Women"
+    },
+    {
+        "Course Total": 327.0,
+        "Numbers": [
+            41.3,
+            12.5,
+            13.5,
+            4.0,
+            3.7
+        ],
+        "Average GPA": 3.42,
+        "Course Title": "World Regions in Global Contxt"
+    },
+    {
+        "Course Total": 53.0,
+        "Numbers": [
+            49.1,
+            34.0,
+            9.4
+        ],
+        "Average GPA": 3.569,
+        "Course Title": "Introduction to Cartography"
+    },
+    {
+        "Course Total": 39.0,
+        "Numbers": [
+            69.2,
+            17.9,
+            10.3
+        ],
+        "Average GPA": 3.756,
+        "Course Title": "Introduction to Geocomputing"
+    },
+    {
+        "Course Total": 34.0,
+        "Numbers": [
+            61.8,
+            8.8,
+            17.6
+        ],
+        "Average GPA": 3.516,
+        "Course Title": "Graphic Design-Cartography"
+    },
+    {
+        "Course Total": 36.0,
+        "Numbers": [
+            86.1,
+            5.6
+        ],
+        "Average GPA": 3.8,
+        "Course Title": "Spatial Database"
+    },
+    {
+        "Course Total": 30.0,
+        "Numbers": [
+            70.0,
+            10.0,
+            10.0,
+            3.3,
+            3.3,
+            3.3
+        ],
+        "Average GPA": 3.633,
+        "Course Title": "GIS and Spatial Analysis"
+    },
+    {
+        "Course Total": 360.0,
+        "Numbers": [
+            50.6,
+            28.9,
+            12.5,
+            3.3,
+            3.6,
+            0.3,
+            0.6
+        ],
+        "Average GPA": 3.577,
+        "Course Title": "Introductory Geology"
+    },
+    {
+        "Course Total": 10.0,
+        "Numbers": [
+            90.0
+        ],
+        "Average GPA": 3.944,
+        "Course Title": "Directed Study"
+    },
+    {
+        "Course Total": 24.0,
+        "Numbers": [
+            95.8
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Advanced Topics in Geology"
+    },
+    {
+        "Course Total": 70.0,
+        "Numbers": [
+            47.1,
+            18.6,
+            15.7,
+            5.7,
+            7.1,
+            4.3,
+            1.4
+        ],
+        "Average GPA": 3.336,
+        "Course Title": "First Semester German"
+    },
+    {
+        "Course Total": 31.0,
+        "Numbers": [
+            38.7,
+            32.3,
+            22.6
+        ],
+        "Average GPA": 3.419,
+        "Course Title": "Second Semester German"
+    },
+    {
+        "Course Total": 46.0,
+        "Numbers": [
+            50.0,
+            17.4,
+            17.4,
+            6.5,
+            6.5,
+            2.2
+        ],
+        "Average GPA": 3.446,
+        "Course Title": "Third Semester German"
+    },
+    {
+        "Course Total": 28.0,
+        "Numbers": [
+            60.7,
+            17.9,
+            17.9,
+            3.6
+        ],
+        "Average GPA": 3.679,
+        "Course Title": "Fourth Semester German"
+    },
+    {
+        "Course Total": 41.0,
+        "Numbers": [
+            58.5,
+            29.3,
+            4.9,
+            2.4,
+            2.4
+        ],
+        "Average GPA": 3.622,
+        "Course Title": "Intermed German-Speak & Listen"
+    },
+    {
+        "Course Total": 33.0,
+        "Numbers": [
+            63.6,
+            15.2,
+            9.1,
+            6.1,
+            6.1
+        ],
+        "Average GPA": 3.621,
+        "Course Title": "Intermediate German-Reading"
+    },
+    {
+        "Course Total": 30.0,
+        "Numbers": [
+            83.3,
+            6.7,
+            10.0
+        ],
+        "Average GPA": 3.867,
+        "Course Title": "Intermediate German-Writing"
+    },
+    {
+        "Course Total": 216.0,
+        "Numbers": [
+            83.3,
+            12.0,
+            2.8
+        ],
+        "Average GPA": 3.864,
+        "Course Title": "Yiddish Song and Jewish Exp"
+    },
+    {
+        "Course Total": 31.0,
+        "Numbers": [
+            83.9,
+            16.1
+        ],
+        "Average GPA": 3.919,
+        "Course Title": "Topics in German Culture"
+    },
+    {
+        "Course Total": 6.0,
+        "Numbers": [
+            50.0,
+            16.7,
+            16.7
+        ],
+        "Average GPA": 3.083,
+        "Course Title": "Topics in GNS"
+    },
+    {
+        "Course Total": 307.0,
+        "Numbers": [
+            70.0,
+            11.4,
+            5.2,
+            3.6,
+            3.6,
+            2.3,
+            1.6,
+            1.0
+        ],
+        "Average GPA": 3.691,
+        "Course Title": "Historical Studies"
+    },
+    {
+        "Course Total": 256.0,
+        "Numbers": [
+            48.4,
+            27.3,
+            17.2,
+            2.3,
+            0.4,
+            0.4,
+            2.7
+        ],
+        "Average GPA": 3.531,
+        "Course Title": "The Historian's Craft"
+    },
+    {
+        "Course Total": 39.0,
+        "Numbers": [
+            79.5,
+            17.9
+        ],
+        "Average GPA": 3.872,
+        "Course Title": "Cultural History of Korea"
+    },
+    {
+        "Course Total": 20.0,
+        "Numbers": [
+            85.0,
+            10.0,
+            5.0
+        ],
+        "Average GPA": 3.9,
+        "Course Title": "Public History Workshop"
+    },
+    {
+        "Course Total": 69.0,
+        "Numbers": [
+            76.8,
+            11.6,
+            7.2
+        ],
+        "Average GPA": 3.768,
+        "Course Title": "Advanced Seminar in History"
+    },
+    {
+        "Course Total": 7.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Studies in American History"
+    },
+    {
+        "Course Total": 30.0,
+        "Numbers": [
+            93.3
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Independent Work"
+    },
+    {
+        "Course Total": 18.0,
+        "Numbers": [
+            55.6,
+            33.3,
+            5.6,
+            5.6
+        ],
+        "Average GPA": 3.694,
+        "Course Title": "Spec Topics-Hist of Science"
+    },
+    {
+        "Course Total": 6.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Independent Work"
+    },
+    {
+        "Course Total": 149.0,
+        "Numbers": [
+            94.0,
+            2.7,
+            2.7
+        ],
+        "Average GPA": 3.946,
+        "Course Title": "CRC 1st Yr Smr: Lib Arts Educ"
+    },
+    {
+        "Course Total": 101.0,
+        "Numbers": [
+            65.3,
+            17.8,
+            6.9,
+            3.0,
+            3.0
+        ],
+        "Average GPA": 3.579,
+        "Course Title": "Interdis in Arts & Humanities"
+    },
+    {
+        "Course Total": 57.0,
+        "Numbers": [
+            86.0,
+            8.8,
+            3.5
+        ],
+        "Average GPA": 3.868,
+        "Course Title": "Belong, Explore, Become"
+    },
+    {
+        "Course Total": 577.0,
+        "Numbers": [
+            90.5,
+            3.1,
+            1.9,
+            0.3,
+            1.6,
+            0.3,
+            1.6
+        ],
+        "Average GPA": 3.855,
+        "Course Title": "How to Succeed in College"
+    },
+    {
+        "Course Total": 247.0,
+        "Numbers": [
+            84.2,
+            6.1,
+            2.8,
+            1.6,
+            1.2,
+            1.6,
+            1.2,
+            0.4
+        ],
+        "Average GPA": 3.793,
+        "Course Title": "L&S Career Development"
+    },
+    {
+        "Course Total": 163.0,
+        "Numbers": [
+            80.4,
+            16.0,
+            0.6,
+            0.6,
+            1.2,
+            1.2
+        ],
+        "Average GPA": 3.835,
+        "Course Title": "Undergrad Research Experience"
+    },
+    {
+        "Course Total": 37.0,
+        "Numbers": [
+            86.5,
+            8.1,
+            2.7
+        ],
+        "Average GPA": 3.878,
+        "Course Title": "Topics in Global Security"
+    },
+    {
+        "Course Total": 26.0,
+        "Numbers": [
+            76.9,
+            15.4,
+            3.8
+        ],
+        "Average GPA": 3.731,
+        "Course Title": "Culture in Age of Globalizatn"
+    },
+    {
+        "Course Total": 129.0,
+        "Numbers": [
+            56.6,
+            15.5,
+            15.5,
+            9.3,
+            0.8,
+            1.6,
+            0.8
+        ],
+        "Average GPA": 3.535,
+        "Course Title": "First Semester Italian"
+    },
+    {
+        "Course Total": 47.0,
+        "Numbers": [
+            57.4,
+            31.9,
+            6.4,
+            4.3
+        ],
+        "Average GPA": 3.713,
+        "Course Title": "Second Semester Italian"
+    },
+    {
+        "Course Total": 28.0,
+        "Numbers": [
+            57.1,
+            21.4,
+            10.7,
+            7.1,
+            3.6
+        ],
+        "Average GPA": 3.607,
+        "Course Title": "Third Semester Italian"
+    },
+    {
+        "Course Total": 81.0,
+        "Numbers": [
+            69.1,
+            14.8,
+            4.9,
+            4.9,
+            1.2,
+            1.2
+        ],
+        "Average GPA": 3.731,
+        "Course Title": "Intmed Topics in Jewish Lit"
+    },
+    {
+        "Course Total": 70.0,
+        "Numbers": [
+            88.6,
+            7.1,
+            1.4
+        ],
+        "Average GPA": 3.949,
+        "Course Title": "Mass Media in Multicultrl Amer"
+    },
+    {
+        "Course Total": 66.0,
+        "Numbers": [
+            75.8,
+            19.7,
+            3.0
+        ],
+        "Average GPA": 3.841,
+        "Course Title": "Principles/Practices-Reporting"
+    },
+    {
+        "Course Total": 98.0,
+        "Numbers": [
+            81.6,
+            12.2,
+            5.1
+        ],
+        "Average GPA": 3.867,
+        "Course Title": "Principles & Pract Strat Comm"
+    },
+    {
+        "Course Total": 34.0,
+        "Numbers": [
+            67.6,
+            17.6,
+            11.8,
+            2.9
+        ],
+        "Average GPA": 3.75,
+        "Course Title": "Hlth Communication-Info Age"
+    },
+    {
+        "Course Total": 41.0,
+        "Numbers": [
+            87.8,
+            9.8
+        ],
+        "Average GPA": 3.902,
+        "Course Title": "The Impact of Emerging Media"
+    },
+    {
+        "Course Total": 14.0,
+        "Numbers": [
+            92.9,
+            7.1
+        ],
+        "Average GPA": 3.95,
+        "Course Title": "Directed Study"
+    },
+    {
+        "Course Total": 17.0,
+        "Numbers": [
+            88.2,
+            5.9
+        ],
+        "Average GPA": 3.969,
+        "Course Title": "Topics in Mass Communication"
+    },
+    {
+        "Course Total": 227.0,
+        "Numbers": [
+            61.7,
+            11.5,
+            7.9,
+            3.5,
+            1.8,
+            0.9,
+            2.2,
+            10.6
+        ],
+        "Average GPA": 3.621,
+        "Course Title": "Survey of Land Arch Design"
+    },
+    {
+        "Course Total": 31.0,
+        "Numbers": [
+            77.4,
+            9.7,
+            12.9
+        ],
+        "Average GPA": 3.838,
+        "Course Title": "Special Topics"
+    },
+    {
+        "Course Total": 48.0,
+        "Numbers": [
+            33.3,
+            31.3,
+            16.7,
+            8.3,
+            8.3,
+            2.1
+        ],
+        "Average GPA": 3.323,
+        "Course Title": "Elementary Latin"
+    },
+    {
+        "Course Total": 9.0,
+        "Numbers": [
+            88.9
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Topics in LACIS"
+    },
+    {
+        "Course Total": 40.0,
+        "Numbers": [
+            90.0,
+            7.5,
+            2.5
+        ],
+        "Average GPA": 3.938,
+        "Course Title": "Crimnl Justice Fld Observtn"
+    },
+    {
+        "Course Total": 284.0,
+        "Numbers": [
+            80.6,
+            9.9,
+            4.2,
+            2.1,
+            1.4,
+            1.4,
+            0.4
+        ],
+        "Average GPA": 3.795,
+        "Course Title": "Data Ethics and Policy"
+    },
+    {
+        "Course Total": 37.0,
+        "Numbers": [
+            89.2,
+            8.1
+        ],
+        "Average GPA": 3.919,
+        "Course Title": "Code and Power"
+    },
+    {
+        "Course Total": 9.0,
+        "Numbers": [
+            77.8,
+            11.1,
+            11.1
+        ],
+        "Average GPA": 3.833,
+        "Course Title": "Human Factors in Infosec"
+    },
+    {
+        "Course Total": 88.0,
+        "Numbers": [
+            95.5,
+            4.5
+        ],
+        "Average GPA": 3.977,
+        "Course Title": "Info Perspectives, Contexts"
+    },
+    {
+        "Course Total": 105.0,
+        "Numbers": [
+            95.2,
+            2.9,
+            1.0
+        ],
+        "Average GPA": 3.976,
+        "Course Title": "Info: Org and Search"
+    },
+    {
+        "Course Total": 27.0,
+        "Numbers": [
+            88.9,
+            7.4
+        ],
+        "Average GPA": 3.962,
+        "Course Title": "User Experience Design 1"
+    },
+    {
+        "Course Total": 35.0,
+        "Numbers": [
+            68.6,
+            25.7,
+            2.9
+        ],
+        "Average GPA": 3.838,
+        "Course Title": "Systems Analysis & Proj Mgmt"
+    },
+    {
+        "Course Total": 26.0,
+        "Numbers": [
+            96.2,
+            3.8
+        ],
+        "Average GPA": 3.981,
+        "Course Title": "Fld Proj-Lib&Info Agencies"
+    },
+    {
+        "Course Total": 24.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Reference & Info Service"
+    },
+    {
+        "Course Total": 26.0,
+        "Numbers": [
+            80.8,
+            15.4,
+            3.8
+        ],
+        "Average GPA": 3.885,
+        "Course Title": "Topics-Library&Informatn St"
+    },
+    {
+        "Course Total": 8.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Digital Tools, Trends, Debates"
+    },
+    {
+        "Course Total": 15.0,
+        "Numbers": [
+            60.0,
+            33.3,
+            6.7
+        ],
+        "Average GPA": 3.767,
+        "Course Title": "Intro Info Architecture"
+    },
+    {
+        "Course Total": 19.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Books Print Cult Europe No Am"
+    },
+    {
+        "Course Total": 9.0,
+        "Numbers": [
+            88.9
+        ],
+        "Average GPA": 3.889,
+        "Course Title": "Info Services Management"
+    },
+    {
+        "Course Total": 20.0,
+        "Numbers": [
+            30.0,
+            30.0,
+            5.0,
+            15.0
+        ],
+        "Average GPA": 2.875,
+        "Course Title": "Collection Management"
+    },
+    {
+        "Course Total": 28.0,
+        "Numbers": [
+            53.6,
+            32.1,
+            7.1,
+            3.6
+        ],
+        "Average GPA": 3.704,
+        "Course Title": "Dig Curation and Collections"
+    },
+    {
+        "Course Total": 23.0,
+        "Numbers": [
+            60.9,
+            30.4,
+            8.7
+        ],
+        "Average GPA": 3.761,
+        "Course Title": "Data Vis for Decision Making"
+    },
+    {
+        "Course Total": 21.0,
+        "Numbers": [
+            95.2
+        ],
+        "Average GPA": 3.952,
+        "Course Title": "The Public Library"
+    },
+    {
+        "Course Total": 23.0,
+        "Numbers": [
+            56.5,
+            34.8
+        ],
+        "Average GPA": 3.522,
+        "Course Title": "Database Dsgn-Info Prof"
+    },
+    {
+        "Course Total": 13.0,
+        "Numbers": [
+            92.3,
+            7.7
+        ],
+        "Average GPA": 3.962,
+        "Course Title": "Electronic Rsrce Mgt & Licnsng"
+    },
+    {
+        "Course Total": 17.0,
+        "Numbers": [
+            94.1
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Lib Serv-Chldrn&Young Adult"
+    },
+    {
+        "Course Total": 36.0,
+        "Numbers": [
+            86.1,
+            5.6,
+            8.3
+        ],
+        "Average GPA": 3.889,
+        "Course Title": "Topics-Info Agency Managemt"
+    },
+    {
+        "Course Total": 32.0,
+        "Numbers": [
+            25.0,
+            56.3,
+            15.6
+        ],
+        "Average GPA": 3.548,
+        "Course Title": "Topics-Info Procsng&Retrvl"
+    },
+    {
+        "Course Total": 19.0,
+        "Numbers": [
+            89.5
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Independent Reading & Rsch"
+    },
+    {
+        "Course Total": 15.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Independent Reading"
+    },
+    {
+        "Course Total": 24.0,
+        "Numbers": [
+            45.8,
+            50.0
+        ],
+        "Average GPA": 3.696,
+        "Course Title": "Russian Life&Cult (to 1917)"
+    },
+    {
+        "Course Total": 41.0,
+        "Numbers": [
+            51.2,
+            36.6,
+            7.3
+        ],
+        "Average GPA": 3.638,
+        "Course Title": "The World of Sagas"
+    },
+    {
+        "Course Total": 38.0,
+        "Numbers": [
+            68.4,
+            13.2,
+            15.8
+        ],
+        "Average GPA": 3.77,
+        "Course Title": "Topics-Slavic Lit in Translatn"
+    },
+    {
+        "Course Total": 237.0,
+        "Numbers": [
+            47.7,
+            38.4,
+            11.0,
+            2.1
+        ],
+        "Average GPA": 3.658,
+        "Course Title": "In Transl:Hans C. Andersen"
+    },
+    {
+        "Course Total": 769.0,
+        "Numbers": [
+            15.1,
+            13.7,
+            15.5,
+            13.1,
+            28.3,
+            10.4,
+            3.6
+        ],
+        "Average GPA": 2.551,
+        "Course Title": "Algebra"
+    },
+    {
+        "Course Total": 324.0,
+        "Numbers": [
+            35.5,
+            13.9,
+            11.7,
+            9.9,
+            19.4,
+            8.6,
+            0.9
+        ],
+        "Average GPA": 2.98,
+        "Course Title": "Trigonometry"
+    },
+    {
+        "Course Total": 464.0,
+        "Numbers": [
+            21.3,
+            18.8,
+            23.7,
+            8.8,
+            12.7,
+            8.2,
+            6.3
+        ],
+        "Average GPA": 2.784,
+        "Course Title": "Algebra and Trigonometry"
+    },
+    {
+        "Course Total": 559.0,
+        "Numbers": [
+            23.6,
+            14.0,
+            23.6,
+            9.7,
+            23.8,
+            3.8,
+            1.6
+        ],
+        "Average GPA": 2.896,
+        "Course Title": "Calculus"
+    },
+    {
+        "Course Total": 1886.0,
+        "Numbers": [
+            27.6,
+            9.4,
+            27.4,
+            5.1,
+            19.1,
+            7.8,
+            3.6
+        ],
+        "Average GPA": 2.843,
+        "Course Title": "Calculus&Analytic Geometry 1"
+    },
+    {
+        "Course Total": 1136.0,
+        "Numbers": [
+            20.8,
+            6.3,
+            24.6,
+            6.3,
+            23.7,
+            13.9,
+            4.1
+        ],
+        "Average GPA": 2.568,
+        "Course Title": "Calculus&Analytic Geometry 2"
+    },
+    {
+        "Course Total": 51.0,
+        "Numbers": [
+            66.7,
+            15.7,
+            9.8,
+            3.9
+        ],
+        "Average GPA": 3.608,
+        "Course Title": "WES Calculus Supplement"
+    },
+    {
+        "Course Total": 1199.0,
+        "Numbers": [
+            29.7,
+            8.1,
+            33.3,
+            5.6,
+            16.7,
+            5.0,
+            1.6
+        ],
+        "Average GPA": 2.995,
+        "Course Title": "Calc--Functns of Variables"
+    },
+    {
+        "Course Total": 101.0,
+        "Numbers": [
+            36.6,
+            9.9,
+            23.8,
+            17.8,
+            9.9
+        ],
+        "Average GPA": 3.168,
+        "Course Title": "Intro to Discrete Mathematics"
+    },
+    {
+        "Course Total": 407.0,
+        "Numbers": [
+            38.8,
+            17.0,
+            22.9,
+            6.4,
+            9.8,
+            2.5,
+            2.2
+        ],
+        "Average GPA": 3.228,
+        "Course Title": "Linear Alg & Diff Equations"
+    },
+    {
+        "Course Total": 719.0,
+        "Numbers": [
+            30.3,
+            11.4,
+            26.7,
+            7.5,
+            15.2,
+            7.2,
+            1.7
+        ],
+        "Average GPA": 2.976,
+        "Course Title": "Elem Matrix & Linear Algebra"
+    },
+    {
+        "Course Total": 70.0,
+        "Numbers": [
+            28.6,
+            18.6,
+            24.3,
+            14.3,
+            10.0,
+            2.9,
+            1.4
+        ],
+        "Average GPA": 3.107,
+        "Course Title": "Linear Algebra"
+    },
+    {
+        "Course Total": 109.0,
+        "Numbers": [
+            38.5,
+            10.1,
+            19.3,
+            7.3,
+            15.6,
+            3.7,
+            3.7,
+            0.9,
+            0.9
+        ],
+        "Average GPA": 3.061,
+        "Course Title": "Intro-Theory of Probability"
+    },
+    {
+        "Course Total": 58.0,
+        "Numbers": [
+            46.6,
+            3.4,
+            22.4,
+            8.6,
+            15.5
+        ],
+        "Average GPA": 3.237,
+        "Course Title": "Intro-Combinatorics"
+    },
+    {
+        "Course Total": 49.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Undergraduate Seminar"
+    },
+    {
+        "Course Total": 160.0,
+        "Numbers": [
+            53.1,
+            15.0,
+            15.6,
+            6.9,
+            6.9,
+            1.9,
+            0.6
+        ],
+        "Average GPA": 3.447,
+        "Course Title": "Analysis I"
+    },
+    {
+        "Course Total": 77.0,
+        "Numbers": [
+            35.1,
+            15.6,
+            14.3,
+            18.2,
+            9.1,
+            5.2,
+            2.6
+        ],
+        "Average GPA": 3.065,
+        "Course Title": "Modern Algebra"
+    },
+    {
+        "Course Total": 22.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Seminar in Analysis"
+    },
+    {
+        "Course Total": 14.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Seminar-Algebra"
+    },
+    {
+        "Course Total": 280.0,
+        "Numbers": [
+            21.4,
+            12.5,
+            22.5,
+            13.2,
+            15.0,
+            8.2,
+            5.7
+        ],
+        "Average GPA": 2.721,
+        "Course Title": "Preparatory Algebra"
+    },
+    {
+        "Course Total": 9.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Seminar in Number Theory"
+    },
+    {
+        "Course Total": 8.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Advanced Independent Study"
+    },
+    {
+        "Course Total": 24.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Directed Studies-Molec Biol"
+    },
+    {
+        "Course Total": 1986.0,
+        "Numbers": [
+            88.8,
+            3.7,
+            2.0,
+            1.5,
+            1.6,
+            1.2,
+            1.2,
+            0.1
+        ],
+        "Average GPA": 3.827,
+        "Course Title": "Music in Performance"
+    },
+    {
+        "Course Total": 61.0,
+        "Numbers": [
+            31.1,
+            19.7,
+            32.8,
+            6.6,
+            6.6,
+            3.3
+        ],
+        "Average GPA": 3.246,
+        "Course Title": "Musica Practica 1"
+    },
+    {
+        "Course Total": 119.0,
+        "Numbers": [
+            70.6,
+            12.6,
+            5.0,
+            1.7,
+            1.7,
+            1.7,
+            1.7,
+            5.0
+        ],
+        "Average GPA": 3.695,
+        "Course Title": "Basic Concepts-Music Theory"
+    },
+    {
+        "Course Total": 61.0,
+        "Numbers": [
+            39.3,
+            27.9,
+            19.7,
+            8.2,
+            1.6,
+            3.3
+        ],
+        "Average GPA": 3.41,
+        "Course Title": "Musica Pract:Aural Skills 1"
+    },
+    {
+        "Course Total": 41.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Global Hand Drumming"
+    },
+    {
+        "Course Total": 39.0,
+        "Numbers": [
+            97.4,
+            2.6
+        ],
+        "Average GPA": 3.987,
+        "Course Title": "Jazz Ensemble"
+    },
+    {
+        "Course Total": 10.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Ensemble-Woodwind"
+    },
+    {
+        "Course Total": 39.0,
+        "Numbers": [
+            94.9,
+            2.6
+        ],
+        "Average GPA": 3.885,
+        "Course Title": "Ensemble-Brass"
+    },
+    {
+        "Course Total": 20.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Ensemble-Percussion"
+    },
+    {
+        "Course Total": 15.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Ensemble-String"
+    },
+    {
+        "Course Total": 26.0,
+        "Numbers": [
+            73.1,
+            11.5,
+            7.7,
+            3.8
+        ],
+        "Average GPA": 3.654,
+        "Course Title": "Musica Pract:Aural Skills 3"
+    },
+    {
+        "Course Total": 7.0,
+        "Numbers": [
+            85.7
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Pedagogy"
+    },
+    {
+        "Course Total": 256.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "University Band"
+    },
+    {
+        "Course Total": 50.0,
+        "Numbers": [
+            40.0,
+            30.0,
+            20.0,
+            2.0,
+            2.0
+        ],
+        "Average GPA": 3.414,
+        "Course Title": "Special Topics in Music"
+    },
+    {
+        "Course Total": 18.0,
+        "Numbers": [
+            94.4,
+            5.6
+        ],
+        "Average GPA": 3.972,
+        "Course Title": "Advanced Ensemble-Brass"
+    },
+    {
+        "Course Total": 9.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Adv Ensemble-Percussion"
+    },
+    {
+        "Course Total": 14.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Advanced Ensemble-String"
+    },
+    {
+        "Course Total": 166.0,
+        "Numbers": [
+            99.4
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "All-Univ String Orchestra"
+    },
+    {
+        "Course Total": 19.0,
+        "Numbers": [
+            94.7
+        ],
+        "Average GPA": 3.947,
+        "Course Title": "Independent Work"
+    },
+    {
+        "Course Total": 29.0,
+        "Numbers": [
+            75.9,
+            13.8,
+            6.9
+        ],
+        "Average GPA": 3.793,
+        "Course Title": "Beginning Class Piano"
+    },
+    {
+        "Course Total": 27.0,
+        "Numbers": [
+            77.8,
+            11.1,
+            7.4,
+            3.7
+        ],
+        "Average GPA": 3.829,
+        "Course Title": "Vocal Instr: Non-Voice Majors"
+    },
+    {
+        "Course Total": 22.0,
+        "Numbers": [
+            95.5,
+            4.5
+        ],
+        "Average GPA": 3.967,
+        "Course Title": "Music Lessons for Non Majors"
+    },
+    {
+        "Course Total": 18.0,
+        "Numbers": [
+            88.9,
+            11.1
+        ],
+        "Average GPA": 3.944,
+        "Course Title": "Elem/Intermed Piano-Non-Majors"
+    },
+    {
+        "Course Total": 19.0,
+        "Numbers": [
+            84.2,
+            15.8
+        ],
+        "Average GPA": 3.929,
+        "Course Title": "Elem/Intmed Voice"
+    },
+    {
+        "Course Total": 10.0,
+        "Numbers": [
+            90.0
+        ],
+        "Average GPA": 3.875,
+        "Course Title": "Elem/Intermediate Violin"
+    },
+    {
+        "Course Total": 10.0,
+        "Numbers": [
+            80.0,
+            20.0
+        ],
+        "Average GPA": 3.9,
+        "Course Title": "Elem/Intmed Jazz Studio"
+    },
+    {
+        "Course Total": 6.0,
+        "Numbers": [
+            83.3,
+            16.7
+        ],
+        "Average GPA": 3.917,
+        "Course Title": "Advanced Piano"
+    },
+    {
+        "Course Total": 19.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Advanced Voice"
+    },
+    {
+        "Course Total": 7.0,
+        "Numbers": [
+            71.4,
+            14.3,
+            14.3
+        ],
+        "Average GPA": 3.786,
+        "Course Title": "Advanced Percussion"
+    },
+    {
+        "Course Total": 9.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Advanced Violin"
+    },
+    {
+        "Course Total": 7.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Masters Level-Voice"
+    },
+    {
+        "Course Total": 6.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Masters Level-Violin"
+    },
+    {
+        "Course Total": 7.0,
+        "Numbers": [
+            85.7,
+            14.3
+        ],
+        "Average GPA": 3.929,
+        "Course Title": "Doctoral Level-Piano"
+    },
+    {
+        "Course Total": 8.0,
+        "Numbers": [
+            75.0,
+            25.0
+        ],
+        "Average GPA": 3.875,
+        "Course Title": "Doctoral Level-Voice"
+    },
+    {
+        "Course Total": 6.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Masters Recital"
+    },
+    {
+        "Course Total": 32.0,
+        "Numbers": [
+            87.5,
+            3.1
+        ],
+        "Average GPA": 3.983,
+        "Course Title": "DMA Recital"
+    },
+    {
+        "Course Total": 495.0,
+        "Numbers": [
+            57.0,
+            23.6,
+            12.9,
+            3.2,
+            1.0,
+            0.4,
+            0.8,
+            0.4
+        ],
+        "Average GPA": 3.636,
+        "Course Title": "Introduction to Philosophy"
+    },
+    {
+        "Course Total": 38.0,
+        "Numbers": [
+            76.3,
+            15.8,
+            5.3
+        ],
+        "Average GPA": 3.763,
+        "Course Title": "Spec Topics:Philos-Freshmen"
+    },
+    {
+        "Course Total": 103.0,
+        "Numbers": [
+            47.6,
+            17.5,
+            12.6,
+            14.6,
+            5.8,
+            1.0,
+            1.0
+        ],
+        "Average GPA": 3.382,
+        "Course Title": "Reason in Communication"
+    },
+    {
+        "Course Total": 204.0,
+        "Numbers": [
+            34.8,
+            29.9,
+            16.2,
+            8.3,
+            6.4,
+            2.5,
+            1.5
+        ],
+        "Average GPA": 3.3,
+        "Course Title": "Elementary Logic"
+    },
+    {
+        "Course Total": 303.0,
+        "Numbers": [
+            61.1,
+            20.1,
+            12.5,
+            2.0,
+            2.0,
+            1.0,
+            0.3,
+            1.0
+        ],
+        "Average GPA": 3.658,
+        "Course Title": "Introductory Ethics"
+    },
+    {
+        "Course Total": 177.0,
+        "Numbers": [
+            75.1,
+            14.1,
+            7.3,
+            1.1,
+            0.6
+        ],
+        "Average GPA": 3.795,
+        "Course Title": "Ethics in Business"
+    },
+    {
+        "Course Total": 514.0,
+        "Numbers": [
+            62.8,
+            23.7,
+            6.6,
+            1.6,
+            1.8,
+            0.8,
+            1.2,
+            1.2
+        ],
+        "Average GPA": 3.682,
+        "Course Title": "Contemporary Moral Issues"
+    },
+    {
+        "Course Total": 18.0,
+        "Numbers": [
+            77.8,
+            11.1
+        ],
+        "Average GPA": 3.824,
+        "Course Title": "Classical Philosophers"
+    },
+    {
+        "Course Total": 52.0,
+        "Numbers": [
+            75.0,
+            11.5,
+            5.8,
+            5.8
+        ],
+        "Average GPA": 3.721,
+        "Course Title": "Modern Ethical Theories"
+    },
+    {
+        "Course Total": 24.0,
+        "Numbers": [
+            37.5,
+            20.8,
+            29.2,
+            4.2,
+            8.3
+        ],
+        "Average GPA": 3.375,
+        "Course Title": "Great Moral Philosophers"
+    },
+    {
+        "Course Total": 24.0,
+        "Numbers": [
+            8.3,
+            75.0,
+            12.5
+        ],
+        "Average GPA": 3.478,
+        "Course Title": "Spec Topics in Metaphysics"
+    },
+    {
+        "Course Total": 16.0,
+        "Numbers": [
+            93.8
+        ],
+        "Average GPA": 3.938,
+        "Course Title": "Reading Seminar"
+    },
+    {
+        "Course Total": 9.0,
+        "Numbers": [
+            66.7,
+            22.2
+        ],
+        "Average GPA": 3.875,
+        "Course Title": "Seminar-Ethics"
+    },
+    {
+        "Course Total": 7.0,
+        "Numbers": [
+            85.7
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Independent Work"
+    },
+    {
+        "Course Total": 652.0,
+        "Numbers": [
+            20.2,
+            23.9,
+            23.8,
+            17.8,
+            12.3,
+            0.8,
+            1.2
+        ],
+        "Average GPA": 3.058,
+        "Course Title": "General Physics"
+    },
+    {
+        "Course Total": 283.0,
+        "Numbers": [
+            21.2,
+            22.6,
+            22.3,
+            19.1,
+            12.0,
+            2.1
+        ],
+        "Average GPA": 3.068,
+        "Course Title": "General Physics"
+    },
+    {
+        "Course Total": 229.0,
+        "Numbers": [
+            54.1,
+            20.5,
+            12.7,
+            6.1,
+            3.5,
+            1.3,
+            1.7
+        ],
+        "Average GPA": 3.5,
+        "Course Title": "Physics in the Arts"
+    },
+    {
+        "Course Total": 495.0,
+        "Numbers": [
+            20.0,
+            20.2,
+            21.4,
+            18.8,
+            18.4,
+            0.6,
+            0.4,
+            0.2
+        ],
+        "Average GPA": 2.999,
+        "Course Title": "General Physics"
+    },
+    {
+        "Course Total": 285.0,
+        "Numbers": [
+            20.4,
+            23.5,
+            24.6,
+            17.2,
+            9.8,
+            2.1,
+            2.1
+        ],
+        "Average GPA": 3.032,
+        "Course Title": "General Physics"
+    },
+    {
+        "Course Total": 155.0,
+        "Numbers": [
+            21.9,
+            24.5,
+            28.4,
+            17.4,
+            5.2,
+            2.6
+        ],
+        "Average GPA": 3.152,
+        "Course Title": "General Physics"
+    },
+    {
+        "Course Total": 41.0,
+        "Numbers": [
+            43.9,
+            26.8,
+            14.6,
+            12.2
+        ],
+        "Average GPA": 3.525,
+        "Course Title": "Intmed Lab-Mech&Mod Physics"
+    },
+    {
+        "Course Total": 8.0,
+        "Numbers": [
+            87.5,
+            12.5
+        ],
+        "Average GPA": 3.932,
+        "Course Title": "Independent Study"
+    },
+    {
+        "Course Total": 11.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Topics-Theoretical Physics"
+    },
+    {
+        "Course Total": 208.0,
+        "Numbers": [
+            67.8,
+            18.3,
+            6.3,
+            2.9,
+            1.0,
+            1.0,
+            1.0,
+            1.9
+        ],
+        "Average GPA": 3.671,
+        "Course Title": "Topics in Political Science"
+    },
+    {
+        "Course Total": 12.0,
+        "Numbers": [
+            50.0,
+            33.3,
+            16.7
+        ],
+        "Average GPA": 3.667,
+        "Course Title": "Prosem: Topics in Poli Sci"
+    },
+    {
+        "Course Total": 7.0,
+        "Numbers": [
+            85.7
+        ],
+        "Average GPA": 3.778,
+        "Course Title": "Directed Study"
+    },
+    {
+        "Course Total": 7.0,
+        "Numbers": [
+            71.4,
+            14.3,
+            14.3
+        ],
+        "Average GPA": 3.763,
+        "Course Title": "Topics in Political Science"
+    },
+    {
+        "Course Total": 2241.0,
+        "Numbers": [
+            33.4,
+            15.7,
+            16.6,
+            13.1,
+            10.8,
+            6.2,
+            3.0,
+            1.1
+        ],
+        "Average GPA": 3.027,
+        "Course Title": "Introduction to Psychology"
+    },
+    {
+        "Course Total": 288.0,
+        "Numbers": [
+            48.3,
+            6.3,
+            18.8,
+            6.9,
+            13.5,
+            2.8,
+            2.8
+        ],
+        "Average GPA": 3.206,
+        "Course Title": "Basic Stats for Psychology"
+    },
+    {
+        "Course Total": 259.0,
+        "Numbers": [
+            18.5,
+            19.7,
+            35.5,
+            12.4,
+            12.0,
+            1.2,
+            0.4
+        ],
+        "Average GPA": 3.068,
+        "Course Title": "Research Methods"
+    },
+    {
+        "Course Total": 251.0,
+        "Numbers": [
+            17.1,
+            45.0,
+            16.3,
+            10.4,
+            5.2,
+            4.4,
+            1.2
+        ],
+        "Average GPA": 3.178,
+        "Course Title": "Abnormal Psychology"
+    },
+    {
+        "Course Total": 212.0,
+        "Numbers": [
+            68.9,
+            16.0,
+            8.5,
+            3.3,
+            2.4,
+            0.5,
+            0.5
+        ],
+        "Average GPA": 3.705,
+        "Course Title": "Current Topics - Psychology"
+    },
+    {
+        "Course Total": 49.0,
+        "Numbers": [
+            44.9,
+            28.6,
+            24.5,
+            2.0
+        ],
+        "Average GPA": 3.582,
+        "Course Title": "Intro to Psychotherapy"
+    },
+    {
+        "Course Total": 229.0,
+        "Numbers": [
+            98.3,
+            0.9
+        ],
+        "Average GPA": 3.973,
+        "Course Title": "Mentored Research and Seminar"
+    },
+    {
+        "Course Total": 32.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Directed Study"
+    },
+    {
+        "Course Total": 20.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Current Topics in Psych"
+    },
+    {
+        "Course Total": 51.0,
+        "Numbers": [
+            52.9,
+            41.2,
+            3.9
+        ],
+        "Average GPA": 3.676,
+        "Course Title": "Evidence-Based Policy Making"
+    },
+    {
+        "Course Total": 59.0,
+        "Numbers": [
+            66.1,
+            20.3,
+            8.5,
+            5.1
+        ],
+        "Average GPA": 3.737,
+        "Course Title": "Tools for Public Policy"
+    },
+    {
+        "Course Total": 25.0,
+        "Numbers": [
+            44.0,
+            20.0,
+            28.0,
+            4.0,
+            4.0
+        ],
+        "Average GPA": 3.48,
+        "Course Title": "Benefit-Cost Analysis"
+    },
+    {
+        "Course Total": 40.0,
+        "Numbers": [
+            95.0
+        ],
+        "Average GPA": 3.962,
+        "Course Title": "Topics in Public Affairs"
+    },
+    {
+        "Course Total": 31.0,
+        "Numbers": [
+            64.5,
+            16.1,
+            19.4
+        ],
+        "Average GPA": 3.726,
+        "Course Title": "Intro Topics in Relig St (H)"
+    },
+    {
+        "Course Total": 19.0,
+        "Numbers": [
+            21.1,
+            31.6
+        ],
+        "Average GPA": 3.458,
+        "Course Title": "Topics in Relig St-Humanities"
+    },
+    {
+        "Course Total": 17.0,
+        "Numbers": [
+            64.7,
+            23.5
+        ],
+        "Average GPA": 3.706,
+        "Course Title": "Third Semester Russian"
+    },
+    {
+        "Course Total": 49.0,
+        "Numbers": [
+            75.5,
+            6.1,
+            6.1,
+            2.0,
+            4.1
+        ],
+        "Average GPA": 3.702,
+        "Course Title": "Topics-Slavic Literatures"
+    },
+    {
+        "Course Total": 8.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Seminar: Slavic Lit & Culture"
+    },
+    {
+        "Course Total": 109.0,
+        "Numbers": [
+            62.4,
+            14.7,
+            14.7,
+            4.6
+        ],
+        "Average GPA": 3.625,
+        "Course Title": "Intro-Field of Social Work"
+    },
+    {
+        "Course Total": 86.0,
+        "Numbers": [
+            86.0,
+            11.6,
+            2.3
+        ],
+        "Average GPA": 3.919,
+        "Course Title": "Field Pract/Integrat Smr I"
+    },
+    {
+        "Course Total": 85.0,
+        "Numbers": [
+            91.8,
+            5.9
+        ],
+        "Average GPA": 3.952,
+        "Course Title": "SW with Ind, Fams, and Grps"
+    },
+    {
+        "Course Total": 63.0,
+        "Numbers": [
+            65.1,
+            31.7,
+            3.2
+        ],
+        "Average GPA": 3.81,
+        "Course Title": "Genlst Pract w Comms & Orgs"
+    },
+    {
+        "Course Total": 39.0,
+        "Numbers": [
+            59.0,
+            30.8,
+            10.3
+        ],
+        "Average GPA": 3.744,
+        "Course Title": "The Field of Social Work"
+    },
+    {
+        "Course Total": 24.0,
+        "Numbers": [
+            66.7,
+            8.3,
+            16.7,
+            4.2
+        ],
+        "Average GPA": 3.524,
+        "Course Title": "Issues in Dev. Disabilities"
+    },
+    {
+        "Course Total": 42.0,
+        "Numbers": [
+            88.1,
+            9.5
+        ],
+        "Average GPA": 3.905,
+        "Course Title": "Interventn-Chldrn, Youth, Fam"
+    },
+    {
+        "Course Total": 129.0,
+        "Numbers": [
+            87.6,
+            7.8,
+            2.3,
+            0.8
+        ],
+        "Average GPA": 3.905,
+        "Course Title": "Field Prac/Integrat Smr III"
+    },
+    {
+        "Course Total": 64.0,
+        "Numbers": [
+            78.1,
+            12.5,
+            7.8
+        ],
+        "Average GPA": 3.797,
+        "Course Title": "Adv Soc Work Pract-Mental Hlth"
+    },
+    {
+        "Course Total": 60.0,
+        "Numbers": [
+            76.7,
+            23.3
+        ],
+        "Average GPA": 3.883,
+        "Course Title": "Advanced Macro Practice"
+    },
+    {
+        "Course Total": 18.0,
+        "Numbers": [
+            94.4,
+            5.6
+        ],
+        "Average GPA": 3.972,
+        "Course Title": "Soc Work Practice in Hlth Care"
+    },
+    {
+        "Course Total": 21.0,
+        "Numbers": [
+            38.1,
+            61.9
+        ],
+        "Average GPA": 3.69,
+        "Course Title": "Hlth, Aging, Disably Pol&Serv"
+    },
+    {
+        "Course Total": 13.0,
+        "Numbers": [
+            76.9
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Independent Reading"
+    },
+    {
+        "Course Total": 717.0,
+        "Numbers": [
+            53.3,
+            22.9,
+            12.3,
+            5.4,
+            3.6,
+            0.8,
+            1.1,
+            0.1
+        ],
+        "Average GPA": 3.536,
+        "Course Title": "Soc of Race & Ethnicity in US"
+    },
+    {
+        "Course Total": 82.0,
+        "Numbers": [
+            42.7,
+            34.1,
+            15.9,
+            6.1
+        ],
+        "Average GPA": 3.53,
+        "Course Title": "The Sociological Enterprise"
+    },
+    {
+        "Course Total": 9.0,
+        "Numbers": [
+            88.9
+        ],
+        "Average GPA": 3.368,
+        "Course Title": "Research Practicum"
+    },
+    {
+        "Course Total": 25.0,
+        "Numbers": [
+            72.0,
+            16.0,
+            4.0
+        ],
+        "Average GPA": 3.611,
+        "Course Title": "Topics in Sociology"
+    },
+    {
+        "Course Total": 25.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Special Topics"
+    },
+    {
+        "Course Total": 144.0,
+        "Numbers": [
+            25.7,
+            18.1,
+            29.9,
+            4.9,
+            13.2,
+            4.2,
+            2.8,
+            1.4
+        ],
+        "Average GPA": 3.025,
+        "Course Title": "First Semester Spanish"
+    },
+    {
+        "Course Total": 157.0,
+        "Numbers": [
+            17.2,
+            21.0,
+            28.0,
+            12.7,
+            15.9,
+            3.8,
+            1.3
+        ],
+        "Average GPA": 2.939,
+        "Course Title": "Second Semester Spanish"
+    },
+    {
+        "Course Total": 174.0,
+        "Numbers": [
+            63.8,
+            17.2,
+            12.1,
+            3.4,
+            1.1,
+            1.7
+        ],
+        "Average GPA": 3.665,
+        "Course Title": "Third Semester Spanish"
+    },
+    {
+        "Course Total": 172.0,
+        "Numbers": [
+            65.1,
+            19.8,
+            9.3,
+            2.9,
+            1.2,
+            0.6,
+            0.6,
+            0.6
+        ],
+        "Average GPA": 3.699,
+        "Course Title": "Fourth Semester Spanish"
+    },
+    {
+        "Course Total": 90.0,
+        "Numbers": [
+            46.7,
+            16.7,
+            25.6,
+            5.6,
+            4.4
+        ],
+        "Average GPA": 3.444,
+        "Course Title": "Intro-Hispanic Literatures"
+    },
+    {
+        "Course Total": 366.0,
+        "Numbers": [
+            71.6,
+            14.2,
+            8.2,
+            2.5,
+            0.8,
+            0.8,
+            1.4
+        ],
+        "Average GPA": 3.713,
+        "Course Title": "Interm Lang Prac-"
+    },
+    {
+        "Course Total": 151.0,
+        "Numbers": [
+            62.9,
+            17.2,
+            15.2,
+            3.3,
+            0.7
+        ],
+        "Average GPA": 3.672,
+        "Course Title": "Advanced Language Practice"
+    },
+    {
+        "Course Total": 31.0,
+        "Numbers": [
+            71.0,
+            19.4,
+            9.7
+        ],
+        "Average GPA": 3.806,
+        "Course Title": "Topics in Span Lang Pract"
+    },
+    {
+        "Course Total": 34.0,
+        "Numbers": [
+            41.2,
+            20.6,
+            26.5,
+            8.8,
+            2.9
+        ],
+        "Average GPA": 3.441,
+        "Course Title": "Spanish Phonetics"
+    },
+    {
+        "Course Total": 47.0,
+        "Numbers": [
+            97.9
+        ],
+        "Average GPA": 3.915,
+        "Course Title": "Advanced Conversation"
+    },
+    {
+        "Course Total": 41.0,
+        "Numbers": [
+            48.8,
+            17.1,
+            24.4,
+            4.9,
+            4.9
+        ],
+        "Average GPA": 3.5,
+        "Course Title": "Survey of Spanish American Lit"
+    },
+    {
+        "Course Total": 46.0,
+        "Numbers": [
+            91.3,
+            4.3,
+            4.3
+        ],
+        "Average GPA": 3.935,
+        "Course Title": "Spanish for Business"
+    },
+    {
+        "Course Total": 25.0,
+        "Numbers": [
+            16.0,
+            12.0,
+            20.0,
+            8.0,
+            36.0,
+            4.0
+        ],
+        "Average GPA": 2.73,
+        "Course Title": "Topics in Hispanic Culture"
+    },
+    {
+        "Course Total": 446.0,
+        "Numbers": [
+            55.2,
+            28.9,
+            10.5,
+            3.1,
+            0.2,
+            0.4,
+            1.3
+        ],
+        "Average GPA": 3.63,
+        "Course Title": "Data Science Modeling I"
+    },
+    {
+        "Course Total": 394.0,
+        "Numbers": [
+            23.6,
+            10.7,
+            21.6,
+            16.8,
+            19.8,
+            4.6,
+            2.5
+        ],
+        "Average GPA": 2.839,
+        "Course Title": "Intro-Statistical Methods"
+    },
+    {
+        "Course Total": 106.0,
+        "Numbers": [
+            62.3,
+            8.5,
+            17.9,
+            3.8,
+            6.6
+        ],
+        "Average GPA": 3.552,
+        "Course Title": "R for Statistics I"
+    },
+    {
+        "Course Total": 50.0,
+        "Numbers": [
+            74.0,
+            8.0,
+            10.0,
+            2.0,
+            6.0
+        ],
+        "Average GPA": 3.71,
+        "Course Title": "R for Statistics II"
+    },
+    {
+        "Course Total": 28.0,
+        "Numbers": [
+            67.9,
+            21.4,
+            10.7
+        ],
+        "Average GPA": 3.786,
+        "Course Title": "R for Statistics III"
+    },
+    {
+        "Course Total": 141.0,
+        "Numbers": [
+            30.5,
+            23.4,
+            23.4,
+            9.9,
+            8.5,
+            2.1,
+            2.1
+        ],
+        "Average GPA": 3.181,
+        "Course Title": "Intro Math Stat (Theo, Meth) I"
+    },
+    {
+        "Course Total": 397.0,
+        "Numbers": [
+            27.2,
+            18.6,
+            26.2,
+            11.8,
+            11.1,
+            3.5,
+            1.3
+        ],
+        "Average GPA": 3.087,
+        "Course Title": "Intro Applied Stats for Engrs"
+    },
+    {
+        "Course Total": 251.0,
+        "Numbers": [
+            19.9,
+            29.5,
+            23.9,
+            14.7,
+            9.6,
+            0.8,
+            1.6
+        ],
+        "Average GPA": 3.114,
+        "Course Title": "Data Science Modeling II"
+    },
+    {
+        "Course Total": 43.0,
+        "Numbers": [
+            32.6,
+            16.3,
+            16.3,
+            16.3,
+            11.6,
+            7.0
+        ],
+        "Average GPA": 3.07,
+        "Course Title": "Introduction to Time Series"
+    },
+    {
+        "Course Total": 525.0,
+        "Numbers": [
+            25.3,
+            11.0,
+            20.0,
+            15.8,
+            20.6,
+            4.6,
+            2.5
+        ],
+        "Average GPA": 2.858,
+        "Course Title": "Intro Applied Stats-Life Sci"
+    },
+    {
+        "Course Total": 66.0,
+        "Numbers": [
+            47.0,
+            25.8,
+            12.1,
+            3.0,
+            9.1,
+            1.5,
+            1.5
+        ],
+        "Average GPA": 3.417,
+        "Course Title": "Appl Categorical Data Anal"
+    },
+    {
+        "Course Total": 24.0,
+        "Numbers": [
+            33.3,
+            8.3,
+            29.2,
+            16.7,
+            4.2
+        ],
+        "Average GPA": 3.0,
+        "Course Title": "Intro-Theory of Probability"
+    },
+    {
+        "Course Total": 67.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Data Science with R"
+    },
+    {
+        "Course Total": 134.0,
+        "Numbers": [
+            51.5,
+            20.9,
+            10.4,
+            6.0,
+            7.5,
+            3.0
+        ],
+        "Average GPA": 3.459,
+        "Course Title": "Machine Learning"
+    },
+    {
+        "Course Total": 19.0,
+        "Numbers": [
+            15.8
+        ],
+        "Average GPA": 2.579,
+        "Course Title": "Intro-Combinatorics"
+    },
+    {
+        "Course Total": 8.0,
+        "Numbers": [
+            50.0,
+            25.0,
+            25.0
+        ],
+        "Average GPA": 3.625,
+        "Course Title": "Intro to Biostatistics"
+    },
+    {
+        "Course Total": 107.0,
+        "Numbers": [
+            44.9,
+            33.6,
+            19.6
+        ],
+        "Average GPA": 3.629,
+        "Course Title": "Stat Meth for Bioscience I"
+    },
+    {
+        "Course Total": 61.0,
+        "Numbers": [
+            21.3,
+            77.0
+        ],
+        "Average GPA": 3.549,
+        "Course Title": "Statistical Methods I"
+    },
+    {
+        "Course Total": 58.0,
+        "Numbers": [
+            34.5,
+            41.4,
+            24.1
+        ],
+        "Average GPA": 3.552,
+        "Course Title": "Intro-Statistical Inference"
+    },
+    {
+        "Course Total": 11.0,
+        "Numbers": [
+            45.5,
+            9.1,
+            36.4,
+            9.1
+        ],
+        "Average GPA": 3.455,
+        "Course Title": "Intro-Stochastic Processes"
+    },
+    {
+        "Course Total": 10.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Directed Study"
+    },
+    {
+        "Course Total": 28.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Seminar"
+    },
+    {
+        "Course Total": 38.0,
+        "Numbers": [
+            97.4,
+            2.6
+        ],
+        "Average GPA": 3.994,
+        "Course Title": "Contemp Topics-Urb & Reg Pl"
+    },
+    {
+        "Course Total": 7.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Independent Work"
+    },
+    {
+        "Course Total": 545.0,
+        "Numbers": [
+            77.8,
+            13.8,
+            4.2,
+            1.8,
+            1.3,
+            0.6,
+            0.4
+        ],
+        "Average GPA": 3.804,
+        "Course Title": "Gender Women Bodies and"
+    },
+    {
+        "Course Total": 53.0,
+        "Numbers": [
+            50.9,
+            37.7,
+            7.5,
+            3.8
+        ],
+        "Average GPA": 3.679,
+        "Course Title": "Topics: Gender & Biology"
+    },
+    {
+        "Course Total": 30.0,
+        "Numbers": [
+            86.7,
+            6.7
+        ],
+        "Average GPA": 3.964,
+        "Course Title": "Spec Topics-Gender&Wmn"
+    },
+    {
+        "Course Total": 214.0,
+        "Numbers": [
+            22.4,
+            8.9,
+            18.2,
+            13.6,
+            24.3,
+            9.8,
+            2.3,
+            0.5
+        ],
+        "Average GPA": 2.69,
+        "Course Title": "Animal Biology"
+    },
+    {
+        "Course Total": 109.0,
+        "Numbers": [
+            27.5,
+            20.2,
+            21.1,
+            11.0,
+            12.8,
+            5.5,
+            1.8
+        ],
+        "Average GPA": 3.028,
+        "Course Title": "Animal Biology Laboratory"
+    },
+    {
+        "Course Total": 128.0,
+        "Numbers": [
+            27.3,
+            12.5,
+            29.7,
+            8.6,
+            16.4,
+            3.1,
+            2.3
+        ],
+        "Average GPA": 2.996,
+        "Course Title": "Introductory Biology"
+    },
+    {
+        "Course Total": 52.0,
+        "Numbers": [
+            34.6,
+            17.3,
+            34.6,
+            5.8,
+            5.8,
+            1.9
+        ],
+        "Average GPA": 3.308,
+        "Course Title": "Introductory Biology"
+    },
+    {
+        "Course Total": 12.0,
+        "Numbers": [
+            91.7
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Directed Studies in Zoology"
+    },
+    {
+        "Course Total": 93.0,
+        "Numbers": [
+            25.8,
+            22.6,
+            12.9,
+            17.2,
+            14.0,
+            4.3,
+            1.1,
+            2.2
+        ],
+        "Average GPA": 3.027,
+        "Course Title": "Topics in Biology"
+    },
+    {
+        "Course Total": 65.0,
+        "Numbers": [
+            95.4,
+            1.5,
+            3.1
+        ],
+        "Average GPA": 3.942,
+        "Course Title": "Directed Studies in Zoology"
+    },
+    {
+        "Course Total": 251.0,
+        "Numbers": [
+            14.7
+        ],
+        "Average GPA": 1.355,
+        "Course Title": "Contracts I"
+    },
+    {
+        "Course Total": 248.0,
+        "Numbers": [
+            11.3
+        ],
+        "Average GPA": 1.052,
+        "Course Title": "Civil Procedure I"
+    },
+    {
+        "Course Total": 240.0,
+        "Numbers": [
+            13.8
+        ],
+        "Average GPA": 1.154,
+        "Course Title": "Legal Research and Writing"
+    },
+    {
+        "Course Total": 247.0,
+        "Numbers": [
+            13.8
+        ],
+        "Average GPA": 1.372,
+        "Course Title": "Intro-Substan Criminal Law"
+    },
+    {
+        "Course Total": 171.0,
+        "Numbers": [
+            7.6
+        ],
+        "Average GPA": 0.75,
+        "Course Title": "Constitutional Law I"
+    },
+    {
+        "Course Total": 121.0,
+        "Numbers": [
+            13.2
+        ],
+        "Average GPA": 1.286,
+        "Course Title": "Constitutional Law II"
+    },
+    {
+        "Course Total": 114.0,
+        "Numbers": [
+            15.8
+        ],
+        "Average GPA": 1.164,
+        "Course Title": "Administrative Law"
+    },
+    {
+        "Course Total": 151.0,
+        "Numbers": [
+            14.6
+        ],
+        "Average GPA": 1.281,
+        "Course Title": "Select Topics-Estate Planning"
+    },
+    {
+        "Course Total": 125.0,
+        "Numbers": [
+            13.6
+        ],
+        "Average GPA": 1.322,
+        "Course Title": "Professnl Responsibilities"
+    },
+    {
+        "Course Total": 16.0,
+        "Numbers": [
+            6.3
+        ],
+        "Average GPA": 1.857,
+        "Course Title": "Constitutional Law Seminar"
+    },
+    {
+        "Course Total": 31.0,
+        "Numbers": [
+            12.9
+        ],
+        "Average GPA": 1.077,
+        "Course Title": "Probs-Criminal Justice Adm"
+    },
+    {
+        "Course Total": 39.0,
+        "Numbers": [
+            12.8
+        ],
+        "Average GPA": 1.286,
+        "Course Title": "Problems: Intl Law Seminar"
+    },
+    {
+        "Course Total": 175.0,
+        "Numbers": [
+            14.9
+        ],
+        "Average GPA": 1.579,
+        "Course Title": "Law & Contemporary Problems"
+    },
+    {
+        "Course Total": 10.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Independent Study"
+    },
+    {
+        "Course Total": 48.0,
+        "Numbers": [
+            64.6,
+            20.8,
+            10.4
+        ],
+        "Average GPA": 3.745,
+        "Course Title": "Intro to Biostatistics"
+    },
+    {
+        "Course Total": 14.0,
+        "Numbers": [
+            92.9
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Independent Study"
+    },
+    {
+        "Course Total": 20.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Biostats & Biomed Informatics"
+    },
+    {
+        "Course Total": 25.0,
+        "Numbers": [
+            84.0
+        ],
+        "Average GPA": 3.963,
+        "Course Title": "Pre-dissertator Research"
+    },
+    {
+        "Course Total": 22.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Independent Study"
+    },
+    {
+        "Course Total": 30.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Directed Study"
+    },
+    {
+        "Course Total": 16.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Research"
+    },
+    {
+        "Course Total": 14.0,
+        "Numbers": [
+            92.9
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Ind Stdy-Hum Cancer Bio"
+    },
+    {
+        "Course Total": 30.0,
+        "Numbers": [
+            96.7,
+            3.3
+        ],
+        "Average GPA": 3.979,
+        "Course Title": "Directed Study"
+    },
+    {
+        "Course Total": 14.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Seminar"
+    },
+    {
+        "Course Total": 29.0,
+        "Numbers": [
+            93.1,
+            3.4
+        ],
+        "Average GPA": 3.953,
+        "Course Title": "Topics-Medical Physics"
+    },
+    {
+        "Course Total": 17.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Ind Reading or Research"
+    },
+    {
+        "Course Total": 40.0,
+        "Numbers": [
+            97.5,
+            2.5
+        ],
+        "Average GPA": 3.988,
+        "Course Title": "Journal Club and Seminar"
+    },
+    {
+        "Course Total": 101.0,
+        "Numbers": [
+            99.0,
+            1.0
+        ],
+        "Average GPA": 3.998,
+        "Course Title": "Independent Study"
+    },
+    {
+        "Course Total": 37.0,
+        "Numbers": [
+            94.6,
+            2.7
+        ],
+        "Average GPA": 3.988,
+        "Course Title": "Directed Research in Neurology"
+    },
+    {
+        "Course Total": 35.0,
+        "Numbers": [
+            97.1
+        ],
+        "Average GPA": 3.988,
+        "Course Title": "Neurosurg-Directed Study"
+    },
+    {
+        "Course Total": 49.0,
+        "Numbers": [
+            98.0
+        ],
+        "Average GPA": 3.991,
+        "Course Title": "Directed Study"
+    },
+    {
+        "Course Total": 13.0,
+        "Numbers": [
+            92.3,
+            7.7
+        ],
+        "Average GPA": 3.952,
+        "Course Title": "Topics in Cancer Research"
+    },
+    {
+        "Course Total": 22.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Special Research Problems"
+    },
+    {
+        "Course Total": 21.0,
+        "Numbers": [
+            90.5,
+            4.8,
+            4.8
+        ],
+        "Average GPA": 3.915,
+        "Course Title": "Directed Study"
+    },
+    {
+        "Course Total": 11.0,
+        "Numbers": [
+            81.8,
+            18.2
+        ],
+        "Average GPA": 3.952,
+        "Course Title": "Independent Study"
+    },
+    {
+        "Course Total": 49.0,
+        "Numbers": [
+            98.0,
+            2.0
+        ],
+        "Average GPA": 3.989,
+        "Course Title": "Independent Study"
+    },
+    {
+        "Course Total": 13.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Research"
+    },
+    {
+        "Course Total": 7.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Research Practicum"
+    },
+    {
+        "Course Total": 24.0,
+        "Numbers": [
+            75.0,
+            8.3
+        ],
+        "Average GPA": 3.95,
+        "Course Title": "Independent Study"
+    },
+    {
+        "Course Total": 20.0,
+        "Numbers": [
+            95.0
+        ],
+        "Average GPA": 3.94,
+        "Course Title": "Special Research Problems"
+    },
+    {
+        "Course Total": 26.0,
+        "Numbers": [
+            46.2,
+            38.5,
+            15.4
+        ],
+        "Average GPA": 3.654,
+        "Course Title": "Introduction to Epidemiology"
+    },
+    {
+        "Course Total": 13.0,
+        "Numbers": [
+            23.1
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Internl Hlth Systems & Policy"
+    },
+    {
+        "Course Total": 21.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Independent Study"
+    },
+    {
+        "Course Total": 44.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Independent Study"
+    },
+    {
+        "Course Total": 6.0,
+        "Numbers": [
+            83.3
+        ],
+        "Average GPA": 3.833,
+        "Course Title": "Foundations Prof Nursing Pract"
+    },
+    {
+        "Course Total": 10.0,
+        "Numbers": [
+            30.0,
+            50.0,
+            10.0
+        ],
+        "Average GPA": 3.45,
+        "Course Title": "Chronic Care Management"
+    },
+    {
+        "Course Total": 6.0,
+        "Numbers": [
+            16.7,
+            50.0,
+            16.7,
+            16.7
+        ],
+        "Average GPA": 3.333,
+        "Course Title": "Nrsg Research & EB Practice"
+    },
+    {
+        "Course Total": 8.0,
+        "Numbers": [
+            75.0,
+            25.0
+        ],
+        "Average GPA": 3.875,
+        "Course Title": "Leadership and Management"
+    },
+    {
+        "Course Total": 11.0,
+        "Numbers": [
+            90.9
+        ],
+        "Average GPA": 3.864,
+        "Course Title": "Community Health Nursing"
+    },
+    {
+        "Course Total": 11.0,
+        "Numbers": [
+            72.7,
+            9.1,
+            9.1
+        ],
+        "Average GPA": 3.682,
+        "Course Title": "Special Topics in Nursing"
+    },
+    {
+        "Course Total": 207.0,
+        "Numbers": [
+            74.9,
+            24.6,
+            0.5
+        ],
+        "Average GPA": 3.872,
+        "Course Title": "Hlth Promo Dz Prev Acrs Lfspn"
+    },
+    {
+        "Course Total": 159.0,
+        "Numbers": [
+            79.9,
+            16.4,
+            3.1,
+            0.6
+        ],
+        "Average GPA": 3.877,
+        "Course Title": "Profnlism in a Nrsg Practice"
+    },
+    {
+        "Course Total": 199.0,
+        "Numbers": [
+            6.5,
+            43.7,
+            41.2,
+            8.0,
+            0.5
+        ],
+        "Average GPA": 3.235,
+        "Course Title": "Hlth & Ill Indiv Fam Cmty"
+    },
+    {
+        "Course Total": 6.0,
+        "Numbers": [
+            16.7,
+            50.0,
+            33.3
+        ],
+        "Average GPA": 3.406,
+        "Course Title": "School Nursing and Comm Hlth"
+    },
+    {
+        "Course Total": 44.0,
+        "Numbers": [
+            93.2,
+            6.8
+        ],
+        "Average GPA": 3.966,
+        "Course Title": "Nursing Research"
+    },
+    {
+        "Course Total": 34.0,
+        "Numbers": [
+            73.5,
+            23.5,
+            2.9
+        ],
+        "Average GPA": 3.853,
+        "Course Title": "Foundations APN Clin Pract I"
+    },
+    {
+        "Course Total": 34.0,
+        "Numbers": [
+            88.2,
+            5.9,
+            2.9,
+            2.9
+        ],
+        "Average GPA": 3.894,
+        "Course Title": "APN Clin Appl & Role Dev I"
+    },
+    {
+        "Course Total": 10.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Proseminar in Nursing Research"
+    },
+    {
+        "Course Total": 27.0,
+        "Numbers": [
+            81.5,
+            18.5
+        ],
+        "Average GPA": 3.907,
+        "Course Title": "Foundations APN Clin Pract III"
+    },
+    {
+        "Course Total": 30.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Clinical Leadership III"
+    },
+    {
+        "Course Total": 16.0,
+        "Numbers": [
+            87.5,
+            12.5
+        ],
+        "Average GPA": 3.871,
+        "Course Title": "Advanced Independent Study"
+    },
+    {
+        "Course Total": 29.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Advanced Independent Study"
+    },
+    {
+        "Course Total": 22.0,
+        "Numbers": [
+            81.8,
+            4.5,
+            9.1,
+            4.5
+        ],
+        "Average GPA": 3.818,
+        "Course Title": "The Drug Development Process"
+    },
+    {
+        "Course Total": 34.0,
+        "Numbers": [
+            82.4,
+            14.7,
+            2.9
+        ],
+        "Average GPA": 3.897,
+        "Course Title": "Introduction to Reg Practice"
+    },
+    {
+        "Course Total": 23.0,
+        "Numbers": [
+            39.1,
+            43.5,
+            8.7
+        ],
+        "Average GPA": 3.478,
+        "Course Title": "Pharmacokinetics"
+    },
+    {
+        "Course Total": 41.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Exploring Pharmacy I"
+    },
+    {
+        "Course Total": 54.0,
+        "Numbers": [
+            81.5,
+            9.3,
+            1.9
+        ],
+        "Average GPA": 3.93,
+        "Course Title": "Cannabinoids"
+    },
+    {
+        "Course Total": 55.0,
+        "Numbers": [
+            87.3,
+            5.5,
+            3.6,
+            1.8
+        ],
+        "Average GPA": 3.907,
+        "Course Title": "Research Ethics"
+    },
+    {
+        "Course Total": 31.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Advanced Independent Study"
+    },
+    {
+        "Course Total": 33.0,
+        "Numbers": [
+            87.9,
+            6.1,
+            3.0
+        ],
+        "Average GPA": 3.879,
+        "Course Title": "Acute Pharmaceut Care Clerkshp"
+    },
+    {
+        "Course Total": 36.0,
+        "Numbers": [
+            83.3,
+            11.1,
+            2.8
+        ],
+        "Average GPA": 3.861,
+        "Course Title": "Ambulatry Phmceut Care Clrk"
+    },
+    {
+        "Course Total": 32.0,
+        "Numbers": [
+            96.9,
+            3.1
+        ],
+        "Average GPA": 3.984,
+        "Course Title": "Health-system Pharm Clerkship"
+    },
+    {
+        "Course Total": 34.0,
+        "Numbers": [
+            97.1,
+            2.9
+        ],
+        "Average GPA": 3.985,
+        "Course Title": "Community Pharmarcy Practice"
+    },
+    {
+        "Course Total": 109.0,
+        "Numbers": [
+            89.0,
+            6.4,
+            4.6
+        ],
+        "Average GPA": 3.922,
+        "Course Title": "Elective Pharm Pract Clkshp"
+    },
+    {
+        "Course Total": 50.0,
+        "Numbers": [
+            64.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Sr Rotation:Lrge Animal Med"
+    },
+    {
+        "Course Total": 115.0,
+        "Numbers": [
+            53.9
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Special Topics"
+    },
+    {
+        "Course Total": 62.0,
+        "Numbers": [
+            43.5
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Small Animal Internal Med"
+    },
+    {
+        "Course Total": 34.0,
+        "Numbers": [
+            52.9
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Directed Study"
+    },
+    {
+        "Course Total": 21.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "SA WisCARES"
+    },
+    {
+        "Course Total": 237.0,
+        "Numbers": [
+            2.1
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Special Topics"
+    },
+    {
+        "Course Total": 17.0,
+        "Numbers": [
+            82.4
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Directed Study"
+    },
+    {
+        "Course Total": 25.0,
+        "Numbers": [
+            96.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Directed Study"
+    },
+    {
+        "Course Total": 41.0,
+        "Numbers": [
+            75.6
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Small Animal Genrl Surgery"
+    },
+    {
+        "Course Total": 83.0,
+        "Numbers": [
+            39.8
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Special Topics"
+    },
+    {
+        "Course Total": 11.0,
+        "Numbers": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Directed Study"
+    },
+    {
+        "Course Total": 17.0,
+        "Numbers": [
+            70.6
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Special Species Rotation"
+    },
+    {
+        "Course Total": 7.0,
+        "Numbers": [
+            71.4
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Wildlife Medicine Rotation"
+    }
+]
