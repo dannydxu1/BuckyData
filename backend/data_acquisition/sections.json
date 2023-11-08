@@ -1,0 +1,2701 @@
+[
+    {
+        "Course Total": 9.0,
+        "Subject Designator": "COM ARTS",
+        "Subject Name": "COMMUNICATION ARTS",
+        "Course ID": "699",
+        "Grades Dists": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Directed Study",
+        "Sections": [],
+        "Number of Sections": 0
+    },
+    {
+        "Course Total": 14.0,
+        "Subject Designator": "COM ARTS",
+        "Subject Name": "COMMUNICATION ARTS",
+        "Course ID": "950",
+        "Grades Dists": [
+            92.9,
+            7.1
+        ],
+        "Average GPA": 3.964,
+        "Course Title": "Smr-Radio-Tv-Film",
+        "Sections": [
+            {
+                "Section ID": "001",
+                "Section Total": "6",
+                "Average GPA": 3.917,
+                "Section Grade Dist": [
+                    83.3,
+                    16.7,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "002",
+                "Section Total": "8",
+                "Average GPA": 4.0,
+                "Section Grade Dist": [
+                    100.0,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "Number of Sections": 2
+    },
+    {
+        "Course Total": 39.0,
+        "Subject Designator": "CS&D",
+        "Subject Name": "COMMUNICATION SCI & DISORD",
+        "Course ID": "699",
+        "Grades Dists": [
+            97.4,
+            2.6
+        ],
+        "Average GPA": 3.988,
+        "Course Title": "Directed Study",
+        "Sections": [
+            {
+                "Section ID": "005",
+                "Section Total": "12",
+                "Average GPA": 4.0,
+                "Section Grade Dist": [
+                    100.0,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "024",
+                "Section Total": "7",
+                "Average GPA": 4.0,
+                "Section Grade Dist": [
+                    100.0,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "046",
+                "Section Total": "8",
+                "Average GPA": 4.0,
+                "Section Grade Dist": [
+                    100.0,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "Number of Sections": 3
+    },
+    {
+        "Course Total": 53.0,
+        "Subject Designator": "CS&D",
+        "Subject Name": "COMMUNICATION SCI & DISORD",
+        "Course ID": "790",
+        "Grades Dists": [
+            96.2,
+            1.9
+        ],
+        "Average GPA": 3.953,
+        "Course Title": "Practicum in Com Disorders",
+        "Sections": [
+            {
+                "Section ID": "001",
+                "Section Total": "7",
+                "Average GPA": 3.906,
+                "Section Grade Dist": [
+                    85.7,
+                    14.3,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "004",
+                "Section Total": "6",
+                "Average GPA": 4.0,
+                "Section Grade Dist": [
+                    100.0,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "005",
+                "Section Total": "7",
+                "Average GPA": 4.0,
+                "Section Grade Dist": [
+                    100.0,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "007",
+                "Section Total": "17",
+                "Average GPA": 4.0,
+                "Section Grade Dist": [
+                    100.0,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "Number of Sections": 4
+    },
+    {
+        "Course Total": 14.0,
+        "Subject Designator": "CS&D",
+        "Subject Name": "COMMUNICATION SCI & DISORD",
+        "Course ID": "1232",
+        "Grades Dists": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Independent Study",
+        "Sections": [],
+        "Number of Sections": 0
+    },
+    {
+        "Course Total": 7.0,
+        "Subject Designator": "CS&D",
+        "Subject Name": "COMMUNICATION SCI & DISORD",
+        "Course ID": "891",
+        "Grades Dists": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Clerkship in Audiology I",
+        "Sections": [],
+        "Number of Sections": 0
+    },
+    {
+        "Course Total": 8.0,
+        "Subject Designator": "CS&D",
+        "Subject Name": "COMMUNICATION SCI & DISORD",
+        "Course ID": "892",
+        "Grades Dists": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Clerkship in Audiology II",
+        "Sections": [],
+        "Number of Sections": 0
+    },
+    {
+        "Course Total": 11.0,
+        "Subject Designator": "CS&D",
+        "Subject Name": "COMMUNICATION SCI & DISORD",
+        "Course ID": "899",
+        "Grades Dists": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Capstone Study in Audiology",
+        "Sections": [],
+        "Number of Sections": 0
+    },
+    {
+        "Course Total": 15.0,
+        "Subject Designator": "CS&D",
+        "Subject Name": "COMMUNICATION SCI & DISORD",
+        "Course ID": "999",
+        "Grades Dists": [
+            100.0
+        ],
+        "Average GPA": 4.0,
+        "Course Title": "Independent Studies",
+        "Sections": [],
+        "Number of Sections": 0
+    },
+    {
+        "Course Total": 66.0,
+        "Subject Designator": "COMP LIT",
+        "Subject Name": "COMPARATIVE LITERATURE",
+        "Course ID": "203",
+        "Grades Dists": [
+            62.1,
+            28.8,
+            4.5,
+            1.5,
+            1.5,
+            1.5
+        ],
+        "Average GPA": 3.712,
+        "Course Title": "Intro Cross-Cultrl Lit Form",
+        "Sections": [
+            {
+                "Section ID": "001",
+                "Section Total": "17",
+                "Average GPA": 4.0,
+                "Section Grade Dist": [
+                    100.0,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "002",
+                "Section Total": "24",
+                "Average GPA": 3.604,
+                "Section Grade Dist": [
+                    41.7,
+                    41.7,
+                    12.5,
+                    4.2,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "003",
+                "Section Total": "25",
+                "Average GPA": 3.62,
+                "Section Grade Dist": [
+                    56.0,
+                    36.0,
+                    null,
+                    null,
+                    4.0,
+                    4.0,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "Number of Sections": 3
+    },
+    {
+        "Course Total": 850.0,
+        "Subject Designator": "COMP SCI",
+        "Subject Name": "COMPUTER SCIENCES",
+        "Course ID": "200",
+        "Grades Dists": [
+            53.6,
+            18.4,
+            12.5,
+            6.1,
+            5.1,
+            1.9,
+            2.5
+        ],
+        "Average GPA": 3.435,
+        "Course Title": "Programming I",
+        "Sections": [
+            {
+                "Section ID": "001",
+                "Section Total": "219",
+                "Average GPA": 3.443,
+                "Section Grade Dist": [
+                    57.5,
+                    13.7,
+                    13.7,
+                    4.6,
+                    5.5,
+                    2.7,
+                    2.3,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "002",
+                "Section Total": "201",
+                "Average GPA": 3.259,
+                "Section Grade Dist": [
+                    43.8,
+                    21.9,
+                    14.0,
+                    9.0,
+                    8.0,
+                    4.0,
+                    1.5,
+                    6.0,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "003",
+                "Section Total": "216",
+                "Average GPA": 3.648,
+                "Section Grade Dist": [
+                    68.1,
+                    15.7,
+                    6.0,
+                    4.6,
+                    3.7,
+                    0.5,
+                    1.4,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "004",
+                "Section Total": "214",
+                "Average GPA": 3.379,
+                "Section Grade Dist": [
+                    44.4,
+                    22.4,
+                    15.4,
+                    7.5,
+                    7.0,
+                    2.8,
+                    0.5,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "Number of Sections": 4
+    },
+    {
+        "Course Total": 949.0,
+        "Subject Designator": "COMP SCI",
+        "Subject Name": "COMPUTER SCIENCES",
+        "Course ID": "220",
+        "Grades Dists": [
+            41.1,
+            31.6,
+            18.3,
+            4.8,
+            1.7,
+            1.1,
+            1.1,
+            0.1
+        ],
+        "Average GPA": 3.477,
+        "Course Title": "Data Sci Programming I",
+        "Sections": [
+            {
+                "Section ID": "001",
+                "Section Total": "179",
+                "Average GPA": 3.578,
+                "Section Grade Dist": [
+                    45.8,
+                    34.6,
+                    13.4,
+                    3.9,
+                    1.1,
+                    1.1,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "002",
+                "Section Total": "180",
+                "Average GPA": 3.489,
+                "Section Grade Dist": [
+                    41.7,
+                    34.4,
+                    16.7,
+                    2.8,
+                    0.6,
+                    1.7,
+                    1.7,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    0.6,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "003",
+                "Section Total": "142",
+                "Average GPA": 3.342,
+                "Section Grade Dist": [
+                    36.6,
+                    23.2,
+                    24.6,
+                    9.9,
+                    3.5,
+                    0.7,
+                    1.4,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "004",
+                "Section Total": "178",
+                "Average GPA": 3.596,
+                "Section Grade Dist": [
+                    47.2,
+                    32.6,
+                    14.6,
+                    4.5,
+                    0.6,
+                    0.6,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "005",
+                "Section Total": "179",
+                "Average GPA": 3.447,
+                "Section Grade Dist": [
+                    34.6,
+                    35.2,
+                    21.0,
+                    2.0,
+                    5.6,
+                    1.7,
+                    null,
+                    1.1,
+                    0.6,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "006",
+                "Section Total": "91",
+                "Average GPA": 3.289,
+                "Section Grade Dist": [
+                    38.5,
+                    24.2,
+                    23.1,
+                    2.2,
+                    4.4,
+                    3.3,
+                    3.3,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "Number of Sections": 6
+    },
+    {
+        "Course Total": 312.0,
+        "Subject Designator": "COMP SCI",
+        "Subject Name": "COMPUTER SCIENCES",
+        "Course ID": "240",
+        "Grades Dists": [
+            28.5,
+            10.3,
+            34.9,
+            18.9,
+            5.1,
+            1.0,
+            1.3
+        ],
+        "Average GPA": 3.133,
+        "Course Title": "Intro to Discrete Mathematics",
+        "Sections": [
+            {
+                "Section ID": "001",
+                "Section Total": "122",
+                "Average GPA": 3.111,
+                "Section Grade Dist": [
+                    26.2,
+                    9.0,
+                    41.0,
+                    16.4,
+                    4.9,
+                    0.8,
+                    1.6,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "002",
+                "Section Total": "190",
+                "Average GPA": 3.147,
+                "Section Grade Dist": [
+                    30.0,
+                    11.1,
+                    31.1,
+                    20.5,
+                    5.3,
+                    1.1,
+                    1.1,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "Number of Sections": 2
+    },
+    {
+        "Course Total": 518.0,
+        "Subject Designator": "COMP SCI",
+        "Subject Name": "COMPUTER SCIENCES",
+        "Course ID": "252",
+        "Grades Dists": [
+            45.6,
+            15.1,
+            16.2,
+            9.5,
+            9.5,
+            2.3,
+            1.9
+        ],
+        "Average GPA": 3.285,
+        "Course Title": "Intro to Computer Engineering",
+        "Sections": [
+            {
+                "Section ID": "002",
+                "Section Total": "192",
+                "Average GPA": 3.247,
+                "Section Grade Dist": [
+                    43.2,
+                    17.2,
+                    15.1,
+                    10.4,
+                    8.9,
+                    2.6,
+                    2.6,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "004",
+                "Section Total": "187",
+                "Average GPA": 3.275,
+                "Section Grade Dist": [
+                    48.1,
+                    12.8,
+                    16.6,
+                    5.9,
+                    11.2,
+                    3.2,
+                    2.1,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "005",
+                "Section Total": "139",
+                "Average GPA": 3.349,
+                "Section Grade Dist": [
+                    45.3,
+                    15.1,
+                    17.0,
+                    3.0,
+                    12.9,
+                    7.9,
+                    0.7,
+                    0.7,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "Number of Sections": 3
+    },
+    {
+        "Course Total": 900.0,
+        "Subject Designator": "COMP SCI",
+        "Subject Name": "COMPUTER SCIENCES",
+        "Course ID": "300",
+        "Grades Dists": [
+            43.1,
+            27.1,
+            19.8,
+            4.9,
+            1.9,
+            1.6,
+            1.6
+        ],
+        "Average GPA": 3.446,
+        "Course Title": "Programming II",
+        "Sections": [
+            {
+                "Section ID": "001",
+                "Section Total": "183",
+                "Average GPA": 3.541,
+                "Section Grade Dist": [
+                    45.4,
+                    31.7,
+                    15.0,
+                    3.0,
+                    4.4,
+                    2.2,
+                    0.5,
+                    0.5,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "002",
+                "Section Total": "200",
+                "Average GPA": 3.49,
+                "Section Grade Dist": [
+                    50.0,
+                    23.5,
+                    18.0,
+                    3.5,
+                    1.5,
+                    1.0,
+                    2.5,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "003",
+                "Section Total": "194",
+                "Average GPA": 3.433,
+                "Section Grade Dist": [
+                    40.7,
+                    29.4,
+                    19.6,
+                    6.7,
+                    null,
+                    2.1,
+                    1.5,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "004",
+                "Section Total": "196",
+                "Average GPA": 3.411,
+                "Section Grade Dist": [
+                    39.3,
+                    25.5,
+                    26.0,
+                    3.6,
+                    3.6,
+                    0.5,
+                    1.5,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "005",
+                "Section Total": "127",
+                "Average GPA": 3.313,
+                "Section Grade Dist": [
+                    38.6,
+                    25.2,
+                    19.7,
+                    7.1,
+                    2.4,
+                    4.7,
+                    1.6,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "Number of Sections": 5
+    },
+    {
+        "Course Total": 86.0,
+        "Subject Designator": "COMP SCI",
+        "Subject Name": "COMPUTER SCIENCES",
+        "Course ID": "304",
+        "Grades Dists": [
+            83.7,
+            10.5,
+            2.3,
+            1.2,
+            2.3
+        ],
+        "Average GPA": 3.86,
+        "Course Title": "WES-CS Group Meeting",
+        "Sections": [
+            {
+                "Section ID": "001",
+                "Section Total": "10",
+                "Average GPA": 3.95,
+                "Section Grade Dist": [
+                    90.0,
+                    10.0,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "002",
+                "Section Total": "9",
+                "Average GPA": 3.944,
+                "Section Grade Dist": [
+                    88.9,
+                    11.1,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "003",
+                "Section Total": "10",
+                "Average GPA": 3.95,
+                "Section Grade Dist": [
+                    90.0,
+                    10.0,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "004",
+                "Section Total": "9",
+                "Average GPA": 4.0,
+                "Section Grade Dist": [
+                    100.0,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "005",
+                "Section Total": "9",
+                "Average GPA": 4.0,
+                "Section Grade Dist": [
+                    100.0,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "006",
+                "Section Total": "10",
+                "Average GPA": 3.4,
+                "Section Grade Dist": [
+                    30.0,
+                    40.0,
+                    20.0,
+                    null,
+                    10.0,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "007",
+                "Section Total": "9",
+                "Average GPA": 3.722,
+                "Section Grade Dist": [
+                    77.8,
+                    11.1,
+                    null,
+                    null,
+                    11.1,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "008",
+                "Section Total": "11",
+                "Average GPA": 3.955,
+                "Section Grade Dist": [
+                    90.9,
+                    9.1,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "009",
+                "Section Total": "9",
+                "Average GPA": 3.833,
+                "Section Grade Dist": [
+                    88.9,
+                    null,
+                    null,
+                    11.1,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "Number of Sections": 9
+    },
+    {
+        "Course Total": 44.0,
+        "Subject Designator": "COMP SCI",
+        "Subject Name": "COMPUTER SCIENCES",
+        "Course ID": "1232",
+        "Grades Dists": [
+            59.1,
+            36.4
+        ],
+        "Average GPA": 3.81,
+        "Course Title": "Data Sci Prgmg I - Research",
+        "Sections": [],
+        "Number of Sections": 0
+    },
+    {
+        "Course Total": 413.0,
+        "Subject Designator": "COMP SCI",
+        "Subject Name": "COMPUTER SCIENCES",
+        "Course ID": "320",
+        "Grades Dists": [
+            24.2,
+            32.4,
+            31.0,
+            6.3,
+            2.4,
+            0.7,
+            2.4,
+            0.2
+        ],
+        "Average GPA": 3.263,
+        "Course Title": "Data Sci Programming II",
+        "Sections": [
+            {
+                "Section ID": "001",
+                "Section Total": "214",
+                "Average GPA": 3.164,
+                "Section Grade Dist": [
+                    18.2,
+                    34.6,
+                    33.0,
+                    2.0,
+                    6.5,
+                    2.3,
+                    0.5,
+                    4.2,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    0.5,
+                    null
+                ]
+            },
+            {
+                "Section ID": "002",
+                "Section Total": "199",
+                "Average GPA": 3.369,
+                "Section Grade Dist": [
+                    30.7,
+                    30.2,
+                    28.6,
+                    6.0,
+                    2.5,
+                    1.0,
+                    0.5,
+                    0.5,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "Number of Sections": 2
+    },
+    {
+        "Course Total": 383.0,
+        "Subject Designator": "COMP SCI",
+        "Subject Name": "COMPUTER SCIENCES",
+        "Course ID": "354",
+        "Grades Dists": [
+            19.8,
+            23.0,
+            36.0,
+            12.0,
+            5.7,
+            1.3,
+            1.8
+        ],
+        "Average GPA": 3.115,
+        "Course Title": "Machine Organizatn&Progrmng",
+        "Sections": [
+            {
+                "Section ID": "001",
+                "Section Total": "177",
+                "Average GPA": 3.068,
+                "Section Grade Dist": [
+                    18.1,
+                    23.7,
+                    34.5,
+                    12.4,
+                    6.8,
+                    1.7,
+                    2.3,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    0.6,
+                    null
+                ]
+            },
+            {
+                "Section ID": "002",
+                "Section Total": "206",
+                "Average GPA": 3.155,
+                "Section Grade Dist": [
+                    21.4,
+                    22.3,
+                    37.4,
+                    11.7,
+                    4.9,
+                    1.0,
+                    1.5,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "Number of Sections": 2
+    },
+    {
+        "Course Total": 654.0,
+        "Subject Designator": "COMP SCI",
+        "Subject Name": "COMPUTER SCIENCES",
+        "Course ID": "400",
+        "Grades Dists": [
+            32.4,
+            25.7,
+            29.1,
+            7.2,
+            2.1,
+            2.8,
+            0.6
+        ],
+        "Average GPA": 3.322,
+        "Course Title": "Programming III",
+        "Sections": [
+            {
+                "Section ID": "001",
+                "Section Total": "190",
+                "Average GPA": 3.384,
+                "Section Grade Dist": [
+                    36.3,
+                    19.5,
+                    36.8,
+                    3.7,
+                    1.6,
+                    2.1,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "002",
+                "Section Total": "190",
+                "Average GPA": 3.297,
+                "Section Grade Dist": [
+                    30.5,
+                    32.6,
+                    22.1,
+                    7.9,
+                    2.1,
+                    3.2,
+                    1.6,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "003",
+                "Section Total": "231",
+                "Average GPA": 3.257,
+                "Section Grade Dist": [
+                    29.0,
+                    23.4,
+                    30.0,
+                    3.0,
+                    10.4,
+                    3.0,
+                    3.5,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "010",
+                "Section Total": "43",
+                "Average GPA": 3.512,
+                "Section Grade Dist": [
+                    41.9,
+                    34.9,
+                    18.6,
+                    2.3,
+                    null,
+                    null,
+                    2.3,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "Number of Sections": 4
+    },
+    {
+        "Course Total": 58.0,
+        "Subject Designator": "COMP SCI",
+        "Subject Name": "COMPUTER SCIENCES",
+        "Course ID": "475",
+        "Grades Dists": [
+            36.2,
+            8.6,
+            25.9,
+            3.4,
+            19.0,
+            5.2,
+            1.7
+        ],
+        "Average GPA": 3.043,
+        "Course Title": "Intro-Combinatorics",
+        "Sections": [
+            {
+                "Section ID": "001",
+                "Section Total": "19",
+                "Average GPA": 3.0,
+                "Section Grade Dist": [
+                    26.3,
+                    10.5,
+                    36.8,
+                    null,
+                    21.1,
+                    5.3,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "002",
+                "Section Total": "17",
+                "Average GPA": 3.265,
+                "Section Grade Dist": [
+                    52.9,
+                    5.9,
+                    17.6,
+                    null,
+                    17.6,
+                    5.9,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "003",
+                "Section Total": "22",
+                "Average GPA": 2.909,
+                "Section Grade Dist": [
+                    31.8,
+                    9.1,
+                    22.7,
+                    9.1,
+                    18.2,
+                    4.5,
+                    4.5,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "Number of Sections": 3
+    },
+    {
+        "Course Total": 121.0,
+        "Subject Designator": "COMP SCI",
+        "Subject Name": "COMPUTER SCIENCES",
+        "Course ID": "506",
+        "Grades Dists": [
+            70.2,
+            18.2,
+            5.0,
+            2.5,
+            2.5,
+            1.7
+        ],
+        "Average GPA": 3.723,
+        "Course Title": "Software Engineering",
+        "Sections": [
+            {
+                "Section ID": "001",
+                "Section Total": "61",
+                "Average GPA": 3.77,
+                "Section Grade Dist": [
+                    68.9,
+                    21.3,
+                    6.6,
+                    1.6,
+                    1.6,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "002",
+                "Section Total": "60",
+                "Average GPA": 3.675,
+                "Section Grade Dist": [
+                    71.7,
+                    15.0,
+                    3.0,
+                    3.0,
+                    3.3,
+                    3.3,
+                    3.3,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "Number of Sections": 2
+    },
+    {
+        "Course Total": 77.0,
+        "Subject Designator": "COMP SCI",
+        "Subject Name": "COMPUTER SCIENCES",
+        "Course ID": "532",
+        "Grades Dists": [
+            54.5,
+            24.7,
+            10.4,
+            7.8,
+            2.6
+        ],
+        "Average GPA": 3.604,
+        "Course Title": "Mtrx Mthds in Machine Learning",
+        "Sections": [
+            {
+                "Section ID": "001",
+                "Section Total": "56",
+                "Average GPA": 3.491,
+                "Section Grade Dist": [
+                    42.9,
+                    30.4,
+                    12.5,
+                    10.7,
+                    3.6,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "002",
+                "Section Total": "21",
+                "Average GPA": 3.905,
+                "Section Grade Dist": [
+                    85.7,
+                    9.5,
+                    4.8,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "Number of Sections": 2
+    },
+    {
+        "Course Total": 407.0,
+        "Subject Designator": "COMP SCI",
+        "Subject Name": "COMPUTER SCIENCES",
+        "Course ID": "537",
+        "Grades Dists": [
+            49.9,
+            30.2,
+            13.0,
+            3.7,
+            1.5
+        ],
+        "Average GPA": 3.583,
+        "Course Title": "Intro to Operating Systems",
+        "Sections": [
+            {
+                "Section ID": "001",
+                "Section Total": "306",
+                "Average GPA": 3.6,
+                "Section Grade Dist": [
+                    49.3,
+                    30.4,
+                    14.1,
+                    3.9,
+                    1.0,
+                    null,
+                    0.7,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    0.7,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "002",
+                "Section Total": "101",
+                "Average GPA": 3.53,
+                "Section Grade Dist": [
+                    51.5,
+                    29.7,
+                    9.9,
+                    3.0,
+                    3.0,
+                    null,
+                    3.0,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "Number of Sections": 2
+    },
+    {
+        "Course Total": 493.0,
+        "Subject Designator": "COMP SCI",
+        "Subject Name": "COMPUTER SCIENCES",
+        "Course ID": "540",
+        "Grades Dists": [
+            40.8,
+            26.2,
+            24.5,
+            3.2,
+            3.2,
+            0.6,
+            1.2,
+            0.2
+        ],
+        "Average GPA": 3.442,
+        "Course Title": "Intro-Artificl Intelligence",
+        "Sections": [
+            {
+                "Section ID": "001",
+                "Section Total": "160",
+                "Average GPA": 3.359,
+                "Section Grade Dist": [
+                    38.1,
+                    23.8,
+                    27.5,
+                    4.4,
+                    3.1,
+                    0.6,
+                    2.5,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "002",
+                "Section Total": "166",
+                "Average GPA": 3.524,
+                "Section Grade Dist": [
+                    48.8,
+                    25.3,
+                    18.7,
+                    2.4,
+                    3.0,
+                    0.6,
+                    1.2,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "003",
+                "Section Total": "167",
+                "Average GPA": 3.44,
+                "Section Grade Dist": [
+                    35.3,
+                    29.3,
+                    27.5,
+                    3.0,
+                    3.6,
+                    0.6,
+                    null,
+                    0.6,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "Number of Sections": 3
+    },
+    {
+        "Course Total": 296.0,
+        "Subject Designator": "COMP SCI",
+        "Subject Name": "COMPUTER SCIENCES",
+        "Course ID": "564",
+        "Grades Dists": [
+            32.4,
+            26.7,
+            20.9,
+            8.4,
+            9.5,
+            1.0,
+            1.0
+        ],
+        "Average GPA": 3.27,
+        "Course Title": "Database Mgt Systems",
+        "Sections": [
+            {
+                "Section ID": "001",
+                "Section Total": "140",
+                "Average GPA": 3.054,
+                "Section Grade Dist": [
+                    28.6,
+                    19.3,
+                    17.0,
+                    9.0,
+                    12.9,
+                    17.9,
+                    2.1,
+                    1.4,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "002",
+                "Section Total": "156",
+                "Average GPA": 3.465,
+                "Section Grade Dist": [
+                    35.9,
+                    33.3,
+                    23.7,
+                    4.5,
+                    1.9,
+                    null,
+                    0.6,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "Number of Sections": 2
+    },
+    {
+        "Course Total": 525.0,
+        "Subject Designator": "COMP SCI",
+        "Subject Name": "COMPUTER SCIENCES",
+        "Course ID": "577",
+        "Grades Dists": [
+            19.6,
+            13.5,
+            45.7,
+            13.3,
+            5.3,
+            1.3,
+            1.1
+        ],
+        "Average GPA": 3.083,
+        "Course Title": "Introduction to Algorithms",
+        "Sections": [
+            {
+                "Section ID": "001",
+                "Section Total": "238",
+                "Average GPA": 3.002,
+                "Section Grade Dist": [
+                    15.5,
+                    13.9,
+                    47.5,
+                    14.3,
+                    4.6,
+                    2.1,
+                    2.1,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "002",
+                "Section Total": "242",
+                "Average GPA": 3.033,
+                "Section Grade Dist": [
+                    14.9,
+                    11.6,
+                    50.4,
+                    14.9,
+                    7.0,
+                    0.8,
+                    0.4,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "003",
+                "Section Total": "45",
+                "Average GPA": 3.778,
+                "Section Grade Dist": [
+                    66.7,
+                    22.2,
+                    11.1,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "Number of Sections": 3
+    },
+    {
+        "Course Total": 35.0,
+        "Subject Designator": "COMP SCI",
+        "Subject Name": "COMPUTER SCIENCES",
+        "Course ID": "638",
+        "Grades Dists": [
+            82.9,
+            5.7,
+            5.7,
+            2.9,
+            2.9
+        ],
+        "Average GPA": 3.814,
+        "Course Title": "Undergrad Topics-Computing",
+        "Sections": [
+            {
+                "Section ID": "001",
+                "Section Total": "7",
+                "Average GPA": 3.929,
+                "Section Grade Dist": [
+                    85.7,
+                    14.3,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "002",
+                "Section Total": "10",
+                "Average GPA": 3.85,
+                "Section Grade Dist": [
+                    90.0,
+                    null,
+                    null,
+                    10.0,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "003",
+                "Section Total": "10",
+                "Average GPA": 3.9,
+                "Section Grade Dist": [
+                    90.0,
+                    null,
+                    10.0,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "004",
+                "Section Total": "8",
+                "Average GPA": 3.563,
+                "Section Grade Dist": [
+                    62.5,
+                    12.5,
+                    12.5,
+                    null,
+                    12.5,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "Number of Sections": 4
+    },
+    {
+        "Course Total": 175.0,
+        "Subject Designator": "COMP SCI",
+        "Subject Name": "COMPUTER SCIENCES",
+        "Course ID": "639",
+        "Grades Dists": [
+            74.9,
+            14.3,
+            5.7,
+            3.4,
+            1.1
+        ],
+        "Average GPA": 3.796,
+        "Course Title": "UG Elective Topic in Computing",
+        "Sections": [
+            {
+                "Section ID": "001",
+                "Section Total": "82",
+                "Average GPA": 3.691,
+                "Section Grade Dist": [
+                    64.6,
+                    17.1,
+                    8.5,
+                    7.3,
+                    1.2,
+                    null,
+                    null,
+                    1.2,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "002",
+                "Section Total": "93",
+                "Average GPA": 3.887,
+                "Section Grade Dist": [
+                    83.9,
+                    11.8,
+                    3.0,
+                    2.0,
+                    null,
+                    1.1,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "Number of Sections": 2
+    },
+    {
+        "Course Total": 13.0,
+        "Subject Designator": "COMP SCI",
+        "Subject Name": "COMPUTER SCIENCES",
+        "Course ID": "681",
+        "Grades Dists": [],
+        "Average GPA": 0.0,
+        "Course Title": "Senior Honors Thesis",
+        "Sections": [],
+        "Number of Sections": 0
+    },
+    {
+        "Course Total": 33.0,
+        "Subject Designator": "COMP SCI",
+        "Subject Name": "COMPUTER SCIENCES",
+        "Course ID": "699",
+        "Grades Dists": [
+            93.9,
+            6.1
+        ],
+        "Average GPA": 3.969,
+        "Course Title": "Directed Study",
+        "Sections": [
+            {
+                "Section ID": "029",
+                "Section Total": "7",
+                "Average GPA": 4.0,
+                "Section Grade Dist": [
+                    100.0,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "Number of Sections": 1
+    },
+    {
+        "Course Total": 63.0,
+        "Subject Designator": "COMP SCI",
+        "Subject Name": "COMPUTER SCIENCES",
+        "Course ID": "839",
+        "Grades Dists": [
+            74.6,
+            19.0,
+            3.2
+        ],
+        "Average GPA": 3.869,
+        "Course Title": "Core Topics in Computing",
+        "Sections": [
+            {
+                "Section ID": "001",
+                "Section Total": "21",
+                "Average GPA": 3.825,
+                "Section Grade Dist": [
+                    71.4,
+                    14.3,
+                    9.5,
+                    null,
+                    null,
+                    null,
+                    null,
+                    4.8,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "002",
+                "Section Total": "42",
+                "Average GPA": 3.89,
+                "Section Grade Dist": [
+                    76.2,
+                    21.4,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    2.4,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "Number of Sections": 2
+    },
+    {
+        "Course Total": 1715.0,
+        "Subject Designator": "ECON",
+        "Subject Name": "ECONOMICS",
+        "Course ID": "101",
+        "Grades Dists": [
+            33.1,
+            26.2,
+            20.2,
+            8.8,
+            7.8,
+            3.0,
+            0.8,
+            0.1
+        ],
+        "Average GPA": 3.256,
+        "Course Title": "Principles-Microeconomics",
+        "Sections": [
+            {
+                "Section ID": "001",
+                "Section Total": "420",
+                "Average GPA": 3.041,
+                "Section Grade Dist": [
+                    20.0,
+                    32.6,
+                    14.8,
+                    14.0,
+                    12.1,
+                    5.5,
+                    0.7,
+                    0.2,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "002",
+                "Section Total": "429",
+                "Average GPA": 3.409,
+                "Section Grade Dist": [
+                    43.8,
+                    24.7,
+                    18.0,
+                    2.0,
+                    4.4,
+                    5.4,
+                    2.8,
+                    0.7,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "003",
+                "Section Total": "429",
+                "Average GPA": 3.449,
+                "Section Grade Dist": [
+                    46.9,
+                    22.6,
+                    17.0,
+                    5.4,
+                    5.6,
+                    1.9,
+                    0.5,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    0.2
+                ]
+            },
+            {
+                "Section ID": "004",
+                "Section Total": "428",
+                "Average GPA": 3.133,
+                "Section Grade Dist": [
+                    21.5,
+                    25.2,
+                    30.8,
+                    11.2,
+                    7.9,
+                    1.9,
+                    1.2,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    0.2
+                ]
+            },
+            {
+                "Section ID": "005",
+                "Section Total": "9",
+                "Average GPA": 2.722,
+                "Section Grade Dist": [
+                    22.2,
+                    11.1,
+                    22.0,
+                    2.0,
+                    22.2,
+                    11.1,
+                    null,
+                    11.1,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "Number of Sections": 5
+    },
+    {
+        "Course Total": 741.0,
+        "Subject Designator": "ECON",
+        "Subject Name": "ECONOMICS",
+        "Course ID": "102",
+        "Grades Dists": [
+            19.8,
+            21.6,
+            24.3,
+            21.7,
+            11.2,
+            1.2,
+            0.1
+        ],
+        "Average GPA": 3.057,
+        "Course Title": "Principles-Macroeconomics",
+        "Sections": [
+            {
+                "Section ID": "001",
+                "Section Total": "173",
+                "Average GPA": 2.948,
+                "Section Grade Dist": [
+                    15.6,
+                    23.1,
+                    17.0,
+                    3.0,
+                    28.9,
+                    12.1,
+                    2.9,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "002",
+                "Section Total": "331",
+                "Average GPA": 3.095,
+                "Section Grade Dist": [
+                    18.7,
+                    23.0,
+                    27.8,
+                    21.5,
+                    8.5,
+                    0.3,
+                    0.3,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "003",
+                "Section Total": "237",
+                "Average GPA": 3.084,
+                "Section Grade Dist": [
+                    24.5,
+                    18.6,
+                    24.5,
+                    16.9,
+                    14.3,
+                    1.3,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "Number of Sections": 3
+    },
+    {
+        "Course Total": 31.0,
+        "Subject Designator": "ECON",
+        "Subject Name": "ECONOMICS",
+        "Course ID": "300",
+        "Grades Dists": [
+            12.9,
+            22.6,
+            6.5,
+            16.1,
+            16.1,
+            16.1,
+            9.7
+        ],
+        "Average GPA": 2.387,
+        "Course Title": "Introduction to Finance",
+        "Sections": [
+            {
+                "Section ID": "001",
+                "Section Total": "16",
+                "Average GPA": 2.5,
+                "Section Grade Dist": [
+                    6.3,
+                    31.3,
+                    6.0,
+                    3.0,
+                    18.8,
+                    18.8,
+                    12.5,
+                    6.3,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "004",
+                "Section Total": "6",
+                "Average GPA": 2.25,
+                "Section Grade Dist": [
+                    33.3,
+                    null,
+                    null,
+                    16.7,
+                    16.7,
+                    16.7,
+                    16.7,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "Number of Sections": 2
+    },
+    {
+        "Course Total": 434.0,
+        "Subject Designator": "ECON",
+        "Subject Name": "ECONOMICS",
+        "Course ID": "301",
+        "Grades Dists": [
+            23.0,
+            18.0,
+            29.0,
+            16.8,
+            9.2,
+            1.6,
+            2.1
+        ],
+        "Average GPA": 3.05,
+        "Course Title": "Intmed Microeconomic Theory",
+        "Sections": [
+            {
+                "Section ID": "001",
+                "Section Total": "185",
+                "Average GPA": 2.813,
+                "Section Grade Dist": [
+                    18.4,
+                    13.0,
+                    22.7,
+                    22.2,
+                    16.8,
+                    3.8,
+                    2.7,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "002",
+                "Section Total": "249",
+                "Average GPA": 3.225,
+                "Section Grade Dist": [
+                    26.5,
+                    21.7,
+                    33.7,
+                    12.9,
+                    3.6,
+                    null,
+                    1.6,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "Number of Sections": 2
+    },
+    {
+        "Course Total": 327.0,
+        "Subject Designator": "ECON",
+        "Subject Name": "ECONOMICS",
+        "Course ID": "302",
+        "Grades Dists": [
+            26.6,
+            30.6,
+            28.7,
+            7.3,
+            3.7,
+            1.8,
+            0.9
+        ],
+        "Average GPA": 3.282,
+        "Course Title": "Intmed Macroeconomic Theory",
+        "Sections": [
+            {
+                "Section ID": "001",
+                "Section Total": "188",
+                "Average GPA": 3.5,
+                "Section Grade Dist": [
+                    37.8,
+                    29.3,
+                    30.0,
+                    9.0,
+                    1.6,
+                    null,
+                    null,
+                    0.5,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "002",
+                "Section Total": "139",
+                "Average GPA": 2.986,
+                "Section Grade Dist": [
+                    11.5,
+                    32.4,
+                    25.0,
+                    9.0,
+                    15.1,
+                    8.6,
+                    4.3,
+                    1.4,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "Number of Sections": 2
+    },
+    {
+        "Course Total": 279.0,
+        "Subject Designator": "ECON",
+        "Subject Name": "ECONOMICS",
+        "Course ID": "310",
+        "Grades Dists": [
+            24.7,
+            19.4,
+            22.6,
+            15.4,
+            12.9,
+            3.6,
+            1.4
+        ],
+        "Average GPA": 3.023,
+        "Course Title": "Stats:Measrmnt in Economics",
+        "Sections": [
+            {
+                "Section ID": "001",
+                "Section Total": "128",
+                "Average GPA": 3.07,
+                "Section Grade Dist": [
+                    26.6,
+                    20.3,
+                    25.0,
+                    15.6,
+                    6.3,
+                    3.1,
+                    3.1,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            {
+                "Section ID": "002",
+                "Section Total": "151",
+                "Average GPA": 2.983,
+                "Section Grade Dist": [
+                    23.2,
+                    18.5,
+                    20.5,
+                    15.2,
+                    18.5,
+                    4.0,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            }
+        ],
+        "Number of Sections": 2
+    },
+    {
+        "Course Total": 6.0,
+        "Subject Designator": "ECON",
+        "Subject Name": "ECONOMICS",
+        "Course ID": "320",
+        "Grades Dists": [],
+        "Average GPA": 3.0,
+        "Course Title": "Investment Theory",
+        "Sections": [],
+        "Number of Sections": 0
+    }
+]

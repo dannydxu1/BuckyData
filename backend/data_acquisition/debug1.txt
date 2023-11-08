@@ -1,0 +1,43 @@
+course title: Directed Study
+course title: Smr-Radio-Tv-Film
+CURRENT SUBJECT DESIGNATOR:COM ARTS
+course title: Directed Study
+course title: Practicum in Com Disorders
+course title: Independent Study
+course title: Clerkship in Audiology I
+course title: Clerkship in Audiology II
+course title: Capstone Study in Audiology
+course title: Independent Studies
+CURRENT SUBJECT DESIGNATOR:CS&D
+course title: Intro Cross-Cultrl Lit Form
+CURRENT SUBJECT DESIGNATOR:COMP LIT
+course title: Programming I
+course title: Data Sci Programming I
+course title: Intro to Discrete Mathematics
+course title: Intro to Computer Engineering
+course title: Programming II
+course title: WES-CS Group Meeting
+course title: Data Sci Prgmg I - Research
+course title: Data Sci Programming II
+course title: Machine Organizatn&Progrmng
+course title: Programming III
+course title: Intro-Combinatorics
+course title: Software Engineering
+course title: Mtrx Mthds in Machine Learning
+course title: Intro to Operating Systems
+course title: Intro-Artificl Intelligence
+course title: Database Mgt Systems
+course title: Introduction to Algorithms
+course title: Undergrad Topics-Computing
+course title: UG Elective Topic in Computing
+course title: Senior Honors Thesis
+course title: Directed Study
+course title: Core Topics in Computing
+CURRENT SUBJECT DESIGNATOR:COMP SCI
+course title: Principles-Microeconomics
+course title: Principles-Macroeconomics
+course title: Introduction to Finance
+course title: Intmed Microeconomic Theory
+course title: Intmed Macroeconomic Theory
+course title: Stats:Measrmnt in Economics
+course title: Investment Theory

@@ -2,23 +2,27 @@ import json
 import re
 from PyPDF2 import PdfReader
 
+
 def extract_text_from_pdf(pdf_path):
     reader = PdfReader(pdf_path)
     text = ""
     for page_number, page in enumerate(reader.pages):
         page_text = page.extract_text() 
         # print(f"--- Start of Page {page_number + 1} ---")  # Print the start of a new page
-        # for line in page_text.split('\n'):
-            # print(line)  # Print each line extracted from the page
+        for line in page_text.split('\n'):
+             print(line)  # Print each line extracted from the page
         text += page_text + "\n"  # Appends text from each page with a newline for separation
         # print(f"--- End of Page {page_number + 1} ---\n")  # Print the end of the current page
     return text
 
 def parse_text_to_data(text):
+    
     data = []
     current_subject_designator = ""
     lines = text.split('\n')
+    line_num = 0
     for line in lines:
+        line_num += 1
         # print(line)
         # This regex separates the course total numbers, GPA-like number, and course title
         match = re.match(r'^Course Total\s+(\d+(?:\s+\d+|\.\d+)*)(.*?)\s(\d+\.\d{3})\s+([A-Z].*)$', line)
@@ -81,7 +85,7 @@ def main(pdf_path, output_path):
     save_to_json(data, output_path)
 
 if __name__ == "__main__":
-    pdf_path = 'fall23.pdf'
+    pdf_path = 'fall23_md.pdf'
     # pdf_path = 'fall23.pdf'
     output_path = 'simple.json'  # Update with your desired output path
     main(pdf_path, output_path)
